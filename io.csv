@@ -14,7 +14,7 @@ coordinate.io,resell,108,80%,10,"Business,Education,Technology",30/12/2018 10:24
 upstart.io,resell,106,76%,7,"Business,Media,Technology",07/08/2014 02:10,07/08/2026 02:10,Dynadot Inc
 hear.io,resell,106,80%,4,"Education,General,Healthcare,Media",20/11/2023 12:16,20/11/2025 12:16,"GoDaddy.com, LLC"
 Uber.io,resell,106,80%,4,"Business,Technology,Transportation",28/10/2019 14:30,28/10/2025 14:30,"GoDaddy.com, LLC"
-option.io,resell,104,76%,6,"Finance,General",01/02/2013 18:06,01/02/2026 18:06,Dynadot Inc
+option.io,resell,104,32%,6,"Finance,General",01/02/2013 18:06,01/02/2026 18:06,Dynadot Inc
 nosh.io,resell,104,84%,4,"Food and Beverage,Hospitality",24/05/2015 00:30,24/05/2026 00:30,"GoDaddy.com, LLC"
 today.io,resell,104,88%,5,"Business,Media,Technology",07/08/2009 21:47,07/08/2026 21:47,"NameCheap, Inc."
 paperback.io,resell,104,84%,9,Media,30/01/2020 14:30,30/01/2026 14:30,"Sav.com, LLC"
@@ -113,10 +113,10 @@ judas.io,expiring,90,80%,5,Religion,28/07/2020 20:12,28/07/2025 20:12,Dynadot In
 GodSavetheQueen.io,available,90,24%,18,"General,Politics",,,
 crust.io,expiring,88,84%,5,"Environment,Food and Beverage,Science",04/08/2016 19:36,04/08/2025 19:36,"GoDaddy.com, LLC"
 bash.io,resell,88,76%,4,Entertainment,11/01/2023 17:15,11/01/2026 17:15,Dynadot Inc
-beguiling.io,available,88,76%,9,"Fashion,Retail",,,
+beguiling.io,available,88,16%,9,"Fashion,Retail",,,
 columbus.io,expiring,88,72%,8,"Geography,Travel",20/07/2017 15:48,20/07/2025 15:48,"GoDaddy.com, LLC"
 tripod.io,resell,88,84%,6,"Media,Technology",07/07/2015 00:30,06/10/2026 00:30,"GoDaddy.com, LLC"
-alluring.io,resell,88,76%,8,"Fashion,Retail",21/12/2019 00:17,21/12/2025 00:17,"Sav.com, LLC"
+alluring.io,resell,88,20%,8,"Fashion,Retail",21/12/2019 00:17,21/12/2025 00:17,"Sav.com, LLC"
 collocate.io,available,88,72%,9,"Business,Education,Technology",,,
 fiberglass.io,expiring,88,76%,10,"Automotive,Construction,Manufacturing",14/07/2019 17:26,14/07/2025 17:26,"Sav.com, LLC"
 hush.io,resell,88,84%,4,"Arts,Entertainment,Media",18/09/2012 06:34,18/09/2025 06:34,"GoDaddy.com, LLC"
@@ -136,7 +136,7 @@ takeout.io,expiring,88,72%,7,"Food and Beverage,Hospitality,Retail",17/04/2012 1
 refined.io,resell,88,80%,7,"Arts,Fashion,Food and Beverage",08/06/2017 00:30,08/06/2026 00:30,"GoDaddy.com, LLC"
 feet.io,available,88,84%,4,General,,,
 chrome.io,resell,88,84%,6,"Automotive,Fashion,Technology",26/08/2011 18:09,26/08/2025 18:09,Dynadot Inc
-enticing.io,available,88,76%,8,"Fashion,Retail",,,
+enticing.io,available,88,8%,8,"Fashion,Retail",,,
 doowop.io,available,86,72%,7,"Entertainment,Media",,,
 raft.io,resell,86,84%,4,"Entertainment,Sports,Travel",24/06/2018 10:08,24/06/2026 10:08,Porkbun LLC
 cousin.io,resell,86,72%,6,"Humanities,Media",28/03/2015 18:02,28/03/2026 18:02,"Sav.com, LLC"
@@ -151,7 +151,7 @@ budding.io,resell,86,72%,7,"Agriculture,Business,Environment",11/05/2025 21:20,1
 dimension.io,resell,86,80%,9,"Education,Science,Technology",19/04/2013 01:21,19/07/2026 00:30,"GoDaddy.com, LLC"
 merchandise.io,expiring,86,76%,11,"Business,Retail",27/07/2019 10:11,27/07/2025 10:11,"Sav.com, LLC"
 recondite.io,available,86,32%,9,"Arts,Humanities,Science",,,
-frog.io,resell,86,84%,4,"Education,Environment,Media",05/11/2013 16:30,05/11/2026 16:30,"GoDaddy.com, LLC"
+frog.io,resell,86,60%,4,"Education,Environment,Media",05/11/2013 16:30,05/11/2026 16:30,"GoDaddy.com, LLC"
 fondle.io,available,86,76%,6,"Arts,Healthcare,Media",,,
 ravishing.io,available,86,76%,9,"Arts,Fashion,Media",,,
 bigmood.io,available,86,80%,8,"Entertainment,Media",,,
@@ -530,7 +530,7 @@ piano.io,expiring,74,88%,5,Arts,04/08/2013 06:50,04/08/2025 06:50,"GoDaddy.com, 
 phd.io,resell,74,84%,3,Education,26/04/2015 00:30,26/04/2026 00:30,"GoDaddy.com, LLC"
 outboard.io,expiring,74,84%,8,"Automotive,Engineering,Transportation",08/07/2014 10:45,08/07/2025 10:45,Porkbun LLC
 khakis.io,available,74,76%,6,"Fashion,Military,Retail",,,
-alterative.io,available,74,72%,10,Healthcare,,,
+alterative.io,available,74,4%,10,Healthcare,,,
 tropic.io,available,74,76%,6,"Environment,Food and Beverage,Travel",,,
 supervise.io,resell,74,84%,9,"Business,Education,Technology",11/11/2020 14:31,11/11/2025 14:31,"GoDaddy.com, LLC"
 breathefreely.io,available,74,76%,14,General,,,
@@ -579,7 +579,7 @@ Osloite.io,available,74,72%,7,"Geography,Travel",,,
 muffincup.io,available,74,72%,10,"Food and Beverage,Hospitality,Retail",,,
 margheritapizza.io,available,74,72%,16,Food and Beverage,,,
 regiment.io,resell,74,80%,8,"Military,Politics",11/06/2017 14:19,11/06/2026 14:19,"NameSilo, LLC"
-antiguan.io,available,74,72%,8,"Geography,Travel",,,
+antiguan.io,available,74,8%,8,"Geography,Travel",,,
 motormouth.io,sold,74,76%,10,"Arts,Entertainment,Media",03/08/2021 20:49,03/08/2027 20:49,Key-Systems GmbH
 forebear.io,resell,74,72%,8,Humanities,31/03/2019 03:57,31/03/2026 03:57,Dynadot Inc
 aerobic.io,resell,74,36%,7,Health and Fitness,12/02/2019 10:08,12/02/2026 10:08,"GoDaddy.com, LLC"
@@ -599,7 +599,7 @@ maternityhospital.io,available,74,72%,18,"Healthcare,Medicine,Real Estate",,,
 valued.io,resell,74,76%,6,"Business,Finance,Retail",19/01/2015 19:55,19/01/2026 19:55,"GoDaddy.com, LLC"
 storehouse.io,resell,74,80%,10,"Business,Manufacturing,Retail",18/05/2019 15:14,18/05/2026 15:14,"GoDaddy.com, LLC"
 rhizoid.io,available,74,76%,7,"Agriculture,Environment,Science",,,
-antiknock.io,available,74,72%,9,"Automotive,Engineering",,,
+antiknock.io,available,74,12%,9,"Automotive,Engineering",,,
 leisurely.io,resell,74,80%,9,"Health and Fitness,Hospitality,Travel",27/02/2018 18:26,27/02/2026 18:26,"GoDaddy.com, LLC"
 libra.io,resell,74,96%,5,"Business,Finance,Media",20/11/2015 00:30,20/11/2025 00:30,"GoDaddy.com, LLC"
 leavenocrumbs.io,available,74,72%,15,Food and Beverage,,,
@@ -666,17 +666,17 @@ photoartist.io,available,72,72%,12,"Arts,Entertainment,Media",,,
 Tanganyikan.io,available,72,72%,11,"Environment,Geography,Politics",,,
 dineanddash.io,available,72,76%,13,"Food and Beverage,Hospitality,Retail",,,
 pregnancytest.io,available,72,72%,14,"Healthcare,Pharmaceuticals,Retail",,,
-animating.io,expiring,72,80%,9,"Arts,Entertainment,Media",20/07/2023 15:16,20/07/2025 15:16,"NameCheap, Inc."
+animating.io,resell,72,8%,9,"Arts,Entertainment,Media",20/07/2023 15:16,20/07/2026 15:16,"NameCheap, Inc."
 Irishstepdancing.io,available,72,8%,18,Arts,,,
 tights.io,resell,72,76%,6,"Fashion,Retail,Sports",26/08/2017 13:00,26/08/2025 13:00,Porkbun LLC
 havereason.io,available,72,72%,11,General,,,
-arabian.io,resell,72,80%,7,"Hospitality,Travel",12/03/2019 10:09,12/03/2026 10:09,"Sav.com, LLC"
+arabian.io,resell,72,16%,7,"Hospitality,Travel",12/03/2019 10:09,12/03/2026 10:09,"Sav.com, LLC"
 balinese.io,available,72,76%,8,"Arts,Travel",,,
 cuttherug.io,available,72,72%,11,Entertainment,,,
 enlisted.io,sold,72,76%,8,Military,28/02/2023 18:10,28/02/2026 18:10,Gandi SAS
 coverthebases.io,available,72,72%,15,"Business,General,Sports",,,
 besides.io,resell,72,72%,7,"Business,Media,Technology",29/11/2019 08:49,29/11/2025 08:49,Dynadot Inc
-amorous.io,available,72,84%,7,Humanities,,,
+amorous.io,available,72,28%,7,Humanities,,,
 fisheating.io,available,72,72%,11,Food and Beverage,,,
 transnational.io,expiring,72,72%,13,"Business,Law,Politics",19/07/2021 14:31,19/07/2025 14:31,"Sav.com, LLC"
 considering.io,available,72,84%,11,"Business,Education,Media",,,
@@ -735,7 +735,7 @@ makeflexible.io,available,72,72%,13,"Business,Education,Technology",,,
 legend.io,resell,72,92%,6,"Entertainment,Media",24/04/2018 10:10,24/04/2026 10:10,Dynadot Inc
 goodhumour.io,available,72,72%,11,General,,,
 workings.io,available,72,72%,8,"Business,Education,Technology",,,
-andorran.io,available,72,72%,8,Geography,,,
+andorran.io,available,72,8%,8,Geography,,,
 capitalise.io,resell,72,72%,10,"Business,Education,Finance",18/03/2019 04:53,18/03/2026 04:53,"GoDaddy.com, LLC"
 commemorative.io,available,72,68%,13,"Arts,Media,Retail",,,
 letterperfect.io,available,72,76%,14,General,,,
@@ -848,7 +848,7 @@ cherrypicking.io,available,70,80%,14,General,,,
 said.io,resell,70,88%,4,"Business,Education,Humanities",12/11/2017 10:07,12/11/2025 10:07,"DomainClub.com, LLC"
 goinfor.io,available,70,12%,9,General,,,
 calicocat.io,available,70,80%,10,"Entertainment,Media,Retail",,,
-inexpert.io,available,70,72%,8,Education,,,
+inexpert.io,available,70,12%,8,Education,,,
 brilliantgreen.io,available,70,72%,15,"Arts,Fashion,General",,,
 hooters.io,expiring,70,28%,7,General,18/07/2023 17:00,18/07/2025 17:00,"Sav.com, LLC - 18"
 fundamentals.io,resell,70,48%,12,General,25/06/2018 10:05,25/06/2026 10:05,Dynadot Inc
@@ -870,7 +870,7 @@ airy.io,expiring,70,40%,4,"Arts,Fashion",19/08/2013 16:13,19/08/2025 16:13,Key-S
 sidebyside.io,resell,70,84%,12,"Automotive,Manufacturing,Transportation",23/11/2021 17:00,23/11/2025 17:00,"Sav.com, LLC"
 shoppingbag.io,expiring,70,76%,12,"Environment,Fashion,Retail",07/08/2024 17:21,07/08/2025 17:21,"GoDaddy.com, LLC"
 interplanetaryspace.io,available,70,12%,20,"General,Science,Technology",,,
-amoeboid.io,available,70,72%,8,Science,,,
+amoeboid.io,available,70,12%,8,Science,,,
 Augustinian.io,available,70,76%,11,"Humanities,Religion",,,
 firstviolinist.io,available,70,72%,15,"Arts,Education",,,
 roaringsuccess.io,available,70,72%,15,"Business,Entertainment",,,
@@ -944,7 +944,7 @@ Australianfootball.io,available,70,72%,19,"Entertainment,General,Sports",,,
 mercantilist.io,available,70,72%,12,Business,,,
 combined.io,expiring,70,76%,8,"Business,Technology",27/04/2015 05:12,27/07/2025 00:30,"GoDaddy.com, LLC"
 chesspie.io,available,70,72%,9,Food and Beverage,,,
-sainted.io,expired,70,80%,7,Religion,05/05/2022 21:01,05/05/2025 21:01,"GoDaddy.com, LLC"
+sainted.io,expired,70,20%,7,Religion,05/05/2022 21:01,05/05/2025 21:01,"GoDaddy.com, LLC"
 closeofplay.io,available,70,72%,13,"Entertainment,Sports",,,
 flextime.io,resell,70,84%,9,"Business,General,Technology",22/01/2023 17:00,22/01/2026 17:00,"Sav.com, LLC - 17"
 cheesefries.io,available,70,72%,12,Food and Beverage,,,
@@ -968,7 +968,7 @@ oldfriend.io,available,70,76%,10,"Arts,Entertainment,Media",,,
 cocktailtomato.io,available,70,76%,15,"Food and Beverage,Retail",,,
 befriend.io,expiring,70,76%,8,"Health and Fitness,Humanities",29/07/2015 20:23,29/07/2025 20:23,"GoDaddy.com, LLC"
 Chinesemacaroni.io,available,70,4%,16,"Food and Beverage,General,Retail",,,
-apt.io,sold,70,88%,3,"Business,Education,Technology",01/08/2017 10:11,01/08/2026 10:11,"humbly, LLC"
+apt.io,sold,70,44%,3,"Business,Education,Technology",01/08/2017 10:11,01/08/2026 10:11,"humbly, LLC"
 dancing.io,resell,70,84%,7,Arts,06/04/2014 01:20,06/07/2026 00:30,"GoDaddy.com, LLC"
 jazzup.io,expired,70,76%,7,"Entertainment,Fashion,Media",07/05/2024 10:13,07/05/2025 10:13,"Sav.com, LLC"
 Irishlinen.io,available,70,76%,11,Retail,,,
@@ -1001,7 +1001,6 @@ crossword.io,resell,70,84%,9,"Education,Entertainment,Media",03/12/2015 00:30,03
 colouringbook.io,available,70,68%,14,"Arts,Education,Retail",,,
 eurekaeffect.io,available,70,72%,13,"Education,Media,Science",,,
 cutthrough.io,available,70,20%,11,General,,,
-studentunion.io,available,70,76%,13,"Education,Politics",,,
 DivineLiturgy.io,available,69,72%,14,Religion,,,
 clergyman.io,available,69,72%,9,"Education,Humanities,Religion",,,
 hematinic.io,available,69,72%,9,"Healthcare,Medicine,Pharmaceuticals",,,
@@ -1035,7 +1034,7 @@ makethecasefor.io,available,68,72%,17,General,,,
 makeground.io,available,68,72%,11,General,,,
 monocular.io,available,68,68%,9,"Healthcare,Retail,Technology",,,
 refillable.io,available,68,76%,10,"Environment,Food and Beverage,Retail",,,
-astonished.io,resell,68,76%,10,Entertainment,16/03/2021 04:12,16/03/2026 04:12,"GoDaddy.com, LLC"
+astonished.io,resell,68,16%,10,Entertainment,16/03/2021 04:12,16/03/2026 04:12,"GoDaddy.com, LLC"
 aboveoneself.io,available,68,72%,13,Business,,,
 chickenWellington.io,available,68,72%,18,Food and Beverage,,,
 crosstraining.io,available,68,76%,14,Health and Fitness,,,
@@ -1059,7 +1058,7 @@ executivecontrol.io,available,68,72%,17,"Business,General,Technology",,,
 SaintBernard.io,expired,68,76%,13,"Entertainment,Healthcare,Media",21/05/2022 04:27,21/05/2025 04:27,"Sav.com, LLC"
 electricaltape.io,available,68,72%,15,"Construction,General,Technology",,,
 efame.io,available,68,16%,6,"Entertainment,General,Media",,,
-amphibian.io,resell,68,84%,9,Science,07/02/2019 22:56,07/02/2026 22:56,Dynadot Inc
+amphibian.io,resell,68,48%,9,Science,07/02/2019 22:56,07/02/2026 22:56,Dynadot Inc
 musicaltheater.io,available,68,72%,15,General,,,
 pursued.io,available,68,76%,7,"Business,Law,Media",,,
 waterbirth.io,available,68,80%,11,"Healthcare,Medicine,Pharmaceuticals",,,
@@ -1082,7 +1081,7 @@ classy.io,resell,68,80%,6,"Entertainment,Fashion,Media",27/12/2018 22:17,27/12/2
 eleadership.io,available,68,12%,12,Business,,,
 grabtheheadlines.io,available,68,4%,18,"Business,General,Media",,,
 packageleaflet.io,available,68,72%,15,"Media,Retail,Technology",,,
-anticlinal.io,available,68,72%,10,"Mining,Science",,,
+anticlinal.io,available,68,8%,10,"Mining,Science",,,
 macaroniandgravy.io,available,68,4%,18,Food and Beverage,,,
 goodevening.io,resell,68,80%,12,"Entertainment,Hospitality,Media",08/05/2021 13:22,08/05/2026 13:22,"Sav.com, LLC"
 gobelow.io,available,68,8%,8,General,,,
@@ -1145,7 +1144,7 @@ Souwegian.io,available,68,72%,9,Entertainment,,,
 cheerily.io,available,68,76%,8,"Entertainment,Health and Fitness,Hospitality",,,
 leadingwoman.io,available,68,76%,13,"Entertainment,General,Media",,,
 CentralAmerican.io,available,68,12%,16,Geography,,,
-altricial.io,available,68,76%,9,Science,,,
+altricial.io,available,68,8%,9,Science,,,
 merciful.io,resell,68,72%,8,"Arts,Media,Religion",06/01/2022 15:21,06/01/2026 15:21,Dynadot Inc
 kindliness.io,available,68,76%,10,"Education,Humanities",,,
 nondenominational.io,available,68,72%,17,"Education,Humanities,Religion",,,
@@ -1350,6 +1349,7 @@ Dettol.io,expired,66,76%,6,"Healthcare,Retail",09/05/2024 11:50,09/05/2025 11:50
 hopon.io,resell,66,76%,6,"Transportation,Travel",29/11/2024 17:34,29/11/2025 17:34,Dynadot Inc
 registeredtrademark.io,available,66,72%,20,"Business,Law,Technology",,,
 GermanSpitzMittel.io,available,66,72%,19,"Agriculture,General,Health and Fitness",,,
+anonymous.io,resell,66,36%,9,"Media,Technology",10/02/2011 19:20,10/02/2026 19:20,"NameSilo, LLC"
 dropadime.io,available,66,8%,11,"Finance,General,Media",,,
 boneup.io,available,66,72%,7,Education,,,
 cometoahead.io,available,66,72%,14,General,,,
@@ -1390,7 +1390,7 @@ cooky.io,sold,66,80%,5,"Food and Beverage,Media,Retail",05/07/2018 16:56,05/07/2
 heroicmedicine.io,available,66,72%,15,"Healthcare,Medicine,Pharmaceuticals",,,
 caroling.io,available,66,72%,8,"Arts,Entertainment,Religion",,,
 acrobatic.io,resell,66,32%,9,"Entertainment,Sports",23/08/2019 04:26,23/08/2025 04:26,Dynadot Inc
-completely.io,resell,66,76%,10,"Business,Technology",16/04/2018 17:49,16/04/2026 17:49,"GoDaddy.com, LLC"
+completely.io,resell,66,24%,10,"Business,Technology",16/04/2018 17:49,16/04/2026 17:49,"GoDaddy.com, LLC"
 NOI.io,resell,66,80%,3,"Business,Finance,Law",03/03/2017 00:34,03/03/2026 00:34,"Sav.com, LLC"
 flirtwith.io,available,66,76%,10,"Arts,Media",,,
 bargainfor.io,available,66,8%,11,Business,,,
@@ -1415,7 +1415,7 @@ gstring.io,available,66,72%,8,"Entertainment,Fashion,Retail",,,
 laserprinter.io,resell,66,68%,13,"Business,Technology",07/10/2021 05:28,07/10/2025 05:28,"NameCheap, Inc."
 ago.io,resell,66,44%,3,Humanities,25/07/2014 15:46,25/07/2026 15:46,"NameCheap, Inc."
 headhome.io,available,66,72%,9,"Hospitality,Media,Travel",,,
-mitigatory.io,available,66,72%,10,"Healthcare,Medicine",,,
+mitigatory.io,available,66,4%,10,"Healthcare,Medicine",,,
 sfeeha.io,available,66,76%,6,"Food and Beverage,Hospitality",,,
 fortifying.io,available,66,72%,10,"Construction,Food and Beverage,Health and Fitness",,,
 furthering.io,available,66,72%,10,"Business,Education,Technology",,,
@@ -1542,7 +1542,7 @@ belugacaviar.io,available,66,28%,13,Food and Beverage,,,
 chortling.io,available,66,72%,9,"Arts,Entertainment,Media",,,
 Seals.io,resell,66,92%,5,General,16/07/2017 12:53,16/07/2026 12:53,"Sav.com, LLC"
 Internetpresence.io,available,66,72%,17,"Business,Media,Technology",,,
-saintlike.io,available,66,76%,9,Religion,,,
+saintlike.io,available,66,12%,9,Religion,,,
 Kasey.io,resell,66,80%,5,General,13/06/2024 21:07,13/06/2026 21:07,"GoDaddy.com, LLC"
 catcharide.io,available,66,76%,12,General,,,
 laborer.io,available,66,68%,7,Construction,,,
@@ -1682,7 +1682,7 @@ outtasight.io,resell,64,76%,11,"Arts,Entertainment,Media",11/12/2021 17:44,11/12
 dealership.io,resell,64,72%,10,"Automotive,Business,Retail",05/08/2015 00:30,05/08/2026 00:30,"humbly, LLC"
 daygame.io,expired,64,72%,8,"Entertainment,Media,Sports",06/05/2021 20:53,06/05/2025 20:53,"GoDaddy.com, LLC"
 gimme.io,resell,64,76%,5,"Entertainment,Media,Retail",27/08/2018 11:18,27/08/2025 11:18,"GoDaddy.com, LLC"
-announced.io,expiring,64,72%,9,"Business,Media",19/07/2021 14:31,19/07/2025 14:31,Dynadot Inc
+announced.io,sold,64,20%,9,"Business,Media",19/07/2021 14:31,19/07/2026 14:31,Dynadot Inc
 gazebo.io,resell,64,76%,6,"Construction,Hospitality,Real Estate",29/05/2017 00:30,29/05/2026 00:30,"humbly, LLC"
 secrecy.io,resell,64,76%,7,"Law,Politics",24/08/2019 10:13,24/08/2025 10:13,Dynadot1 LLC
 youall.io,available,64,76%,7,"Business,Education,Media",,,
@@ -2199,7 +2199,7 @@ hallowing.io,available,62,72%,9,"Arts,Media,Religion",,,
 dandelioncoffee.io,available,62,72%,16,"Food and Beverage,General",,,
 stencilling.io,available,62,72%,11,"Arts,Education,Retail",,,
 placid.io,resell,62,72%,6,"Environment,Healthcare",06/02/2019 00:44,06/02/2026 00:44,"GoDaddy.com, LLC"
-appetising.io,available,62,72%,10,"Food and Beverage,Hospitality",,,
+appetising.io,available,62,16%,10,"Food and Beverage,Hospitality",,,
 occasions.io,expiring,62,80%,9,"Hospitality,Retail",22/07/2022 13:16,22/07/2025 13:16,"Sav.com, LLC"
 aestheticism.io,available,62,76%,12,Arts,,,
 jointlock.io,available,62,72%,10,"Health and Fitness,Medicine,Sports",,,
@@ -2391,7 +2391,7 @@ AcademyofSciences.io,available,62,72%,19,Education,,,
 pineapplemelon.io,available,62,72%,15,"Agriculture,Food and Beverage,Retail",,,
 scion.io,expired,62,84%,5,"Automotive,Business",20/05/2013 23:00,20/05/2025 23:00,Gandi SAS
 Indianrummy.io,available,62,24%,12,Entertainment,,,
-spiritual.io,resell,62,88%,9,"Humanities,Religion",13/03/2015 22:46,12/06/2026 00:30,"GoDaddy.com, LLC"
+spiritual.io,resell,62,56%,9,"Humanities,Religion",13/03/2015 22:46,12/06/2026 00:30,"GoDaddy.com, LLC"
 birthdayparty.io,resell,62,72%,14,"Entertainment,Hospitality,Retail",28/03/2015 18:51,28/03/2026 18:51,"Sav.com, LLC"
 bedofdown.io,available,62,68%,11,Retail,,,
 beermug.io,available,62,76%,8,Food and Beverage,,,
@@ -2680,7 +2680,7 @@ fightshy.io,available,62,72%,9,General,,,
 horizontalmarket.io,available,62,72%,17,"Business,Finance,Technology",,,
 comefullcircle.io,available,62,72%,16,General,,,
 firstfruits.io,available,62,76%,12,"Agriculture,Food and Beverage,General",,,
-perfervid.io,available,62,72%,9,"Arts,Humanities",,,
+perfervid.io,available,62,8%,9,"Arts,Humanities",,,
 comebetween.io,available,62,72%,12,General,,,
 requeststop.io,available,62,72%,12,"Real Estate,Transportation,Travel",,,
 dandeliongreens.io,available,62,4%,16,"Food and Beverage,General",,,
@@ -3127,6 +3127,7 @@ mitsvah.io,available,60,72%,7,Religion,,,
 fishsteak.io,available,60,72%,10,"Food and Beverage,Retail",,,
 Brisbanite.io,available,60,72%,10,"Geography,Travel",,,
 maraschinocherry.io,available,60,72%,17,"Agriculture,Food and Beverage,Retail",,,
+apropos.io,resell,60,36%,7,"Arts,Humanities",09/09/2024 15:15,09/09/2025 15:15,"Sav.com, LLC - 10"
 outswing.io,available,60,72%,8,"Engineering,Sports",,,
 Chinesedogwood.io,available,60,72%,15,"Agriculture,Environment",,,
 johndewey.io,available,60,72%,10,Education,,,
@@ -3156,7 +3157,7 @@ ivorytree.io,available,60,72%,10,"Agriculture,Environment,Science",,,
 drinkout.io,available,60,76%,9,General,,,
 tailoring.io,expiring,60,80%,9,"Fashion,Manufacturing,Retail",29/07/2020 14:31,29/07/2025 14:31,"Spaceship, Inc."
 fisheatinggrin.io,available,60,72%,16,General,,,
-amative.io,available,60,72%,7,Humanities,,,
+amative.io,available,60,12%,7,Humanities,,,
 revelling.io,available,60,72%,9,"Arts,Entertainment,Media",,,
 maternalgrandfather.io,available,60,72%,20,"Education,Humanities,Media",,,
 nurseshark.io,available,60,72%,11,"Environment,Science,Travel",,,
@@ -3277,7 +3278,7 @@ boyishness.io,available,60,72%,10,"Education,Entertainment,Media",,,
 neatish.io,available,60,80%,7,"Fashion,Media,Retail",,,
 economymodel.io,available,60,72%,13,"Automotive,Business,Technology",,,
 haulier.io,available,60,80%,7,"Business,Transportation",,,
-allusive.io,available,60,80%,8,Arts,,,
+allusive.io,available,60,28%,8,Arts,,,
 hallmark.io,resell,60,80%,8,"Business,Media,Retail",14/07/2020 16:40,14/07/2026 16:40,"NameCheap, Inc."
 Lolitafashion.io,available,60,28%,14,Fashion,,,
 motorcity.io,expiring,60,84%,10,"Automotive,Geography",25/07/2021 14:31,25/07/2025 14:31,"Sav.com, LLC"
@@ -3659,7 +3660,7 @@ secretariate.io,available,58,72%,12,"Business,Media",,,
 luckybreak.io,available,58,72%,11,"Entertainment,Media",,,
 gentoopenguin.io,available,58,72%,14,General,,,
 mountup.io,available,58,80%,8,"Transportation,Travel",,,
-arab.io,expiring,58,88%,4,"Hospitality,Travel",10/07/2024 10:15,10/07/2025 10:15,"Sav.com, LLC"
+arab.io,resell,58,48%,4,"Hospitality,Travel",10/07/2024 10:15,10/07/2026 10:15,"Sav.com, LLC"
 cornerkick.io,available,58,72%,11,"Entertainment,Media,Sports",,,
 Chineseelder.io,available,58,72%,13,"Agriculture,Environment,Media",,,
 eggstraordinary.io,available,58,72%,15,"Food and Beverage,Media,Retail",,,
@@ -3906,7 +3907,7 @@ keeprank.io,expired,58,72%,9,"General,Military",20/05/2024 12:16,20/05/2025 12:1
 starthroat.io,available,58,72%,10,"Arts,Entertainment,Environment,Media",,,
 sauced.io,resell,58,76%,6,"Food and Beverage,Hospitality,Retail",15/01/2021 06:12,15/01/2026 06:12,"GoDaddy.com, LLC"
 goodriddance.io,available,58,72%,13,"Arts,Entertainment,Media",,,
-apologetic.io,available,58,72%,10,Religion,,,
+apologetic.io,available,58,16%,10,Religion,,,
 launchgame.io,available,58,72%,11,"Entertainment,Media,Technology",,,
 bristleat.io,available,58,72%,10,Business,,,
 ioniser.io,available,58,72%,7,"Environment,Healthcare,Technology",,,
@@ -4680,7 +4681,7 @@ filmlibrary.io,available,56,68%,12,"Education,Entertainment,Media",,,
 chipsandcheese.io,available,56,72%,16,Food and Beverage,,,
 inlinehockey.io,available,56,76%,13,Sports,,,
 tributewall.io,available,56,76%,12,"Arts,Entertainment,Media",,,
-prevenient.io,available,56,72%,10,Religion,,,
+prevenient.io,available,56,8%,10,Religion,,,
 ionicbeam.io,available,56,72%,10,"Engineering,Science,Technology",,,
 addled.io,available,56,16%,6,Entertainment,,,
 demandvalve.io,available,56,72%,12,"Engineering,Technology,Utilities",,,
@@ -4780,7 +4781,7 @@ aircushion.io,available,56,72%,11,"Retail,Technology",,,
 copperwork.io,available,56,68%,10,"Arts,Construction,Manufacturing",,,
 Athenry.io,available,56,72%,7,Geography,,,
 earlyvote.io,available,56,80%,10,"Humanities,Media,Politics",,,
-amebic.io,available,56,72%,6,Science,,,
+amebic.io,available,56,8%,6,Science,,,
 BonFestival.io,available,56,8%,12,Travel,,,
 glasnost.io,available,56,80%,8,"Humanities,Politics",,,
 surgicalgown.io,available,56,72%,13,Healthcare,,,
@@ -5317,7 +5318,7 @@ zoomedout.io,available,54,72%,10,"Entertainment,Media,Technology",,,
 timescramble.io,available,54,72%,13,"Entertainment,Media,Technology",,,
 summerish.io,available,54,72%,9,"Fashion,Retail,Travel",,,
 alternativepress.io,available,54,76%,17,Media,,,
-arable.io,resell,54,76%,6,Agriculture,03/11/2020 14:30,03/11/2025 14:30,"GoDaddy.com, LLC"
+arable.io,resell,54,12%,6,Agriculture,03/11/2020 14:30,03/11/2025 14:30,"GoDaddy.com, LLC"
 atomicage.io,available,54,72%,10,Science,,,
 molecularweight.io,available,54,72%,16,"Education,Pharmaceuticals,Science",,,
 milkofroses.io,available,54,72%,13,"Healthcare,Pharmaceuticals",,,
@@ -5499,6 +5500,7 @@ punctuall.io,available,54,72%,9,"Business,Education,Transportation",,,
 establishingshot.io,available,54,72%,17,"Arts,Media",,,
 creamofwheat.io,available,54,76%,14,Food and Beverage,,,
 adducent.io,available,54,8%,8,"Engineering,Mathematics,Science",,,
+axiomatic.io,expiring,54,36%,9,Mathematics,19/08/2013 20:39,19/08/2025 20:39,Epik LLC
 listedcompany.io,available,54,72%,14,"Business,Finance,Real Estate",,,
 biteofthecherry.io,available,54,72%,18,General,,,
 hangeron.io,available,54,72%,9,"Entertainment,Media",,,
@@ -5882,7 +5884,7 @@ birthweight.io,available,54,72%,11,Healthcare,,,
 giftvoucher.io,available,54,76%,12,"Business,Retail",,,
 predestine.io,available,54,72%,10,"Humanities,Religion",,,
 wheelartist.io,available,54,72%,12,"Arts,Entertainment,Media",,,
-amerciable.io,available,54,72%,10,Law,,,
+amerciable.io,available,54,8%,10,Law,,,
 bucketrendering.io,available,54,72%,16,General,,,
 gyrocompass.io,available,54,72%,12,Technology,,,
 jointoil.io,available,54,72%,9,Energy,,,
@@ -6054,7 +6056,7 @@ grayishness.io,available,52,4%,11,General,,,
 Steeton.io,available,52,72%,7,"General,Geography",,,
 greatgross.io,available,52,72%,11,General,,,
 appreciatingly.io,available,52,72%,14,"Business,Education,Humanities",,,
-dendroidal.io,available,52,72%,10,Agriculture,,,
+dendroidal.io,available,52,4%,10,Agriculture,,,
 sienna.io,resell,52,76%,6,"Arts,Fashion",14/05/2020 14:30,14/05/2026 14:30,"GoDaddy.com, LLC"
 watermold.io,available,52,72%,10,"Environment,Healthcare,Science",,,
 perforator.io,available,52,76%,10,"Construction,Manufacturing,Technology",,,
@@ -6196,7 +6198,7 @@ chessplaying.io,available,52,72%,13,Entertainment,,,
 chefless.io,available,52,8%,8,Food and Beverage,,,
 unquestioned.io,available,52,72%,12,"Business,Education,Law",,,
 childdevelopment.io,available,52,24%,17,Education,,,
-dendriform.io,available,52,72%,10,Agriculture,,,
+dendriform.io,available,52,8%,10,Agriculture,,,
 lxxiii.io,available,52,12%,6,Mathematics,,,
 nonreligion.io,available,52,72%,11,"Humanities,Law,Politics",,,
 Fossler.io,available,52,80%,7,General,,,
@@ -6512,7 +6514,6 @@ BrightWeek.io,available,52,72%,11,"General,Humanities,Religion",,,
 gearuplanding.io,available,52,4%,15,Aviation,,,
 clearswept.io,available,52,72%,11,General,,,
 corporatization.io,available,52,8%,15,Business,,,
-truebug.io,available,52,76%,8,"Environment,Science",,,
 lengthily.io,available,51,72%,9,Education,,,
 salvia.io,resell,51,88%,6,"Agriculture,Food and Beverage,Pharmaceuticals",13/06/2019 10:37,13/06/2026 10:37,"GoDaddy.com, LLC"
 provencal.io,available,51,80%,9,"Food and Beverage,Geography,Travel",,,
@@ -6531,7 +6532,7 @@ aspirated.io,available,50,72%,9,"Healthcare,Medicine,Pharmaceuticals",,,
 Auramazda.io,available,50,72%,9,Religion,,,
 abideth.io,available,50,12%,7,General,,,
 JLPT.io,available,50,80%,4,Education,,,
-anaerobic.io,available,50,68%,9,Science,,,
+anaerobic.io,available,50,0%,9,Science,,,
 gravitoelectric.io,available,50,72%,15,Science,,,
 EasternAsia.io,available,50,16%,12,"General,Geography",,,
 Nujiang.io,available,50,72%,7,Geography,,,
@@ -6559,7 +6560,7 @@ warbonnet.io,available,50,76%,9,,,,
 emphatically.io,available,50,76%,12,"Arts,Humanities,Media",,,
 greenwingedteal.io,available,50,4%,17,"Environment,General,Science",,,
 Nunhead.io,available,50,72%,7,Geography,,,
-faveolate.io,available,50,72%,9,Science,,,
+faveolate.io,available,50,4%,9,Science,,,
 Nudd.io,available,50,72%,4,General,,,
 boyishly.io,available,50,72%,8,"Arts,Fashion,Media",,,
 Consall.io,available,50,72%,7,"General,Geography,Real Estate",,,
@@ -6582,8 +6583,8 @@ abjads.io,available,50,12%,6,General,,,
 ignoranceisbliss.io,available,50,12%,18,General,,,
 Bookham.io,available,50,72%,7,General,,,
 Ntuzu.io,available,50,72%,5,Geography,,,
-anginose.io,available,50,72%,8,Medicine,,,
-undynamic.io,available,50,72%,9,"Business,Education,Healthcare",,,
+anginose.io,available,50,8%,8,Medicine,,,
+undynamic.io,available,50,4%,9,"Business,Education,Healthcare",,,
 birthdayless.io,available,50,72%,12,General,,,
 shorter.io,resell,50,84%,7,"Fashion,Media",21/02/2018 20:19,21/02/2026 20:19,"Sav.com, LLC"
 Nowroz.io,available,50,72%,6,General,,,
@@ -6714,7 +6715,7 @@ grayest.io,available,50,8%,7,General,,,
 billofsight.io,available,50,72%,13,"Business,Transportation",,,
 fishglue.io,available,50,72%,9,Food and Beverage,,,
 highercriticism.io,available,50,4%,16,"Education,General,Humanities",,,
-ametabolic.io,available,50,72%,10,Science,,,
+ametabolic.io,available,50,12%,10,Science,,,
 FortKent.io,available,50,12%,9,General,,,
 fajitas.io,resell,50,20%,7,Food and Beverage,03/06/2020 04:40,03/06/2026 04:40,"Sav.com, LLC"
 inserted.io,available,50,16%,8,General,,,
@@ -6902,7 +6903,7 @@ sulfured.io,available,50,72%,8,"Environment,Manufacturing,Science",,,
 jazzing.io,available,50,4%,7,Entertainment,,,
 fivepillars.io,expiring,50,80%,12,General,19/07/2021 09:45,19/07/2025 09:45,"GoDaddy.com, LLC"
 anyplace.io,resell,50,76%,8,"Business,Media,Technology",22/06/2025 23:08,22/06/2026 23:08,"Sav.com, LLC"
-appellate.io,available,50,76%,9,Law,,,
+appellate.io,available,50,36%,9,Law,,,
 fiscallaw.io,available,50,72%,10,Law,,,
 WestonbyWelland.io,available,50,72%,17,General,,,
 japheth.io,available,49,76%,7,"Humanities,Religion",,,
@@ -6953,7 +6954,7 @@ SidneySussex.io,available,48,72%,13,"Education,Humanities",,,
 Naucalpan.io,available,48,72%,9,"Business,Geography,Travel",,,
 busbridge.io,available,48,72%,10,"Engineering,Technology,Transportation",,,
 prepupal.io,available,48,72%,8,"Agriculture,Environment,Science",,,
-placating.io,available,48,72%,9,Politics,,,
+placating.io,available,48,8%,9,Politics,,,
 decoratively.io,available,48,72%,12,"Arts,Fashion",,,
 unobjectionably.io,available,48,72%,15,"Business,Law,Media",,,
 dialectal.io,available,48,72%,9,"Education,Humanities",,,
@@ -7092,7 +7093,7 @@ Chindwin.io,available,48,72%,8,"Business,Geography,Travel",,,
 evenas.io,available,48,72%,7,"Business,Education,Media",,,
 wonderingly.io,available,48,72%,11,"Arts,Education,Media",,,
 cityofsevenhills.io,available,48,72%,19,"Geography,Travel",,,
-amoebous.io,available,48,72%,8,Science,,,
+amoebous.io,available,48,4%,8,Science,,,
 caricaturish.io,available,48,72%,12,"Arts,Entertainment,Media",,,
 KirktonofCults.io,available,48,72%,16,General,,,
 Gorlois.io,available,48,72%,7,General,,,
@@ -9998,4 +9999,3 @@ pittabread.io,available,,8%,11,,,,
 prevails.io,available,,72%,8,,,,
 Pittsylvania.io,available,,72%,12,,,,
 shinethrough.io,available,,76%,13,,,,
-nationalism.io,available,,72%,11,,,,

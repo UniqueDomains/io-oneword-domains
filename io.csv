@@ -6,7 +6,7 @@ id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 8675297d-b31d-46d8-8675-886edd000f2f,abactinal.io,available,50,1,9,,,
 270b6dea-6d50-4be6-b248-b7534e32a2c0,abacus.io,resell,68,84,6,"GoDaddy.com, LLC",26/02/2013 07:49,26/02/2026 07:49
 6dd80b0e-3409-4fca-82e1-ff3afab317ed,abaft.io,available,43,2,5,,,
-b9684bce-6be1-4c21-94d8-cd377b43f417,abandoned.io,resell,58,10,9,"GoDaddy.com, LLC",17/06/2019 10:08,17/06/2026 10:08
+b9684bce-6be1-4c21-94d8-cd377b43f417,abandoned.io,resell,58,7,9,"GoDaddy.com, LLC",17/06/2019 10:08,17/06/2026 10:08
 c8b369be-f3fe-4814-bee1-1c4a20cf8249,abashed.io,available,60,2,7,,,
 8afc221c-189a-4a1b-8aba-f23af8ac3428,abasic.io,available,54,2,6,,,
 a7ffea7b-9f6e-4dd2-a744-b4dd05902f82,abatable.io,available,54,1,8,,,
@@ -26,7 +26,7 @@ ab855acb-4aaf-44da-a0ac-7027ab438936,ABCIslands.io,available,57,72,11,,,
 ab3cbead-14a4-4742-bfc0-d77a933818bb,abdicable.io,available,50,1,9,,,
 ef7383a8-7e41-4742-9f0a-4528bc8f9912,Abdinasir.io,available,46,72,9,,,
 7d553f9e-09f7-4f17-87d4-defb9c6c3232,Abdollah.io,available,46,72,8,,,
-e7d9ed2d-c0aa-40d9-a0a9-5118d68bd1d7,abdominal.io,available,82,2,9,,,
+e7d9ed2d-c0aa-40d9-a0a9-5118d68bd1d7,abdominal.io,available,82,5,9,,,
 0ced2381-d054-4933-9b36-26f78b1bc070,abdominalcavity.io,available,54,72,16,,,
 ee2b54e7-0c5b-4666-9c1a-5dc947650f4f,abdominalwall.io,available,54,72,14,,,
 4bfaf9fd-85d7-4dfd-917f-88a4f508ac60,abdominous.io,available,56,1,10,,,
@@ -44,7 +44,7 @@ feb7c286-34a8-4064-afb2-97441beba86e,AberdeenAngus.io,available,54,68,14,,,
 d15e4762-fc41-4c11-8db3-7c981fbd8ec8,Abert.io,resell,68,76,5,Key-Systems GmbH,18/06/2020 09:42,18/06/2026 09:42
 ea8fdac4-c06d-4dca-9138-e866d94b1eec,Abertsquirrel.io,available,54,72,14,,,
 59b9ee78-7310-4c46-9151-f1e572944ce7,abeyant.io,available,56,2,7,,,
-8223a7a3-1842-44f3-bd5b-10636689e1ba,abhorrent.io,available,54,1,9,,,
+8223a7a3-1842-44f3-bd5b-10636689e1ba,abhorrent.io,available,54,3,9,,,
 e7074f68-5250-441c-bb5e-8e333c478f5c,abhydrolase.io,available,64,4,11,,,
 ac43bd33-ca16-419b-98fa-59825afc5f29,abibliophobia.io,available,64,4,13,,,
 6633812d-e055-4b2e-82d3-e0f8cedb2d36,abidden.io,available,50,4,7,,,
@@ -70,6 +70,7 @@ ecb0bbcb-2355-4a3b-98c6-0ea86dc6dd0d,Abigale.io,available,50,72,7,,,
 90e27df7-e68e-4fda-81e8-91cfb27d08c2,abigeat.io,available,68,4,7,,,
 a708913e-304c-4454-8a00-5df22d47dc53,abigeus.io,available,68,4,7,,,
 a788f5d1-c3b4-407c-9e72-02d8227a02dc,abiliments.io,available,46,4,10,,,
+880af81c-85a8-4a56-adbf-595ea56b7dc0,ability.io,resell,92,18,7,Porkbun LLC,16/07/2017 10:12,16/07/2026 10:12
 4a799483-f660-4467-803d-17b9c698849f,abilitytopay.io,available,,76,14,,,
 7e267267-49c4-4a5f-9d96-753e84595173,abimes.io,available,50,8,6,,,
 694650df-6e3d-4e25-aa6d-62c1c9793e81,Abington.io,available,56,80,8,,,
@@ -120,6 +121,7 @@ f9482919-867c-4dde-963c-e59649fbfd06,abolished.io,available,38,72,9,,,
 8c5692fc-8899-4bae-8623-3c66c7cc21b2,abolishes.io,available,38,8,9,,,
 2b84d114-415c-43c7-a713-e01c9fb91694,abolishing.io,available,38,68,10,,,
 69651a3e-56a9-40bd-8dc8-5ae9bd76ce32,abomasal.io,available,50,1,8,,,
+0e66d1e0-d7b7-4c40-b96c-964f1dd6e781,abomb.io,available,102,2,6,,,
 c9f14708-13b2-4d38-a02a-57925fb01f6a,aboonandabane.io,available,40,4,17,,,
 54e5d5be-2125-4582-b7da-9d641f22143f,aboonorabane.io,available,40,4,16,,,
 60fb802d-2bda-4ac7-8c75-6329644d3726,aboral.io,available,54,2,6,,,
@@ -133,14 +135,12 @@ faa3fe57-a7d8-4ad6-8d9d-162ebddb10a0,aboulic.io,available,52,2,7,,,
 ae4f72bb-d51c-4e62-ba9b-47ee1c6860d4,abounding.io,available,78,2,9,,,
 c4456492-ca89-4d2c-9bed-591bdb4121c2,abounds.io,available,42,20,7,,,
 77beeefa-6051-4ed7-8345-75cc3a2f8c00,aboundwith.io,available,38,4,11,,,
-1ef5f8a6-899b-4a01-86a1-68b404dca2b0,about.io,available,94,28,5,,,
 dc9dc2ee-338e-47f6-9fbb-da4a0a91bded,abouteast.io,available,58,72,10,,,
 6b81a23a-947d-4202-9438-8b86977c6e09,aboutfaced.io,available,44,8,11,,,
 d3edb32d-1153-4379-8691-99a78bd92bec,aboutship.io,available,70,72,10,,,
 f87033c4-88fe-46b1-b877-93bda88cbfb8,abouttime.io,premium,60,72,10,,,
 fb5b8fe0-70cb-4676-aac6-839ccedbcf95,aboutto.io,available,52,8,8,,,
 8d2ee83a-684a-47ba-8f5f-50a003c1671a,aboutturn.io,available,54,72,10,,,
-cff917d2-7f4c-4359-9d91-2d8fd395d21f,above.io,resell,112,22,5,Porkbun LLC,12/08/2013 19:59,12/08/2028 19:59
 72042ef9-a4ce-4c06-9f84-21c9842d58eb,aboveabit.io,available,56,72,11,,,
 67420055-ee22-466a-834e-b015cf7dbc04,abovecited.io,available,58,72,11,,,
 a089245e-ca2e-4d3d-a303-f44cab72b8ca,AboveDerwent.io,available,46,72,13,,,
@@ -257,14 +257,14 @@ a6d2769e-f957-48c6-a429-df112d2f8e6d,abstaining.io,available,36,72,10,,,
 eb773493-0fd0-41eb-a7f3-64348bb5abad,abstention.io,available,54,72,10,,,
 b340d481-98ca-4fff-aa29-a90b1ef35c69,abstinence.io,available,56,76,10,,,
 478d2041-3faa-4582-85d6-70abee181e03,abstinent.io,available,66,1,9,,,
-0dfd0487-46c0-494c-91f1-f982a21a2152,abstract.io,resell,108,28,8,"GoDaddy.com, LLC",22/10/2010 04:34,22/10/2025 04:34
+0dfd0487-46c0-494c-91f1-f982a21a2152,abstract.io,resell,108,25,8,"GoDaddy.com, LLC",22/10/2010 04:34,22/10/2026 04:34
 c4573af9-910e-4a26-beb0-5b8c7bdba19f,abstractidea.io,available,60,72,13,,,
 2bb6cc61-60a9-4de5-bc4a-e053e7947849,abstractnonsense.io,available,52,72,17,,,
 9f849ec7-0df3-4abd-b0c8-04dbc074f024,abstrusely.io,available,40,72,10,,,
 2b516b2f-e1f1-4e7d-ba90-610c525b1556,abudhabi.io,resell,64,84,9,"Sav.com, LLC",14/02/2017 00:27,14/02/2026 00:27
 aebad1e3-296f-4384-ade1-38f0d77ad67f,abulic.io,available,70,2,6,,,
-d9b71cf9-6bd2-4501-92a6-5b080565dd2d,abundant.io,resell,80,19,8,Dynadot Inc,30/05/2022 16:15,30/05/2026 16:15
-d1a377fc-81c8-46bd-ba89-f02eee4d14cd,abundantly.io,resell,66,76,10,"GoDaddy.com, LLC",03/07/2020 17:15,03/07/2026 17:15
+d9b71cf9-6bd2-4501-92a6-5b080565dd2d,abundant.io,resell,80,18,8,Dynadot Inc,30/05/2022 16:15,30/05/2026 16:15
+d1a377fc-81c8-46bd-ba89-f02eee4d14cd,abundantly.io,resell,66,4,10,"GoDaddy.com, LLC",03/07/2020 17:15,03/07/2026 17:15
 3b39eb20-1a8a-47c5-b0d3-41f9be269513,abuzz.io,resell,58,5,5,"NameCheap, Inc.",16/04/2025 20:22,16/04/2026 20:22
 3f9a0b61-c046-4d2b-b941-f8c7589243dd,abwheel.io,available,60,76,8,,,
 3373f779-98dc-4dcd-ba5a-e89cf321c034,abysmal.io,available,52,4,7,,,
@@ -325,8 +325,7 @@ aca7ca90-2c99-469d-9213-9696462ac406,acceptancespeech.io,available,36,72,17,,,
 50fe0dda-f227-48e9-8077-803caf09d05a,acceptancetest.io,available,54,72,15,,,
 87f7b20f-ccf9-47e5-9a76-edb7bea58e3d,acceptant.io,available,78,1,9,,,
 742de09f-08ae-4854-b252-65a560e81f50,acceptatfacevalue.io,available,56,72,20,,,
-53f457c8-1db3-4f59-a163-d1afd5cd502f,accepted.io,resell,78,6,8,"Sav.com, LLC - 36",02/06/2025 15:15,02/06/2026 15:15
-74da37f8-f1d4-4793-9691-f062aaf6f848,accepting.io,available,74,3,9,,,
+53f457c8-1db3-4f59-a163-d1afd5cd502f,accepted.io,resell,78,5,8,"Sav.com, LLC - 36",02/06/2025 15:15,02/06/2026 15:15
 b9af36e1-36a3-441f-8a8a-94cd71e710bb,acceptingly.io,available,52,68,11,,,
 2cf8bfbc-62c2-4484-aa10-80db7e919399,acceptive.io,available,60,1,9,,,
 92f192fb-efb6-4bff-93ca-da2530771a82,acceptors.io,available,36,8,9,,,
@@ -347,6 +346,7 @@ a077ae5f-e26c-4fa9-884b-870a2c5fbcd1,accessorize.io,resell,58,80,11,"Sav.com, LL
 91349649-344e-4c4d-b35d-f2fb55c85e2f,accessorized.io,available,52,76,12,,,
 69187279-52e5-4ceb-be0c-6f562f01c364,accessoryfruit.io,available,56,72,15,,,
 d4ff48fd-e4cf-4809-aa19-80292911a4f2,accesstimes.io,available,36,8,12,,,
+012d6315-7e82-4ded-bc0f-56a0809559b4,accident.io,resell,54,17,8,Dynadot Inc,13/06/2013 04:07,13/06/2026 04:07
 84f3d14b-7f28-4d90-928d-ab1405396c66,accidentals.io,available,36,0,11,,,
 61a388e3-71b8-47bf-bf53-aff27113f89e,acclaimed.io,resell,58,72,9,Key-Systems GmbH,02/09/2022 13:15,02/09/2025 13:15
 aa6e400e-bf96-4a8c-8061-9472b0fc09a7,acclaimers.io,available,44,8,10,,,
@@ -424,7 +424,6 @@ f8edb568-6c53-456c-8e13-8f87d205418b,accoyed.io,available,38,4,7,,,
 8689f7ed-b4ff-4f35-8a47-cd6f0f9d0f17,accreditable.io,available,56,72,12,,,
 9a41329b-f472-4a7c-a73f-90ff9c904a1b,accreditational.io,available,52,72,15,,,
 cf40f3fc-6e7a-4c59-aa69-465544b88027,accreditations.io,available,44,24,14,,,
-d4b90598-bf83-4196-a858-031ebbce4d86,accredited.io,resell,68,9,10,"humbly, LLC",31/12/2014 18:32,31/12/2025 18:32
 b5e00829-d745-45b0-a847-31c0ed703826,accrediting.io,available,44,72,11,,,
 a17e7cb1-e8d6-43f2-a841-3af1a80007cd,accredition.io,available,56,72,11,,,
 9e7cdbfc-5d60-4bff-881e-4acb87f3d4a9,accreditment.io,available,56,72,12,,,
@@ -475,12 +474,13 @@ cef7561a-8036-49b8-8600-22697f2530ed,accumbers.io,available,34,4,9,,,
 1fe00dba-1a48-4350-ae7f-9f7c92b69114,accumulatios.io,available,34,4,12,,,
 cb0d3a78-52f8-4660-8e72-7bda2421d972,accumulator.io,resell,60,84,11,Dynadot Inc,17/06/2020 19:03,17/06/2026 19:03
 dc392fb4-cb98-4fea-9ab0-1e059ea6428c,accuracy.io,resell,70,88,8,Dynadot10 LLC,19/11/2018 10:12,19/11/2025 10:12
-2827d27a-f270-4a20-a3ee-c9753e1f6b59,accurate.io,premium,78,16,8,,,
+2827d27a-f270-4a20-a3ee-c9753e1f6b59,accurate.io,resell,78,16,8,"GoDaddy.com, LLC",04/07/2022 15:17,04/07/2026 15:17
 a3a7948d-820c-4648-b2bc-6165c915ac0c,accurst.io,available,40,1,7,,,
 b6bc3b79-eb4e-45a2-a33e-7fe292cb2dae,accusable.io,available,48,72,9,,,
 0e06cb16-0314-4b44-99c0-dbe9f8121a6b,accusative.io,available,72,1,10,,,
 5b1dda6f-528a-48f8-a22e-1ff8c84d042f,accusativecase.io,available,58,72,15,,,
 92459238-3459-43c2-b02a-a093fcebe332,accusatory.io,available,44,1,10,,,
+b228f382-eadc-48bf-ab6f-b6bf82e05feb,accused.io,resell,82,4,7,"GoDaddy.com, LLC",17/08/2025 22:31,17/08/2026 22:31
 19296577-6088-40bc-9c76-1c2991bc343e,accusing.io,available,62,1,8,,,
 86486ee2-31c8-4249-8628-3f53cdb10ab6,accusive.io,available,40,1,8,,,
 0e2af080-fc97-4853-a770-77816bccb6bb,accustom.io,available,76,76,8,,,
@@ -600,6 +600,7 @@ b2ecd517-7e7d-40b4-9346-dca696de2ecc,acknowledged.io,available,66,72,12,,,
 aa93b0be-4a7f-49dc-bed1-56a5f24bf36e,acknowledges.io,available,,8,12,,,
 ac5d9154-2f64-499b-a4ee-b297346d2a3e,acknowledging.io,available,76,72,13,,,
 8e07b109-1642-4008-a131-6aa3a81c0e20,ACL.io,resell,58,76,3,"humbly, LLC",03/11/2015 00:30,03/11/2025 00:30
+d1831712-1096-47ca-a46e-679c4f9bed5c,acne.io,resell,64,11,4,Dynadot Inc,28/01/2019 10:07,28/01/2026 10:07
 71db3d50-33e7-49c0-894e-e952b68adbc9,acned.io,available,43,1,5,,,
 cd5d1a40-c0e7-4567-9115-390312babf38,acneiform.io,available,39,1,9,,,
 06dc7307-371a-466d-b985-c52b689c17b7,acnerosacea.io,available,,20,12,,,
@@ -631,7 +632,7 @@ cbc426e4-5588-420b-8a87-d1fedf6c75c9,acrogenous.io,available,46,1,10,,,
 f029cd5a-b57e-4481-9d4f-d2d093e7a334,acrophonic.io,available,52,72,10,,,
 451e51d3-6ade-4010-a984-4fedfede30df,acropolis.io,resell,64,92,9,"GoDaddy.com, LLC",19/05/2016 03:46,19/05/2026 03:46
 6c2c5d39-b56c-45ff-bfc8-bcb00fcbcc92,acroscopic.io,available,46,1,10,,,
-7b595663-2c67-4360-85d1-bc7d3689f1a4,across.io,resell,90,84,6,"GoDaddy.com, LLC",26/06/2023 20:15,26/06/2026 20:15
+7b595663-2c67-4360-85d1-bc7d3689f1a4,across.io,resell,90,16,6,"GoDaddy.com, LLC",26/06/2023 20:15,26/06/2026 20:15
 3122e8d6-d4b0-476f-b166-51d74cf3b10f,acrosstheboard.io,available,58,80,16,,,
 85540f09-1d35-4aed-8001-7e0f8428c823,acrosstheditch.io,available,46,72,16,,,
 c7952573-853a-4c69-b12b-28cad30342d4,acrosstheline.io,available,62,80,15,,,
@@ -647,12 +648,12 @@ fd91fc32-5461-423a-a632-79cfad86bf70,actchicken.io,available,66,72,11,,,
 d5acd8a1-f7ca-4f67-be0d-83a6e74eedb4,acted.io,available,50,72,5,,,
 690db066-b13d-4bd5-905c-105d7e0450bb,actedout.io,available,60,4,9,,,
 b47cc68d-4c57-40eb-8115-cfdf7c2eb3cb,actinal.io,available,50,1,7,,,
-452b04f2-3e94-4ba6-a283-3511643e6869,acting.io,resell,84,12,6,1API GmbH,09/05/2018 10:42,09/05/2026 10:42
+452b04f2-3e94-4ba6-a283-3511643e6869,acting.io,resell,84,11,6,1API GmbH,09/05/2018 10:42,09/05/2026 10:42
 69df4189-e77e-4612-9215-cc70c9291e15,actinic.io,available,50,2,7,,,
 a3d511d2-19bd-4bca-bcb3-3c1e2014e313,actinide.io,available,46,2,8,,,
 9207874c-a133-4bd2-8ad2-78e326173057,actinoid.io,available,64,2,8,,,
 22d74c4b-20cb-42b7-b70c-b51812b70370,actinon.io,available,54,2,7,,,
-77ae722a-ca77-4ffb-8190-be6218e91190,actionable.io,resell,88,13,10,"GoDaddy.com, LLC",06/12/2023 22:15,06/12/2025 22:15
+77ae722a-ca77-4ffb-8190-be6218e91190,actionable.io,resell,88,13,10,Dynadot Inc,06/12/2023 22:15,06/12/2026 22:15
 84d81ae6-cd41-4357-9e25-e1a401411992,actionadventure.io,available,72,72,16,,,
 61b94cd4-64d6-4ded-b9dc-2c099c87e606,actionadventures.io,available,56,12,17,,,
 426725b4-4ea6-4485-a182-588ab2da1101,actionatadistance.io,available,54,72,20,,,
@@ -693,7 +694,7 @@ f79a4dd7-72a3-458d-a22f-68944c82892e,activetravel.io,available,54,72,13,,,
 fb821170-ed4e-466a-b852-6e299aad35cc,activevoice.io,available,54,80,12,,,
 d0bc305f-35c3-42ae-b46d-940519ce1760,activistic.io,available,62,1,10,,,
 d3665159-8dcf-459d-9253-9dee8035efef,activities.io,resell,42,36,10,Dynadot11 LLC,16/12/2018 10:10,16/12/2025 10:10
-70f3338f-4f1e-45d4-9b93-63ddd53cc6ef,activity.io,resell,78,84,8,Divido Ltd,05/01/2008 13:56,30/04/2027 12:00
+70f3338f-4f1e-45d4-9b93-63ddd53cc6ef,activity.io,resell,78,18,8,Divido Ltd,05/01/2008 13:56,30/04/2027 12:00
 e9e7fb80-3b19-4dca-bcf8-4a43fa8c532c,actofattainder.io,available,46,72,16,,,
 eebca3cb-f25d-4d5e-a9c8-781861db663c,actofCongress.io,available,64,72,15,,,
 c0ca9292-5616-43f0-81ab-ae83842f708b,actofdarkness.io,available,64,72,15,,,
@@ -704,8 +705,9 @@ eebda9e8-ce5a-4c1f-8198-1bbb3701955f,actoffaith.io,available,64,72,12,,,
 d6826058-3001-4fe4-8e57-5cd983d6de49,actout.io,available,70,76,7,,,
 e6e39515-4a54-4394-b53d-f295e4dc0eb8,actpossum.io,available,66,72,10,,,
 15d63d08-eed3-411f-92ee-6bfd52108a79,actpsychology.io,available,64,8,14,,,
-05f41671-e497-48f6-aef9-8379741a9b2a,actress.io,resell,78,80,7,"GoDaddy.com, LLC",27/04/2019 10:08,27/04/2026 10:08
+05f41671-e497-48f6-aef9-8379741a9b2a,actress.io,resell,78,8,7,"GoDaddy.com, LLC",27/04/2019 10:08,27/04/2026 10:08
 4935b8e4-b4d7-4f51-8f4a-30ff03851776,actrice.io,available,64,76,7,,,
+3ed28c39-20c7-40a9-a886-af2e29534b0d,acts.io,resell,66,16,4,"Spaceship, Inc.",01/03/2023 17:21,01/03/2026 17:21
 8667a88b-3790-4441-9a9a-0e8efe5b5100,actsmart.io,available,46,76,9,,,
 0572cde8-a1a7-4331-865a-bfc5466eab5e,ActsoftheApostles.io,available,50,72,20,,,
 b8d3d1a7-d07c-4d5b-888b-f98b364fada0,actsout.io,available,36,4,8,,,
@@ -719,7 +721,7 @@ d8a3d78a-a5df-460a-916a-441a43f47f16,actthehypocrite.io,available,66,72,17,,,
 b253905b-e023-49ad-ab6e-78c44d6c6e95,actualcost.io,available,54,72,11,,,
 00a217d3-f0ef-49a8-90a0-943c7c35dba5,actualflyingtime.io,available,54,72,18,,,
 f45c682d-17e4-4113-a489-45ee5afe92de,actuality.io,resell,54,80,9,"GoDaddy.com, LLC",17/10/2018 10:17,17/10/2025 10:17
-e2a4b806-507b-4077-b3a8-4f336d5b092c,actually.io,resell,70,80,8,Dynadot Inc,31/10/2019 14:30,31/10/2025 14:30
+e2a4b806-507b-4077-b3a8-4f336d5b092c,actually.io,resell,70,14,8,Dynadot Inc,31/10/2019 14:30,31/10/2025 14:30
 2fa2fb17-458b-46da-83f2-adbed240bbfd,actualoccasions.io,available,54,72,16,,,
 96587572-e258-4b8e-a05a-96515c81073d,actualparameter.io,available,54,72,16,,,
 2eda6a4d-2bd0-48d7-94f6-698501d6c094,actuarialscience.io,available,54,72,17,,,
@@ -733,7 +735,7 @@ fa55c273-90f9-4eaa-9d9d-96cbdcab52c6,Acup.io,available,80,76,5,,,
 bc102066-5c21-46c7-a98e-27434eea770f,acupuncturist.io,available,72,76,13,,,
 5c22f4e2-2992-4e7a-804d-e76c8d2eb241,acupuncturists.io,available,36,24,14,,,
 9f32b1b5-b9c7-47df-96df-a1cc8d3b0b8e,acushla.io,available,60,72,7,,,
-f6c28636-3b8f-43a5-8c80-9c10bc8b1c84,acute.io,resell,112,9,5,"Spaceship, Inc.",26/04/2013 16:28,26/07/2026 00:30
+f6c28636-3b8f-43a5-8c80-9c10bc8b1c84,acute.io,resell,112,8,5,"Spaceship, Inc.",26/04/2013 16:28,26/07/2026 00:30
 fdffe415-392b-4191-a0fc-d4ca91a62d7e,acuteangled.io,available,48,72,12,,,
 6aadb786-9302-4a0b-9288-7f481504ede1,acuteness.io,available,54,72,9,,,
 62c4c704-40f8-4011-bd36-1b934136986b,acutetriangle.io,available,52,72,14,,,
@@ -742,7 +744,6 @@ fdffe415-392b-4191-a0fc-d4ca91a62d7e,acuteangled.io,available,48,72,12,,,
 0acd3304-1479-4a6f-beab-c6a8f2202b81,adactylous.io,available,50,1,10,,,
 d4b1622d-f3ce-4a72-a612-dd7f9d1a01ae,adagios.io,available,40,12,7,,,
 6ec82d9d-6487-482c-a883-88c6488fb60f,AdairCounty.io,available,46,8,12,,,
-4fd9f01b-5dea-48b0-9db2-7a61f7d1cdc1,adam.io,resell,66,80,4,Porkbun LLC,27/09/2010 16:42,27/09/2025 16:42
 326881b4-d7ed-466f-88f0-db29402944c3,AdamandSteve.io,available,56,24,14,,,
 fd3665c9-a3c5-458b-b933-d8001f4fc158,adamant.io,resell,74,14,7,Dynadot Inc,27/10/2019 14:30,27/10/2025 14:30
 d54155a5-eec6-41ff-b9ed-48e85a055dbf,adamantly.io,available,50,72,9,,,
@@ -766,10 +767,9 @@ c2863fe5-4684-4e53-b16d-81285d73d73d,adbanner.io,available,64,72,9,,,
 a37171ef-edcf-47f5-a18f-fd604c04cf2b,adblindness.io,available,52,4,12,,,
 4dda6cca-4519-4521-97b9-93bd9c7990ac,addendum.io,resell,54,76,8,"GoDaddy.com, LLC",16/12/2017 06:02,16/12/2025 06:02
 eb960a24-470f-4445-9ac3-770bf5138b55,addible.io,available,58,3,7,,,
-841dbac3-9f1c-498d-8cce-6e811432f3b8,addictive.io,resell,90,10,9,"Spaceship, Inc.",11/07/2014 02:14,10/10/2025 00:30
 4ad5f1d3-e6e3-4e7b-bef6-8920ddeefc11,addictively.io,available,42,72,11,,,
 51a0bbbb-63d2-472b-9e5c-a5815648db41,additament.io,available,52,72,10,,,
-0a06dfb0-bfad-4289-9b46-6ce7efd66ab0,additional.io,resell,90,9,10,"GoDaddy.com, LLC",22/06/2018 10:13,22/06/2026 10:13
+0a06dfb0-bfad-4289-9b46-6ce7efd66ab0,additional.io,resell,90,8,10,"GoDaddy.com, LLC",22/06/2018 10:13,22/06/2026 10:13
 ee3ccc3c-f4b5-408b-8552-6685acfe7dbc,additionally.io,resell,44,68,12,"Sav.com, LLC",19/09/2021 20:09,19/09/2025 20:09
 c134ff83-02dd-41eb-acff-7ae327507a2d,additionary.io,available,52,72,11,,,
 cfd14143-8553-4171-9b5b-348587e83757,additions.io,available,54,28,9,,,
@@ -782,7 +782,7 @@ cfd14143-8553-4171-9b5b-348587e83757,additions.io,available,54,28,9,,,
 6dcfd934-ec4d-4b06-8337-d742f7f94c1a,additory.io,available,48,72,8,,,
 165feb8e-c663-4f62-83b5-062061ac2d50,addled.io,available,56,3,6,,,
 3061a77e-83ab-4ff7-8d73-e4a747125991,addlepated.io,available,46,1,10,,,
-8dc4ea3b-32a7-439f-a814-79f7733e6d9c,address.io,resell,94,88,7,Divido Ltd,05/01/2008 13:55,30/04/2027 12:00
+8dc4ea3b-32a7-439f-a814-79f7733e6d9c,address.io,resell,94,22,7,Divido Ltd,05/01/2008 13:55,30/04/2027 12:00
 37a413cb-c945-453e-8192-4243f106c30e,addressbar.io,available,58,72,11,,,
 22d33485-a273-47e9-8daf-a1e9aa7217b8,addressbook.io,resell,62,84,12,"NameCheap, Inc.",11/05/2016 00:30,11/05/2026 00:30
 8e3f197d-6334-4f84-b82c-784a51053b96,addressbooks.io,available,36,12,13,,,
@@ -811,7 +811,7 @@ ce8555a2-1dab-41f6-841d-af2c105acb84,adenoid.io,available,74,2,7,,,
 11a09fed-9531-4ace-b2f1-41eacf3350ba,adenotomy.io,available,52,72,9,,,
 04b0d68e-1661-489f-be86-a7b6f208eee1,adenous.io,available,52,72,7,,,
 071bcf72-374a-4fd6-b467-e19d6497fc2a,adeptness.io,available,70,72,9,,,
-1bf59e55-3f9d-4816-ba31-9be6f51c3f9f,adequately.io,available,62,76,10,,,
+1bf59e55-3f9d-4816-ba31-9be6f51c3f9f,adequately.io,available,62,3,10,,,
 64518fae-b7fd-4526-a02c-ba466488c37f,adhere.io,resell,72,72,6,"GoDaddy.com, LLC",16/09/2018 10:07,16/09/2025 10:07
 5451049b-f742-4894-b44a-6cd0a3f8bf09,adhoc.io,resell,58,24,6,"GoDaddy.com, LLC",23/04/2021 19:49,23/04/2026 19:49
 8be0e050-b890-45a1-8546-a8bb34bec82c,adhocery.io,available,52,72,9,,,
@@ -841,7 +841,6 @@ e31dc81b-65f8-4814-9717-f42946e12c62,adjectives.io,available,46,16,10,,,
 c912aa75-477f-4297-a0a6-ee8eed48caa8,adjunctive.io,available,72,2,10,,,
 98ea0ffa-7dd7-4737-9931-b7d23fa7e29b,adjunctprofessor.io,available,60,72,17,,,
 588523c1-d662-4520-9c9e-c2c393202222,adjuratory.io,available,54,1,10,,,
-3994654f-6c05-4490-940d-eb0f3d7cc1a9,adjusted.io,resell,70,5,8,Dynadot Inc,03/01/2020 22:15,03/01/2026 22:15
 fb44ec26-dc84-4371-bdf4-4b7cc51c31ef,adjuster.io,resell,62,80,8,"NameCheap, Inc.",04/03/2016 16:53,04/03/2026 16:53
 1747d2b5-3a8a-4c5d-bbed-a4e652c88506,adjustive.io,available,58,2,9,,,
 6d9b154e-30ce-4afd-b9bc-b5b78dfc5167,adjustmentaccount.io,available,60,72,18,,,
@@ -879,7 +878,7 @@ bdecf1b5-ea21-4a42-8719-1f1b73d02fee,admodumDonders.io,available,42,4,16,,,
 59a5c338-8ef1-430b-85e8-02d271c8490e,adnate.io,available,60,2,6,,,
 2a5de445-7ac8-46f7-972b-897b834dcffe,adnauseum.io,available,34,12,10,,,
 f77b8a00-e50a-4dc0-a7a9-aae9770b2220,adnexal.io,available,60,2,7,,,
-8a9e59f1-90c9-4594-a23c-cd027b596cd3,adolescent.io,resell,86,4,10,Unstoppable Domains Inc,01/06/2022 15:15,01/06/2026 15:15
+8a9e59f1-90c9-4594-a23c-cd027b596cd3,adolescent.io,resell,86,3,10,Unstoppable Domains Inc,01/06/2022 15:15,01/06/2026 15:15
 b6606033-a096-4bef-9140-d19987a2a444,adopt.io,resell,74,80,5,"NameCheap, Inc.",17/04/2015 00:30,17/04/2026 00:30
 b0a26ed5-3ed7-4220-be3e-e9d0a217fcc5,adoptee.io,available,62,76,7,,,
 57245216-873f-4cd6-8f58-82812109ee84,adoptionist.io,available,68,72,11,,,
@@ -888,7 +887,7 @@ bc51e6de-6724-488f-83ce-a0e3d615f03b,adoptivemother.io,available,68,72,15,,,
 ba06618a-b112-4c16-a87d-85d92a27eae6,adorables.io,available,76,80,9,,,
 d164409a-c7c5-42ee-b2fd-5723d45e661f,adorably.io,resell,60,76,8,Porkbun LLC,18/09/2020 19:51,18/09/2025 19:51
 1b499852-d68e-4d2a-a174-75481bd02293,adoration.io,resell,70,76,9,"Sav.com, LLC",27/12/2019 21:03,27/12/2025 21:03
-d933653d-27d8-4761-86b4-6a345ec8eecb,adored.io,resell,70,7,6,"NameCheap, Inc.",11/05/2023 07:10,11/05/2026 07:10
+d933653d-27d8-4761-86b4-6a345ec8eecb,adored.io,resell,70,6,6,"NameCheap, Inc.",11/05/2023 07:10,11/05/2026 07:10
 b8829993-257d-4de2-9036-d054768b0a51,adorer.io,available,68,76,6,,,
 ac1748d9-7263-41d5-917b-59c1c68080ff,adorientem.io,available,74,72,11,,,
 62fe6a77-9b52-4291-a6f4-1507634242ba,adoring.io,resell,90,3,7,"Sav.com, LLC",18/04/2021 16:07,18/04/2026 16:07
@@ -957,7 +956,7 @@ a84065c3-2596-4028-8d30-79e1ab8448bd,advertisingcampaign.io,available,46,76,20,,
 6e938f8a-2d57-48ed-a41b-e463e1c3635c,advertizable.io,available,56,72,12,,,
 1ce2bff1-4e72-4a75-b4fc-c0d6865f648c,advertizer.io,resell,66,76,10,"Sav.com, LLC",18/10/2022 19:10,18/10/2025 19:10
 c5e103f6-df4b-4295-afb5-40a8f28293ad,advertorial.io,resell,60,80,11,Dynadot Inc,18/09/2021 17:01,18/09/2025 17:01
-2bee9fc8-fefa-4817-bb11-538de3b3f732,advice.io,resell,82,92,6,"Sav.com, LLC",07/09/2022 16:18,07/09/2025 16:18
+2bee9fc8-fefa-4817-bb11-538de3b3f732,advice.io,resell,82,23,6,"Sav.com, LLC",07/09/2022 16:18,07/09/2026 16:18
 7a7985a1-df10-4e10-84e6-135decffe7a8,adviewed.io,available,32,4,8,,,
 9e91a1b1-2447-4036-a27d-b7c085ceefe9,adviewing.io,available,32,4,9,,,
 97c42478-fa4b-4a7f-8adf-8f23d1576949,adviews.io,available,36,16,7,,,
@@ -973,6 +972,7 @@ b0f86db1-ec0f-4221-95a6-031de04dc64c,advisoryletter.io,available,36,72,15,,,
 d9cb876d-9d8f-4b78-829a-6743d4500481,advisoryopinion.io,available,56,72,16,,,
 e5162b62-25fb-443d-bc96-bd59eec50075,advocacyplanning.io,available,54,8,17,,,
 7c3f59c7-1ddb-4616-b094-166407a55a1c,advocacyresearch.io,available,54,16,17,,,
+d7689a1a-6efc-4cee-a1b7-82078e358c89,advocate.io,resell,90,17,8,"NameCheap, Inc.",29/03/2020 14:30,29/03/2026 14:30
 ff38a4e9-0ef3-4355-8f3d-9205d400e212,advocated.io,available,50,76,9,,,
 b925fc73-8859-44b2-b0f7-a9ca12c72dde,advocategeneral.io,available,54,72,16,,,
 1a3721cd-ec40-4945-9013-c3f354933033,advocating.io,available,36,76,10,,,
@@ -989,7 +989,7 @@ c852e21b-902d-4c75-a543-352e1285f2b2,aerialcableway.io,available,62,72,15,,,
 e0478472-7e4f-4bbc-8138-c49b87660aac,aerialsurvey.io,available,58,80,13,,,
 dc582a62-b3e2-4bd5-898b-fa4bf1983127,aeriferous.io,available,46,1,10,,,
 1b4f0a4a-68e4-40db-8194-4a67707711a5,aero.io,resell,72,84,4,Dynadot Inc,16/11/2014 00:30,16/11/2025 00:30
-24b22776-8bb4-4bd6-821d-dda944b91b9f,aerobic.io,resell,74,5,7,"GoDaddy.com, LLC",12/02/2019 10:08,12/02/2026 10:08
+24b22776-8bb4-4bd6-821d-dda944b91b9f,aerobic.io,resell,74,4,7,"GoDaddy.com, LLC",12/02/2019 10:08,12/02/2026 10:08
 89030eb3-c624-4f93-91cd-17dbefb0b836,aerobically.io,available,44,72,11,,,
 5ba0b6f9-27b3-4c09-a4ad-e1c1ec80fa02,aerobicize.io,available,62,72,10,,,
 036fdad1-5f75-4040-b753-fae52a1479cb,aerobics.io,resell,67,76,8,"NameCheap, Inc.",13/03/2015 11:26,13/03/2026 11:26
@@ -1019,7 +1019,7 @@ c696c7cd-a6d8-4c01-a52a-08e072e33145,aestival.io,available,46,2,8,,,
 0d7ed5e0-e0ca-4d6a-ab76-23bd60217079,afebrile.io,available,64,1,8,,,
 3c34a01e-73bb-463b-844b-c53cc8616a5c,afew.io,available,48,76,5,,,
 98be4e4d-7a00-49fd-9f0e-9234c191884c,affability.io,available,62,72,10,,,
-fef1a536-25c1-472f-8437-a0e3b92964ab,affable.io,resell,80,5,7,"GoDaddy.com, LLC",27/07/2018 10:05,27/07/2026 10:05
+fef1a536-25c1-472f-8437-a0e3b92964ab,affable.io,resell,80,4,7,"GoDaddy.com, LLC",27/07/2018 10:05,27/07/2026 10:05
 36f1bb64-61d5-4406-b626-97746bfab687,affecting.io,available,62,1,9,,,
 7f6b0e67-2105-4b95-9df4-a49ad192080c,affection.io,resell,89,76,9,Dynadot Inc,10/11/2017 02:01,10/11/2025 02:01
 7f95c883-cef3-45a8-96d8-3a62a5049d73,affectionate.io,resell,98,76,12,Dynadot Inc,16/04/2021 19:29,16/04/2026 19:29
@@ -1029,6 +1029,7 @@ d1718bcf-d613-4deb-af0c-f7d512071f31,affectioned.io,available,60,72,11,,,
 bd56ef7e-3fed-4c03-b44d-c581fa170176,affiance.io,available,85,76,8,,,
 94b61185-6231-42fc-8b1e-ec400b00a1ae,afficionado.io,available,66,20,11,,,
 f4338571-ffbd-42ee-87df-98ae6f5cdbdc,afficionados.io,available,48,8,12,,,
+8850adc5-17d6-43cc-89de-18060a03848d,affidavit.io,resell,68,3,9,"Sav.com, LLC",23/06/2025 03:42,23/06/2026 03:42
 2dc3e7da-5ee9-43ce-a2bf-e10a14a64d0e,affinal.io,available,50,2,7,,,
 f425adda-69f5-43b6-8350-f6e3ad57ebfc,affinecombination.io,available,54,72,18,,,
 13f62189-ccc5-4342-a0e4-12c3d724e07b,affined.io,available,48,1,7,,,
@@ -1038,7 +1039,7 @@ f425adda-69f5-43b6-8350-f6e3ad57ebfc,affinecombination.io,available,54,72,18,,,
 70ec14b1-866e-440f-b90e-3d9d93cb460c,affixed.io,available,54,2,7,,,
 b66ee9a4-bd19-4872-86c3-eaaffe0a9654,affixial.io,available,50,1,8,,,
 e5d63251-c32d-4c1c-82b0-a6ffa3b2b2d3,afflictive.io,available,54,1,10,,,
-99917e36-d8ef-45a7-8772-e7aaee63d480,affluence.io,resell,74,68,9,Dynadot Inc,15/06/2022 10:15,15/06/2026 10:15
+99917e36-d8ef-45a7-8772-e7aaee63d480,affluence.io,resell,74,7,9,Dynadot Inc,15/06/2022 10:15,15/06/2026 10:15
 44585a69-f53a-4b29-8bc1-f13f42c42d7d,affluently.io,available,52,72,10,,,
 343e7295-2614-4f7d-b785-d46685bd7700,afforded.io,available,50,24,8,,,
 2ff21825-b24c-43bd-a0b5-58896b0bb8f2,affording.io,available,50,72,9,,,
@@ -1098,10 +1099,10 @@ f2ebce91-2d92-4a75-adaf-2c71f270f3b8,againsttheclock.io,available,36,72,17,,,
 357634d2-92d3-4e47-97f0-46bf02cb7902,agamic.io,available,50,1,6,,,
 e8582287-3672-4ba8-8fae-ccba4919bd2d,agamous.io,available,50,1,7,,,
 a1b730ce-a849-4905-a915-e22799df119c,agape.io,resell,94,27,5,"Sav.com, LLC",02/04/2019 10:06,02/04/2026 10:06
-4304857b-7e97-4808-9a06-346f3c6146d6,aged.io,resell,90,8,4,Dynadot Inc,05/01/2015 18:25,05/01/2026 18:25
+4304857b-7e97-4808-9a06-346f3c6146d6,aged.io,resell,90,7,4,"Spaceship, Inc.",05/01/2015 18:25,05/01/2027 18:25
 333fb4ad-8c80-4f89-8a9c-4284d1c6b66a,agedifference.io,available,58,72,14,,,
 1fa4125a-caba-4bdd-b7d0-901ab4da2a8a,agegap.io,available,62,72,7,,,
-b47411be-1814-474d-937f-d156c48c36db,ageing.io,resell,86,4,6,"GoDaddy.com, LLC",14/05/2018 05:55,14/05/2026 05:55
+b47411be-1814-474d-937f-d156c48c36db,ageing.io,resell,86,3,6,"GoDaddy.com, LLC",14/05/2018 05:55,14/05/2026 05:55
 48cf6510-4285-481c-8c3b-221914d9c978,ageisjustanumber.io,available,64,80,20,,,
 68daa805-2b5a-47de-b7fa-259de9902fc3,ageless.io,resell,70,21,7,"GoDaddy.com, LLC",12/10/2017 23:06,12/10/2025 23:06
 8e38f878-69fc-48e4-a55f-ec17551b8e30,agelong.io,available,58,1,7,,,
@@ -1110,8 +1111,7 @@ b47411be-1814-474d-937f-d156c48c36db,ageing.io,resell,86,4,6,"GoDaddy.com, LLC",
 2856d21c-d812-4fb5-a287-85356ecaedf4,agentnoun.io,available,54,72,10,,,
 0e40c799-6dc2-4108-b950-06bbed560bd3,ageold.io,available,62,1,7,,,
 b0a327b5-69a7-4309-96bf-b6ba8ff9afad,aggravated.io,available,58,2,10,,,
-0544e5df-487c-4324-b0da-2d480422c783,aggressive.io,resell,84,6,10,Key-Systems GmbH,01/01/2018 19:19,01/01/2026 19:19
-0b2f0185-62ce-4c0d-aae4-621eeb781078,aging.io,resell,86,11,5,"eNom, LLC",19/01/2022 13:15,19/01/2026 13:15
+0b2f0185-62ce-4c0d-aae4-621eeb781078,aging.io,resell,86,10,5,"eNom, LLC",19/01/2022 13:15,19/01/2026 13:15
 858383c6-6684-444c-a261-0135267f5ca0,agitated.io,available,58,2,8,,,
 b7b3cb5a-cf33-450c-9bc7-4e28c164300a,agitating.io,available,54,1,9,,,
 9577c7f6-b31c-450e-a5c8-d89302ba1a5a,agitative.io,available,52,1,9,,,
@@ -1122,7 +1122,7 @@ b1a33103-f8f0-47e8-a43e-ad6452b38810,aglow.io,resell,76,80,5,"GoDaddy.com, LLC",
 6e4b5674-d035-4092-bc29-0315502a220b,agnatic.io,available,58,1,7,,,
 7c04ba01-5032-4f2f-bf96-b6b0c81f588a,Agnes.io,resell,56,80,5,"GoDaddy.com, LLC",04/06/2020 14:30,04/06/2026 14:30
 b24c91fc-5bac-4c97-ba05-4aeae61ee076,agnostical.io,available,58,1,10,,,
-140b86af-9d87-4e73-b2e6-c61e5268cdd9,ago.io,resell,66,17,3,"NameCheap, Inc.",25/07/2014 15:46,25/07/2026 15:46
+140b86af-9d87-4e73-b2e6-c61e5268cdd9,ago.io,resell,66,16,3,"NameCheap, Inc.",25/07/2014 15:46,25/07/2026 15:46
 2b4a8cd7-e29f-49ad-85c0-34db223054af,agonadal.io,available,54,1,8,,,
 6a56adb7-3baf-446d-905a-d1a40c3833ef,agonal.io,available,58,1,6,,,
 9b864e15-5b76-49db-a5b0-5fdf1332d4a9,agone.io,available,56,3,5,,,
@@ -1256,6 +1256,7 @@ c91ceec2-1698-4ca7-9b9e-9c72a762d2ac,airnavigation.io,available,70,72,14,,,
 1ba96388-95e4-4903-a0b6-e5ec108f5274,airout.io,available,72,76,7,,,
 0890b32d-0402-4909-b9f1-a35501f5c370,airphotograph.io,available,58,72,14,,,
 95a05fad-0ddb-4e5a-b7c0-117611aa12a9,airpocket.io,available,56,72,10,,,
+d48f42d7-12a9-4e9d-8368-d25ff625ebbe,airport.io,resell,65,26,7,Dynadot Inc,13/10/2018 10:09,13/10/2025 10:09
 819af143-279a-4679-9f75-296c8a997da2,airportlounge.io,available,58,72,14,,,
 5e49eace-b0fb-4d61-90b1-0cdf8452123b,airportnovel.io,available,73,72,13,,,
 82699434-000e-4edb-b7c6-3746fec1adb0,airports.io,resell,42,36,8,"humbly, LLC",25/09/2014 00:45,25/09/2025 00:45
@@ -1332,7 +1333,7 @@ bbce896d-8bd3-4f6d-b0d5-9f91d736ec6c,albinal.io,available,56,1,7,,,
 4ae22b43-fa4f-44ff-b693-2d9766d22e35,albinotic.io,available,52,1,9,,,
 0e729297-625e-4123-a963-ea201a063375,albion.io,resell,54,84,6,Dynadot Inc,23/10/2012 17:32,23/10/2025 17:32
 32626566-e427-42af-b13b-684e27fc7e2d,albitic.io,available,56,1,7,,,
-d90bd550-0b57-48e1-bd5d-8bbf37f52253,album.io,resell,78,84,5,Dynadot Inc,24/12/2017 10:10,24/12/2025 10:10
+d90bd550-0b57-48e1-bd5d-8bbf37f52253,album.io,resell,78,18,5,Dynadot Inc,24/12/2017 10:10,24/12/2025 10:10
 353de0c5-a2a1-4784-a1a5-7444d702e0b1,albumen.io,available,62,72,7,,,
 6403e3cd-e011-4f84-aff9-4e1c4f7bb92d,albumin.io,available,62,76,7,,,
 5da7fe1c-7293-44c8-b40c-7d0a07f7b33e,albuminous.io,available,54,1,10,,,
@@ -1364,7 +1365,6 @@ a531eac2-b4d1-45a1-bc32-df8e2c465660,alertness.io,available,70,72,9,,,
 67b6827a-61be-459b-a05c-e4fdfdb3ffd1,aleut.io,available,84,3,5,,,
 62035891-f497-4a0b-b3de-5f38eb6da223,aleve.io,available,61,84,5,,,
 acd14259-9ae9-478c-a93c-98a7d90094c8,alevin.io,available,60,76,6,,,
-1ceb6a5a-dafb-4118-813d-ce0e680c4f42,alexander.io,available,66,80,9,,,
 2887df98-4965-47fe-beca-0901786cba59,alexhaley.io,available,60,72,10,,,
 d5fa1d3a-f01b-4bd9-9c6a-9956bd9219be,alexiteric.io,available,66,72,10,,,
 d068f50d-a85a-4d51-b6b8-1802bbaf0888,alfalfa.io,available,62,76,7,,,
@@ -1386,7 +1386,6 @@ c81d3658-419f-4c9a-8ccf-dcf3721b4d76,algonkian.io,available,70,1,9,,,
 499ce61e-664f-4d3a-819b-a3d1aa57af92,algonquian.io,available,70,1,10,,,
 cbfc28a1-0454-45b4-af04-1598a4d8ab95,algonquin.io,available,66,7,9,,,
 a4c6fe5c-4ec6-40df-a350-691bdb548542,algophobic.io,available,46,1,10,,,
-b70e2e6a-a83c-44ce-aa3f-578b72a19768,algore.io,resell,70,80,7,"GoDaddy.com, LLC",29/09/2020 17:27,29/09/2025 17:27
 31a47bb5-bf9f-4d25-a805-b3550b198a1d,alhaji.io,available,60,72,6,,,
 6bc8a691-73a0-4c19-ae2c-c236ddfab534,alhajia.io,available,60,72,7,,,
 f0523b43-9477-4e7e-8351-e0b47183ee83,alien.io,resell,56,35,5,Dynadot Inc,28/09/2012 00:45,28/09/2026 00:45
@@ -1404,13 +1403,14 @@ c4ed3ef8-5d7a-49c4-9961-d1175ce4b91a,alight.io,resell,86,10,6,Dynadot Inc,18/12/
 66570b86-c007-4893-adf1-2f3377918ecc,alimental.io,available,60,2,9,,,
 a0f7494d-2886-478a-be63-8b43776a2091,alimentary.io,available,62,3,10,,,
 80f2ee37-0109-4671-95c0-2801a31a7530,alimentarycanal.io,available,60,72,16,,,
+8bac1a93-2222-49de-a765-af7784ab58e7,alimony.io,resell,60,5,7,"Sav.com, LLC",19/08/2024 22:39,19/08/2026 22:39
 b4979263-72c6-4a39-8645-486e028f2ff4,aliphatic.io,available,64,1,9,,,
 8883bf14-e118-4bf1-b79c-a051134103b7,Alisa.io,available,62,84,5,,,
 d837309a-c340-473c-8aaa-73c3f07a2a8a,Alishan.io,available,56,80,7,,,
 776cc628-a5ac-4ace-bb63-b2a721fc9b8a,Alitalia.io,available,58,76,8,,,
 ae947dfe-996f-405b-8766-940e9028edf1,alittlebit.io,premium,64,72,12,,,
 adc5a303-2aa3-4d51-8d0f-eb81882ce7b2,alittlematter.io,available,46,72,15,,,
-4c0d66b2-c0a0-4dd3-ae00-9c91e25413ad,alive.io,resell,84,28,5,"GoDaddy.com, LLC",22/06/2020 22:23,22/06/2026 22:23
+4c0d66b2-c0a0-4dd3-ae00-9c91e25413ad,alive.io,resell,84,27,5,"GoDaddy.com, LLC",22/06/2020 22:23,22/06/2026 22:23
 2910017a-7509-4bd1-913f-5cbe92bd3882,aliveness.io,available,64,80,9,,,
 2ad9b562-b63b-4da5-a249-5aef981e6068,Aliyha.io,available,56,72,6,,,
 73d245cc-fa31-4e32-9d29-d6ed00217422,Alizay.io,available,62,68,6,,,
@@ -1502,6 +1502,7 @@ c5aed2d7-250c-4fbb-9db1-564e9a5b6e9f,allexpense.io,available,50,72,11,,,
 842034ab-ec85-4473-babc-635e2a66e909,allexpensespaid.io,available,60,72,17,,,
 e20e97c3-9059-475e-b464-7c4e4808a91b,alleyes.io,available,66,76,8,,,
 be48a0e6-6027-4fea-8f0a-0f38d44ea0df,alleyesandears.io,available,52,72,17,,,
+060d89a9-b8c7-4a49-9b87-e5773669df87,alleyway.io,resell,58,3,8,"NameCheap, Inc.",21/08/2024 20:21,21/08/2026 20:21
 e61ea542-e8f6-49da-9668-e46fd42a2a8b,allfalldown.io,available,48,72,13,,,
 1c915bce-1f26-44c3-bf6c-92ff991064c0,allfartandnopoo.io,available,62,72,19,,,
 02b4510b-ceb8-4711-87fe-95a8e576a4bf,allfartandnoshit.io,available,62,72,20,,,
@@ -1529,7 +1530,7 @@ b87fe1ba-f99d-43e5-802e-8f4a94bcf5fd,allhallownsummer.io,available,36,4,18,,,
 c7a40e9a-8e11-4fc2-b4cc-7be8396ac8cd,alliance.io,available,56,84,8,,,
 877b1701-7c58-4702-b1a5-5c5f9809de26,alliedarts.io,available,60,76,11,,,
 f05c6eab-311b-42e2-8b31-476dccd02148,alliedhealth.io,available,66,84,13,,,
-7762b084-d887-4de2-b598-82f220938f22,allies.io,resell,72,76,6,"humbly, LLC",19/07/2017 10:06,19/07/2026 10:06
+7762b084-d887-4de2-b598-82f220938f22,allies.io,resell,72,10,6,"humbly, LLC",19/07/2017 10:06,19/07/2026 10:06
 f4f0b3ec-9565-49ba-ada7-9f541f4a0d8b,alligatorclamp.io,available,58,72,15,,,
 67378b7c-f5fe-4929-ab40-6ee52e05a24f,alligatorgar.io,available,58,72,13,,,
 b016879a-8ef4-4b68-8c5e-cad2098ca865,allimportant.io,available,50,72,13,,,
@@ -1584,7 +1585,7 @@ cf024eab-4272-4a54-9f0c-467cd3264c5f,allornothing.io,available,62,76,14,,,
 6472fb49-7c23-424a-8b6b-5d133d42b046,allotransplant.io,available,80,72,14,,,
 98e53513-fa41-4341-ad52-4323becf699c,allotropic.io,available,46,1,10,,,
 593e326e-8c2e-461d-a9a3-6108b4b6bb36,allotted.io,available,62,1,8,,,
-86adb0e5-129b-411c-91cb-9a257d88e180,allout.io,resell,84,9,7,"GoDaddy.com, LLC",11/10/2020 12:09,11/10/2025 12:09
+86adb0e5-129b-411c-91cb-9a257d88e180,allout.io,resell,84,8,7,"GoDaddy.com, LLC",11/10/2020 12:09,11/10/2026 12:09
 05954da7-9cf7-4837-8e5a-67a40ede3802,alloveragain.io,available,56,76,14,,,
 915a1768-b46f-42bb-b2bb-2d70d78ad470,alloverishness.io,available,52,72,15,,,
 a38d5dd8-d0b8-4481-af25-3447a878ec11,alloverness.io,available,54,72,12,,,
@@ -1600,7 +1601,7 @@ de090073-0407-4816-8bd9-cbbd073720f3,allovertheshow.io,available,58,72,17,,,
 307febf3-4a01-42f5-b0fc-c2d9fd97c773,alloverwith.io,available,54,72,13,,,
 30ee282d-7828-467f-b532-7c2ed7c49f7f,allow.io,resell,72,8,5,"Sav.com, LLC",03/02/2020 14:30,03/02/2026 14:30
 52d11d6b-c9ab-4dd4-97cf-616ef331748a,allowable.io,available,82,1,9,,,
-20842192-de7c-4df9-b4a1-b25c28cb4eee,allowance.io,resell,88,72,9,Dynadot Inc,11/03/2025 17:31,11/03/2026 17:31
+20842192-de7c-4df9-b4a1-b25c28cb4eee,allowance.io,resell,88,6,9,Dynadot Inc,11/03/2025 17:31,11/03/2026 17:31
 b413832e-266c-404b-bfb0-3c9281046144,allowances.io,available,38,12,10,,,
 f3fc3af3-804b-444f-8631-d257649e50fc,allowed.io,resell,75,72,7,"GoDaddy.com, LLC",26/04/2024 22:25,26/04/2026 22:25
 55876ec3-b6ce-4b25-8e7b-f81ce159a54b,allowfor.io,available,62,72,9,,,
@@ -1648,7 +1649,7 @@ c2f16977-624c-4e50-9a58-caa4259aab98,allthesudden.io,available,48,72,14,,,
 134fd604-0794-4979-b8e5-bd0926edcda3,alltheteainChina.io,available,62,72,20,,,
 91caeec4-9619-4fde-8ac8-e608418a9bc4,allthetime.io,available,56,72,12,,,
 dad6e918-5d11-4483-b8df-8c4e327cf94e,allthewhile.io,available,52,76,13,,,
-a265f229-a37e-42e3-aaad-b92b9c9e68e2,alltime.io,resell,72,11,8,"GoDaddy.com, LLC",06/07/2016 15:02,06/07/2026 15:02
+a265f229-a37e-42e3-aaad-b92b9c9e68e2,alltime.io,resell,72,10,8,"GoDaddy.com, LLC",06/07/2016 15:02,06/07/2026 15:02
 62e884f1-f35d-4ed9-8d1e-1a15717e5bd3,alltoo.io,available,48,72,7,,,
 9c7e6c22-ee08-41bc-afc6-60b6d52126b3,alltoofamiliar.io,available,36,72,16,,,
 2fe55ec9-9b1a-4549-a812-238d7f324de1,alltoone.io,available,44,72,10,,,
@@ -1659,7 +1660,6 @@ f197c44f-861c-4153-b27d-792a5b46ddd2,alludes.io,available,36,12,7,,,
 7646d878-50ae-4d1f-a944-a5c69fd12780,alluding.io,available,32,8,8,,,
 da5ffa13-2fae-4419-894e-311b244376f4,allupweight.io,available,54,72,13,,,
 bc7a81da-b6db-46e1-b650-c3e87f6e5d5c,allupwith.io,available,36,72,11,,,
-08650e0f-52a0-443a-b6f0-8705091f4069,alluring.io,resell,88,5,8,"Sav.com, LLC",21/12/2019 00:17,21/12/2025 00:17
 e1abdc0a-a178-4e88-bc9f-b11acea0e4c8,alluringly.io,available,48,72,10,,,
 f67d19e0-022c-43c7-af66-76f4c19aafea,allusions.io,available,32,16,9,,,
 25389ee9-37a0-46a9-ac10-491485ed9a15,allusive.io,available,60,2,8,,,
@@ -1705,6 +1705,7 @@ bcf0f143-8489-489e-b495-812a70439fcb,alodiary.io,available,54,72,8,,,
 4e49b0b3-9db5-4a9f-aa7a-c7af3b423327,alohaparty.io,available,58,72,11,,,
 ff53252e-7412-4b4e-aca3-a1e47dc58b98,alohaspirit.io,available,54,76,12,,,
 f5c9f5a1-d6fe-4cef-b85b-e50ce0fda13b,AlohaState.io,available,64,76,11,,,
+b2f30db4-432d-496b-b686-278bdc6671bb,alone.io,resell,78,12,5,Dynadot Inc,18/03/2021 21:13,18/03/2026 21:13
 01416fb9-27b9-4a22-b8e3-676e3e7d3a52,aloneinacrowd.io,available,40,72,16,,,
 5a3fa1ca-3068-4df9-a586-3dbb16a56409,aloneinthedark.io,available,72,72,17,,,
 eacdd429-b6a8-4486-ba6c-1749bec873d1,alonely.io,available,66,76,7,,,
@@ -1775,7 +1776,7 @@ cdd00d70-c238-4278-9a18-7480cb25df14,alphalytic.io,available,48,72,10,,,
 4e095f06-410c-4f9f-ad13-664d846b62a5,AlphaMajorisA.io,available,38,4,15,,,
 2c392f74-d8d8-48c2-b676-f0cfb99efc4a,alphamax.io,available,60,80,9,,,
 b492e5c5-7b53-4076-adc9-4c5905748dba,alphameprodine.io,available,52,72,14,,,
-e699d860-9955-4fe5-9989-2cfe7dd53e38,alphameric.io,available,62,2,10,,,
+e699d860-9955-4fe5-9989-2cfe7dd53e38,alphameric.io,available,62,1,10,,,
 43d75f45-424a-4322-b796-751f77118b95,alphamerical.io,available,54,72,12,,,
 5523f646-c056-45d4-bc29-0e1110a16e57,alphamerically.io,available,40,4,14,,,
 cd4335ea-ce5c-4c48-b187-5b3a3518f54c,alphamosaic.io,available,54,72,11,,,
@@ -1801,7 +1802,8 @@ c7785c51-9640-4541-a38c-3bfcfcd1ecda,alphawrap.io,available,52,8,10,,,
 cd5c861d-9cfe-4ada-b7ea-f8f1bd848a41,alpinechough.io,available,58,72,13,,,
 784b3645-be4b-43a0-9341-0bea16694f34,Alpinerepublic.io,available,54,72,15,,,
 597aee40-2c55-4345-9310-0b0d82998b15,alqahira.io,available,62,72,9,,,
-76282476-5303-4138-8e8f-e203af26e8cc,alright.io,premium,106,10,7,,,
+76282476-5303-4138-8e8f-e203af26e8cc,alright.io,premium,106,9,7,,,
+b7871f1a-36f3-419b-b854-1ab1a0933ad8,also.io,resell,70,21,4,"Sav.com, LLC",15/05/2013 06:31,15/05/2026 06:31
 c9d45380-4964-4599-a657-69a0314b830a,alt.io,available,68,96,3,,,
 6b9e5d1d-abb5-48fe-855e-e9326f80ab9e,Alta.io,resell,56,84,4,"GoDaddy.com, LLC",24/05/2018 10:13,24/05/2026 10:13
 df13abcb-5d23-4c6f-8bfa-aa65d4e95cff,altarboy.io,available,56,76,9,,,
@@ -1880,9 +1882,9 @@ cc0a8e5c-1d7b-49d9-8260-18e5aaebc234,alternativeright.io,available,54,72,17,,,
 d93da304-e624-455e-9748-9cf1de6a1e72,altitudinous.io,available,54,72,12,,,
 70a1ee28-2ac1-4301-be9b-9cefb642d40b,altogether.io,resell,76,6,10,"Sav.com, LLC - 6",18/10/2022 17:00,18/10/2025 17:00
 1a17806e-85f6-41a8-857d-c8944222b5c7,altricial.io,available,68,1,9,,,
-c5991c82-1c64-4859-bb54-99927bacca64,altruism.io,resell,78,80,8,Tool Domains Ltd,07/01/2022 17:00,07/01/2026 17:00
+c5991c82-1c64-4859-bb54-99927bacca64,altruism.io,resell,78,9,8,Tool Domains Ltd,07/01/2022 17:00,07/01/2026 17:00
 9540c956-0e4e-450b-9d2b-dd388d61736a,altruisms.io,available,46,20,9,,,
-58ec49f4-4641-4ee4-baba-d0bfdfa4b5b9,altruist.io,resell,75,80,8,"GoDaddy.com, LLC",11/05/2020 14:30,11/05/2026 14:30
+58ec49f4-4641-4ee4-baba-d0bfdfa4b5b9,altruist.io,resell,75,8,8,"GoDaddy.com, LLC",11/05/2020 14:30,11/05/2026 14:30
 a6875018-4d52-4571-bbf6-6918c4e344ae,altruistically.io,available,61,72,14,,,
 3877a0f4-4685-47c7-827b-45c5ad65b5d0,altweekly.io,available,54,72,10,,,
 d286bf39-a002-48af-98c4-0b710e23c440,alula.io,available,60,84,5,,,
@@ -1942,7 +1944,7 @@ f7b07baa-0852-422e-aa3f-19a2bc71a13b,ambience.io,resell,67,72,8,"GoDaddy.com, LL
 60283cb9-fae0-4598-921b-b3fd0a557b0f,ambiguity.io,available,55,72,9,,,
 c4ca6dd6-d978-4b5e-882d-a498debb0a5f,ambiguously.io,available,48,76,11,,,
 643b72bc-bfdd-4e61-ace1-e6cbb1d86cbb,ambit.io,resell,60,84,5,Dynadot Inc,30/03/2021 21:25,30/03/2026 21:25
-4c8851c5-bb00-471b-bf18-960379babfd0,ambitious.io,resell,68,13,9,"NameCheap, Inc.",27/10/2014 03:40,27/10/2025 03:40
+4c8851c5-bb00-471b-bf18-960379babfd0,ambitious.io,resell,68,12,9,"NameCheap, Inc.",27/10/2014 03:40,27/10/2025 03:40
 635ebf03-d772-45e3-9be2-cae95d02dcad,ambitiously.io,available,64,76,11,,,
 5471d9d1-f847-44de-81e3-2a3d3db9717f,ambitiousness.io,available,78,72,13,,,
 3b60a966-8dfb-467a-9cb2-016a35f2daa2,ambivalent.io,available,43,4,10,,,
@@ -1970,7 +1972,8 @@ c316e5c5-5c02-4118-9cc2-78ad71fc5816,amended.io,resell,60,3,7,"GoDaddy.com, LLC"
 3841cf68-c83e-4589-a25b-7160fcef3868,amends.io,resell,62,80,6,InternetX,12/02/2022 18:29,12/02/2026 18:29
 c0afac4d-0635-4b55-8bf5-9aeb3820ee4a,amenity.io,resell,66,76,7,"GoDaddy.com, LLC",08/04/2019 10:08,08/04/2026 10:08
 27f6bad0-8634-40d3-9eff-d7af3d2bbf9f,amerciable.io,available,54,1,10,,,
-79369f88-6ef7-4a92-85da-a97eeebd2e5d,american.io,resell,98,33,8,"GoDaddy.com, LLC",14/08/2019 10:06,14/08/2026 10:06
+a9b10e4f-89ec-41e9-b4b5-c75c2d026e5e,america.io,resell,72,31,7,"GoDaddy.com, LLC",14/08/2019 10:06,14/08/2026 10:06
+79369f88-6ef7-4a92-85da-a97eeebd2e5d,american.io,resell,98,32,8,"GoDaddy.com, LLC",14/08/2019 10:06,14/08/2026 10:06
 67ca7bf4-2c3b-4590-800d-8924121f4e32,Americanaloe.io,available,62,72,13,,,
 81ed0fdb-9c5a-4199-a803-c1d2ad2ed9ea,Americanaspen.io,available,58,72,14,,,
 98ab7a2a-8c69-41ef-9d63-28a32772277e,Americanbeaver.io,available,56,72,15,,,
@@ -2023,6 +2026,7 @@ eed6beef-20d4-48c9-860d-383a0319574d,Amerindians.io,available,36,12,11,,,
 b4e0d1f1-a4a1-4789-a9f0-576ed51ef91c,Amherstpheasant.io,available,54,72,16,,,
 78667c32-0788-4b27-a65c-dbe6ac0fb6f4,AMI.io,resell,72,92,3,"GoDaddy.com, LLC",16/09/2020 14:30,16/09/2025 14:30
 b4c0b82b-b8c4-4c06-8248-b814b7d046c9,amiability.io,available,62,72,10,,,
+9d9bff9e-011e-4e25-9bb7-bfbf9c6b7771,amiable.io,resell,80,4,7,"NameCheap, Inc.",21/06/2018 05:13,21/06/2026 05:13
 2b370130-5d00-4b42-b52a-04e865b53f1e,amicicuriae.io,available,38,8,12,,,
 8253927b-6a85-46a4-aa0e-acbc22950dfd,amicuscuriae.io,available,56,16,13,,,
 6d061724-3a92-4d5d-b47b-c3fa86ccc6ff,amide.io,available,62,80,5,,,
@@ -2052,7 +2056,7 @@ ea5e79a8-4365-49bc-89fe-193f3a06b9a9,amoeban.io,available,52,1,7,,,
 b87ecf7a-8444-4bbf-883e-8bda2d1bb9ad,amongotherthings.io,available,48,76,18,,,
 fd4d0602-4618-42f9-988a-a6f7adcdb03b,amongst.io,available,54,72,7,,,
 6f318716-96f9-432e-ad6d-181be890477a,amoristic.io,available,46,1,9,,,
-1621d630-956a-44ed-9eab-e931d6ae0e02,amorous.io,available,72,6,7,,,
+1621d630-956a-44ed-9eab-e931d6ae0e02,amorous.io,resell,72,7,7,"GoDaddy.com, LLC",03/09/2025 16:06,03/09/2026 16:06
 3b19d515-34de-4679-8073-a31d5d484355,amorously.io,available,50,72,9,,,
 435dab2d-edaf-4e55-a1b3-26c95f8d6754,amorphous.io,resell,50,6,9,"GoDaddy.com, LLC",12/02/2020 18:12,12/02/2026 18:12
 a6230f4c-cff2-4700-ab97-b557e251d06a,amortise.io,available,64,72,8,,,
@@ -2103,6 +2107,7 @@ c10c6911-f994-4983-910b-16a8fbc0dcb6,anachronistically.io,available,42,72,17,,,
 54a946b3-d5ba-4b7d-ae60-2de21d216415,anaclinal.io,available,46,1,9,,,
 bb7cc26a-3270-4d8c-af07-d39edceda2fb,anaclitic.io,available,46,1,9,,,
 75e664f2-3a03-4d18-acd7-988964b44f3e,anadromous.io,available,46,2,10,,,
+62b96b7a-f78b-4259-827a-b9a1dbc57ece,anaemia.io,available,62,2,7,,,
 f4691699-cc6e-41b9-9f05-b8b79240c174,anaemic.io,available,72,2,7,,,
 0057ad4c-f2bb-4c62-bb2c-c16f1b9ce243,anaerobic.io,available,50,1,9,,,
 d71e92a5-5205-4a97-b46f-d1215122a8bf,anagallis.io,available,50,72,9,,,
@@ -2131,7 +2136,7 @@ de48fc80-9ab4-4073-a680-83be1788d67c,analoguewatch.io,available,68,68,14,,,
 6d7b08cf-75c1-481a-b1e5-178fec47739e,analogwatch.io,available,68,72,12,,,
 102cd5b2-8108-4b12-89e1-6428801fa9e2,analphabet.io,available,64,1,10,,,
 29b52f26-f268-4d90-966a-bb32a97cc67f,analyser.io,resell,68,72,8,Dynadot Inc,10/09/2017 20:29,10/09/2025 20:29
-00644296-8bde-4f51-a773-ba83eaab2849,analysis.io,resell,80,84,8,"Sav.com, LLC",09/01/2020 14:30,09/01/2026 14:30
+00644296-8bde-4f51-a773-ba83eaab2849,analysis.io,resell,80,20,8,"Sav.com, LLC",09/01/2020 14:30,09/01/2026 14:30
 1dcce367-523a-412f-9685-61de3c89503f,analystprogrammer.io,available,68,72,18,,,
 788c104b-21c7-45bf-8ca8-20d7241c4661,analytes.io,available,36,16,8,,,
 f3e21267-33e6-4b2d-8285-f42e050483bf,analyticalbalance.io,available,36,72,18,,,
@@ -2201,7 +2206,6 @@ a023d41a-7734-47bb-ab87-d389ee61de41,androgenic.io,available,50,1,10,,,
 e9a93e54-c11b-4ded-952f-49e6da30f13e,androgyne.io,available,56,76,9,,,
 a15b1f80-9846-4c31-ab5c-2102c0391681,androidism.io,available,58,72,10,,,
 06decb55-4adc-4c60-881d-a178fe17d1df,AndroidOnepowered.io,available,40,4,19,,,
-decb4cc3-bd34-42d8-bda9-13fb09f4f726,andromeda.io,resell,78,88,9,"GoDaddy.com, LLC",05/10/2019 14:30,05/10/2025 14:30
 c2088a1f-996f-416f-84b2-5fb1f29d3e83,Andromedae.io,available,40,12,10,,,
 984633de-24e2-42e7-b49f-6d5d6f9bc5e9,AndromedaGalaxy.io,available,50,8,16,,,
 4a747e50-e91f-4905-bb72-5aa92b9d8a28,andsoforth.io,available,36,4,12,,,
@@ -2227,12 +2231,12 @@ bc57202c-8474-4f43-8c73-63f5be490fc2,anestrous.io,available,48,1,9,,,
 c9988bd2-0a0b-43ee-b716-6748550d0be8,aneurismal.io,available,50,6,10,,,
 e588fa2c-7e14-42d1-bb74-932baacb179d,aneurysmal.io,available,50,2,10,,,
 afaead18-c8ae-48a9-8049-26e5e8fe069c,aneyeforaneye.io,available,46,72,17,,,
-3d364e6c-b240-45b4-924a-ded7742bcc18,angel.io,resell,98,88,5,Dynadot Inc,25/03/2011 16:19,25/03/2026 16:19
+3d364e6c-b240-45b4-924a-ded7742bcc18,angel.io,resell,98,34,5,Dynadot Inc,25/03/2011 16:19,25/03/2026 16:19
 de1d3f60-aff4-4386-b529-b3c39d008f83,angelcake.io,available,72,76,10,,,
 1a6c2e92-0aac-4a2f-a8cd-f04fcfec9f44,Angeleno.io,available,54,80,8,,,
 01cf9021-bfb1-4f21-ab9e-618f6b20fc83,angelfish.io,resell,62,80,9,"GoDaddy.com, LLC",11/05/2021 20:04,11/05/2026 20:04
-966ecc16-352c-4204-b3a9-e17f0441b84a,angelic.io,resell,80,13,7,"Sav.com, LLC",10/05/2023 20:15,10/05/2026 20:15
-7f3d40e3-1935-4eb2-9a23-19acd0b9aa7c,angelical.io,available,68,3,9,,,
+966ecc16-352c-4204-b3a9-e17f0441b84a,angelic.io,resell,80,11,7,"Sav.com, LLC",10/05/2023 20:15,10/05/2026 20:15
+7f3d40e3-1935-4eb2-9a23-19acd0b9aa7c,angelical.io,available,68,1,9,,,
 3b16c1ed-13d1-4327-a3c0-cce7aa0b54cc,angelically.io,available,48,72,11,,,
 6ba1fb88-4738-47af-8773-6e8fee789f04,angelinvestor.io,resell,62,72,14,Dynadot15 LLC,31/03/2021 14:31,31/03/2026 14:31
 d0633eab-4f5a-4134-917c-180ba00da537,angered.io,available,52,4,7,,,
@@ -2306,6 +2310,7 @@ ea5d548d-16ce-4d9a-804e-346547e996fe,animatedcartoons.io,available,48,16,17,,,
 5f825f05-df0c-4eba-803d-c3269da8e4f6,animately.io,available,46,40,9,,,
 5144ba6e-eecd-42e3-96ac-727e47a62dba,animateness.io,available,56,8,11,,,
 ce557f07-34cf-4dc5-ab17-f2984273e3e6,animates.io,resell,38,40,8,Dynadot Inc,15/12/2020 17:04,15/12/2025 17:04
+118bc2ac-e668-46e7-8b3f-507725fbd839,animating.io,resell,72,2,9,"NameCheap, Inc.",20/07/2023 15:16,20/07/2026 15:16
 9d8e7a35-376a-49da-9243-3880985bb171,animationmeme.io,available,62,72,14,,,
 80333d6a-8b99-4d36-aea0-30f646c57609,animatography.io,available,56,8,13,,,
 6f4405d2-e31d-4c29-8eac-b1d566d43cb7,animators.io,resell,48,20,9,"Sav.com, LLC - 2",14/01/2023 17:00,14/01/2026 17:00
@@ -2348,11 +2353,11 @@ b6e23d86-99a0-4f76-a823-74c1758aa79d,announcers.io,available,46,8,10,,,
 41dcb414-cda8-4c5c-b267-9ace66e7465a,announcing.io,available,52,28,10,,,
 84ca853a-eac7-47ce-af1e-ba98c24652a5,annoyance.io,available,54,2,9,,,
 f7e68f5f-e0cb-42c0-8a74-c211cc3ae661,annoyed.io,available,58,4,7,,,
-ada7930f-bcfe-45a2-8618-a396b877c242,annoying.io,resell,72,8,8,"GoDaddy.com, LLC",22/07/2018 02:23,22/07/2026 02:23
+ada7930f-bcfe-45a2-8618-a396b877c242,annoying.io,resell,72,7,8,"GoDaddy.com, LLC",22/07/2018 02:23,22/07/2026 02:23
 91ea862d-087d-4d18-9db3-d5adc195572a,annual.io,resell,92,6,6,"NameCheap, Inc.",27/01/2015 22:35,27/01/2026 22:35
 91a02c8a-f903-4453-be1a-34b1b2eaf5c9,annualaccounts.io,available,38,72,15,,,
 6cfa9418-f297-403a-a71a-6859c05d2d01,annualleave.io,available,58,72,12,,,
-86e19bb2-e8bf-44c9-bc72-2c0392fb7ae3,annually.io,available,68,72,8,,,
+86e19bb2-e8bf-44c9-bc72-2c0392fb7ae3,annually.io,available,68,5,8,,,
 bab1ab41-2435-4895-83ab-1b44e2f2fefd,annualreturn.io,available,38,8,13,,,
 eca48d58-ae18-4e58-b592-87e6fecf7897,annualring.io,available,52,72,11,,,
 2399e6ba-c6a6-4515-9d45-5c0abf82cf06,annuals.io,available,42,8,7,,,
@@ -2385,7 +2390,7 @@ da7e7ed4-8539-41fa-8bf8-08e24b202571,anosmatic.io,available,44,1,9,,,
 8d5a112d-1e9f-4f87-b541-97dd47adc1a0,anoxemic.io,available,44,1,8,,,
 df64ba40-0345-412b-9b25-bc1aa21fcdc4,anoxic.io,available,48,2,6,,,
 f226b122-98a4-44f8-bd5a-aa247c6a5046,anserine.io,available,68,1,8,,,
-a64dfdc4-b533-44bd-a981-e43ada9c2541,answer.io,resell,98,84,6,"Spaceship, Inc.",23/07/2012 21:45,23/07/2026 21:45
+a64dfdc4-b533-44bd-a981-e43ada9c2541,answer.io,resell,98,21,6,"Spaceship, Inc.",23/07/2012 21:45,23/07/2026 21:45
 d1ac823f-2d96-4f1d-804f-ec728e768442,answerat.io,available,46,72,9,,,
 12072ab8-0de5-4f43-9535-2ccbe8f4e7fa,answerback.io,available,66,76,10,,,
 364dc321-b1a6-48c3-8291-402f7faa0538,answerfor.io,available,66,84,10,,,
@@ -2424,7 +2429,7 @@ cc445d47-bf8e-4c5a-9187-600c1745802f,anthropomorphize.io,available,58,72,16,,,
 02a931e5-4d3d-40d9-a5e6-07b2defedb4c,antiacne.io,available,66,24,8,,,
 47479595-7bab-44f6-ae7f-3fe581d46b2e,antiaircraft.io,available,80,16,12,,,
 cdfe49ad-2a24-4e87-bd2b-b9ba397af96d,antibacterial.io,available,82,68,13,,,
-8f4d6c51-f75e-4f86-87d2-1ac16009bc43,antibiotic.io,resell,88,5,10,"Sav.com, LLC",11/01/2021 14:30,11/01/2026 14:30
+8f4d6c51-f75e-4f86-87d2-1ac16009bc43,antibiotic.io,resell,88,4,10,"Sav.com, LLC",11/01/2021 14:30,11/01/2026 14:30
 c0ba6ad4-1792-40ee-a29a-8f42ab313a02,antiblack.io,available,36,2,9,,,
 1e277cbc-3f5b-4c20-90fa-2f3c5f371ced,antibody.io,resell,58,80,8,"GoDaddy.com, LLC",25/04/2016 00:30,25/04/2026 00:30
 c29c5377-142b-4a08-a50c-a8c22bc6df2a,antic.io,resell,92,8,5,"GoDaddy.com, LLC",13/05/2020 22:37,13/05/2026 22:37
@@ -2493,13 +2498,14 @@ c23d344e-ada4-40b4-b201-825810c08b2a,antipodean.io,available,64,4,10,,,
 92c8dca0-0504-4097-a62c-d6fe1a240728,antiquarian.io,available,68,76,11,,,
 ef049caf-ff9e-4f9c-9132-aa38a2bc0021,antiquary.io,available,68,2,9,,,
 a2bd787c-5e26-4c52-bede-b384ffa8a9ea,antiquated.io,available,58,3,10,,,
+b1109edb-3290-46f7-81d1-950aa74a415a,antique.io,resell,72,12,7,"GoDaddy.com, LLC",07/11/2014 15:45,07/11/2026 15:45
 3800a7f6-f58a-4d27-b00c-8eecda469302,antiqueshop.io,available,54,80,12,,,
 7e96924f-af9b-4778-a997-67304e6084c1,antiquesmarket.io,available,60,72,15,,,
 ab02ee6c-660a-423b-b292-f0451127a9e4,antiracism.io,available,60,40,11,,,
 238460de-21a5-4a50-9045-52465f00ac60,antiracist.io,available,86,80,11,,,
 4383ec4d-2500-4c75-9249-48a9f6957884,antirust.io,available,70,72,8,,,
 f1510d83-f8b0-4225-8bf1-af057b430bbc,antisectarian.io,available,66,72,14,,,
-40fc6d89-fb26-4482-974f-4d5161fe29b6,antiseptic.io,resell,88,2,10,"Sav.com, LLC",29/09/2020 21:58,29/09/2025 21:58
+40fc6d89-fb26-4482-974f-4d5161fe29b6,antiseptic.io,resell,88,2,10,"Sav.com, LLC",29/09/2020 21:58,29/09/2026 21:58
 b7abb992-445b-46c6-aa26-56ffd3b68fca,antishinepowder.io,available,40,72,17,,,
 af2e5b22-c192-46ba-9023-c89c23c4e9a4,antislavery.io,available,60,80,11,,,
 071e9b72-d285-4c2b-bc7f-e5016d550244,antismoking.io,available,56,12,12,,,
@@ -2537,7 +2543,7 @@ a996b3d7-a549-4df8-b855-37885838e1f5,anyandall.io,available,42,80,11,,,
 bb510c25-7ec3-427d-9a17-a7c74a69afcb,anybodyelse.io,available,50,72,12,,,
 d7362ce1-58bd-441e-9e3f-adeac8aa08d6,anybudy.io,available,62,72,7,,,
 3642d3e4-6728-4a5a-a51a-7748e8d54cff,anylonger.io,available,54,72,10,,,
-4b1bcf8c-4074-4475-912f-bc1ea192606a,anymore.io,resell,66,76,7,Dynadot Inc,20/11/2019 02:43,20/11/2025 02:43
+4b1bcf8c-4074-4475-912f-bc1ea192606a,anymore.io,resell,66,4,7,Dynadot Inc,20/11/2019 02:43,20/11/2025 02:43
 2d647915-8c3e-46a4-8655-be5bff82b112,anyplace.io,resell,50,76,8,"Sav.com, LLC",22/06/2025 23:08,22/06/2026 23:08
 02fbe5c3-90e8-4c5e-840b-8b1a4b431989,anzac.io,available,66,80,5,,,
 aa6c407f-dabb-4489-a091-afe6bb533f80,anzio.io,available,48,76,5,,,
@@ -2594,6 +2600,7 @@ cfff94e8-ee7b-4edb-b6ed-66feca285591,apologetically.io,available,42,72,14,,,
 ee0cc028-d22b-4d3d-bb03-4b465614b0a1,apologies.io,available,86,80,9,,,
 3a281797-953c-4c88-9d9d-0826c4717b13,apologise.io,available,74,68,9,,,
 27023110-f8ba-43ce-a374-ed8a9ca8c2db,apologiser.io,available,54,72,10,,,
+6fa94155-c672-4d0b-8dc9-ce6126083f52,apology.io,resell,74,5,7,Dynadot Inc,11/10/2018 01:51,11/10/2025 01:51
 4359c810-6536-460a-b9a4-c9cbfbfd3375,apomictic.io,available,46,1,9,,,
 8504c93b-28a5-4070-8bf3-1660299f5a37,apopemptic.io,available,64,1,10,,,
 2be3d800-23ef-400e-bd2a-74ff5108e501,apophatic.io,available,46,1,9,,,
@@ -2610,14 +2617,15 @@ fadbcd09-9660-4dc9-8317-227ae97ba871,apothecial.io,available,43,1,10,,,
 1cefaf49-98bf-47c0-8226-ef28ffa6517d,appalled.io,available,52,1,8,,,
 47252f01-7c20-4658-b939-d0418f501d4f,appalling.io,available,50,2,9,,,
 d7b7d66d-405c-4f08-a8ed-9099c8d672b1,appam.io,available,66,72,5,,,
-a7f89270-be73-410e-899f-6ceb5729ab62,apparel.io,resell,98,84,7,"GoDaddy.com, LLC",25/01/2015 00:30,25/01/2026 00:30
+a7f89270-be73-410e-899f-6ceb5729ab62,apparel.io,resell,98,16,7,"GoDaddy.com, LLC",25/01/2015 00:30,25/01/2026 00:30
 a0307908-f2ce-4f33-acca-494887d4094d,appareled.io,available,46,1,9,,,
 fbf36c2a-ce49-4d0c-b34d-70865a7880c3,apparels.io,available,32,12,8,,,
 3e35ae18-cd88-434f-86ca-d3b26ba0e967,apparently.io,available,58,76,10,,,
-5ac5e9e9-8b24-498b-8ad0-45c4b7b7a9a2,appeal.io,available,96,88,6,,,
+5ac5e9e9-8b24-498b-8ad0-45c4b7b7a9a2,appeal.io,available,96,14,6,,,
 6acbc082-b94c-49d3-8239-bc21fd4376f3,appealable.io,available,46,1,10,,,
 abbc7925-bc1e-482a-bd3d-105affc8daea,appealingly.io,available,50,72,11,,,
 6a6c1d88-8b66-4c19-ac46-91a4e2eb172a,appealscourt.io,available,52,72,13,,,
+e25025de-6831-4d60-860c-7bbed641addb,appearance.io,resell,72,7,10,One.com A/S,08/06/2016 00:30,08/06/2026 00:30
 7f79cf2f-05f6-4397-9eed-ee9f89f55ddd,appearances.io,available,34,32,11,,,
 e0c26ef5-161b-4702-a061-7534e0ae260b,appearing.io,available,68,68,9,,,
 20be5e52-9e5d-47ab-82ab-315a7e3b8562,appears.io,available,38,20,7,,,
@@ -2774,7 +2782,7 @@ f6fe6141-6509-464e-9ceb-d843f9739768,arcadeadventure.io,available,70,72,16,,,
 6bc2daaa-8717-4a4b-8f3c-063ce16d8b49,arcadian.io,resell,76,10,8,"GoDaddy.com, LLC",17/03/2019 10:07,17/03/2026 10:07
 4e6aa3d8-9252-40a6-aa17-08be9529319c,arcane.io,resell,54,29,6,"GoDaddy.com, LLC",20/10/2013 02:21,20/10/2025 02:21
 f6eef972-7828-48f2-9bb1-8d743f68017a,arced.io,available,50,3,5,,,
-f4a4fe5b-3367-4abb-bd58-f99c4d72c371,arch.io,resell,64,34,4,"GoDaddy.com, LLC",03/06/2009 22:09,03/06/2026 22:09
+f4a4fe5b-3367-4abb-bd58-f99c4d72c371,arch.io,resell,64,33,4,"GoDaddy.com, LLC",03/06/2009 22:09,03/06/2026 22:09
 cbaf7dd6-de3b-4b59-8092-7bd4608ee0c2,archaean.io,available,50,1,8,,,
 2bb9d372-3ffa-493c-b7ff-d603170dfffc,archaeological.io,available,56,72,14,,,
 e03d3790-04f6-4368-b290-4dfbbd788f2a,archaeologist.io,available,66,80,13,,,
@@ -2837,7 +2845,7 @@ df3cc9c4-60f8-4beb-ac60-c53406f15472,arithmeticsequence.io,available,62,72,19,,,
 ef65ddbf-fbb6-4dee-8362-e93813ace1ea,Arizonasycamore.io,available,54,72,16,,,
 c7a7253e-c8cc-456a-872a-c114a2c76350,Arleen.io,available,54,80,6,,,
 806291aa-33bb-4453-a445-ab4a1a4930a7,Arlena.io,available,54,76,6,,,
-330b8409-ac68-4df7-9a16-0903463a15fe,armada.io,resell,50,88,6,"GoDaddy.com, LLC",28/10/2020 04:42,28/10/2025 04:42
+330b8409-ac68-4df7-9a16-0903463a15fe,armada.io,resell,50,25,6,"GoDaddy.com, LLC",28/10/2020 04:42,28/10/2025 04:42
 58e4dbc1-26bc-474d-9429-db3c8144f0d7,armadas.io,available,36,16,7,,,
 e205efcd-56ec-4e2c-b026-9b51889a0699,armadillos.io,available,32,16,10,,,
 5351521b-256e-43a5-8a71-703faa162d44,armaments.io,available,32,76,9,,,
@@ -2845,7 +2853,7 @@ bb695430-2a10-47cb-b304-2ca38f647b99,armbar.io,available,84,76,6,,,
 44fc1c34-6af7-4176-9f8b-2e4da3015896,armcandy.io,resell,56,68,9,"Sav.com, LLC",22/05/2025 15:16,22/05/2026 15:16
 bb2e15e7-0b75-435f-9c74-a7c614d8654c,armchair.io,available,88,72,8,,,
 54a62732-30c9-459e-81ba-7b483314ebcd,armchairs.io,available,32,32,9,,,
-360eff08-cf20-4b8c-93fe-e2619e8005f9,armed.io,resell,70,10,5,"Sav.com, LLC",19/06/2019 10:12,19/06/2026 10:12
+360eff08-cf20-4b8c-93fe-e2619e8005f9,armed.io,resell,70,9,5,"Sav.com, LLC",19/06/2019 10:12,19/06/2026 10:12
 57b53655-3051-4fa8-ad4e-430ff8f1a6f3,armedpolice.io,available,50,8,12,,,
 72afe2d9-cda2-4306-be88-2435499ee72b,armedtotheteeth.io,available,32,4,18,,,
 872a9d2f-c73a-4573-a96f-690245a279fd,Armenianchrome.io,available,36,72,15,,,
@@ -3113,7 +3121,7 @@ b74f2236-1bb9-4711-b1ae-57990d608326,asGaeilge.io,available,46,12,10,,,
 b1e61fd1-9775-4bcf-bb49-b9cad4a96e8c,asgoodas.io,available,46,76,10,,,
 f60753ca-0d91-4730-9c76-81745dc748e3,asgoodasitgets.io,available,38,72,18,,,
 3a88b35a-b966-41d1-b3df-73c9c91ee79e,asgoodasnew.io,available,46,84,14,,,
-44ade862-32fc-40ee-9aaf-cb7e2c44cad5,ash.io,available,66,84,3,,,
+44ade862-32fc-40ee-9aaf-cb7e2c44cad5,ash.io,resell,66,33,3,"GoDaddy.com, LLC",25/02/2011 02:04,25/02/2026 02:04
 318010cd-740d-4597-ac3d-ab2e05a9345e,Asharp.io,available,68,76,7,,,
 4c5fb1b3-89d4-44e3-91f9-a8f05f93b8de,ashbin.io,available,62,72,7,,,
 494f92a6-23a6-4378-8617-3eed4ad7e3df,ashblonde.io,available,74,1,10,,,
@@ -3131,7 +3139,6 @@ ba7eb232-4b7e-49ba-b348-9e9146ad57b8,ashkenazi.io,available,80,80,9,,,
 7a81de02-7aaa-4e18-8158-351a28442c48,Ashlynn.io,available,58,76,7,,,
 c12ece6a-7076-4995-97a2-2081bc585b94,ashpan.io,available,60,72,7,,,
 3cc69e08-8247-4840-8a03-6fc42398e452,ashram.io,available,60,76,6,,,
-452297af-5e64-441c-9c48-c10621572a13,asia.io,available,72,92,4,,,
 51e16592-e7ea-4f4a-bd10-85e437378375,asiaminor.io,available,58,76,10,,,
 d26d6448-ff75-424c-a5d4-9f5de652db47,AsianAmerican.io,available,70,68,14,,,
 2f26d9fd-a9a2-4fcb-a7ba-1ca46167e498,Asianist.io,available,60,72,8,,,
@@ -3160,6 +3167,7 @@ d18b43ef-d756-4444-ac93-3739f41c817d,askafter.io,available,60,72,9,,,
 cfa21b7b-ab74-4214-b7df-296e9cf4b8d5,askback.io,available,60,72,8,,,
 3cda7a0b-27a8-47b5-99a6-9b43c150e550,askbox.io,available,67,80,7,,,
 b6e4b027-cb8c-49c2-b02b-29b91e55c130,askforseconds.io,available,36,4,15,,,
+6b4ccc7c-41a2-4bdf-bfb5-768880f46fd5,asking.io,resell,86,9,6,"Sav.com, LLC",17/07/2017 04:01,17/07/2026 04:01
 f0cd4ca0-1e16-4a58-a310-082086544177,askingprice.io,available,64,72,12,,,
 a17ac2b5-9c7f-4644-9c1a-8773259db1e9,askjeeves.io,available,64,84,10,,,
 7bc82ca6-7bd5-4b01-86d7-f12325312d80,askmeoneonsport.io,available,38,72,19,,,
@@ -3168,7 +3176,7 @@ a17ac2b5-9c7f-4644-9c1a-8773259db1e9,askjeeves.io,available,64,84,10,,,
 93e4ced5-4226-41ca-b766-4e13231b6dad,askround.io,available,60,72,9,,,
 b8edb1dd-bdae-4531-8e5a-02a681734b94,askthequestion.io,available,60,84,16,,,
 a793d44e-13d2-4c33-92ba-30c156637bc9,aslargeaslife.io,available,38,72,16,,,
-e88e8a94-3c91-4547-8d13-205c02693458,asleep.io,resell,74,7,6,"Sav.com, LLC",28/03/2015 18:03,28/03/2026 18:03
+e88e8a94-3c91-4547-8d13-205c02693458,asleep.io,resell,74,6,6,"Sav.com, LLC",28/03/2015 18:03,28/03/2026 18:03
 bdd44ea2-df33-4599-b0a0-f797933bc1a0,ASlevel.io,available,58,72,8,,,
 dd8553cb-8afd-4aa8-8a5a-074d9239f96c,aslikeasnot.io,available,46,4,14,,,
 46e400b7-420a-45b2-b5e9-ee3e043d0256,aslikelyasnot.io,available,46,4,16,,,
@@ -3314,7 +3322,7 @@ d17a8cd5-4d23-4781-abe2-84e7f2f694ce,astomatal.io,available,34,0,9,,,
 baddaf56-b14d-4a70-b08f-548122f7b854,astonish.io,resell,78,72,8,Realtime Register B.V.,31/12/2017 09:30,31/12/2025 09:30
 0557af5d-f56b-4362-aefe-3e510660d216,astonished.io,resell,68,2,10,"GoDaddy.com, LLC",16/03/2021 04:12,16/03/2026 04:12
 c138ca6f-7677-429e-8298-6459b02069f9,astonishingly.io,available,62,72,13,,,
-6b131d10-4f55-4ad0-8df8-c92d542e8cde,astounded.io,resell,68,1,9,"Sav.com, LLC",03/05/2024 16:38,03/05/2026 16:38
+6b131d10-4f55-4ad0-8df8-c92d542e8cde,astounded.io,resell,68,2,9,"Sav.com, LLC",03/05/2024 16:38,03/05/2026 16:38
 6c44620c-7bf8-441e-8c45-62e47477b023,astounding.io,resell,70,5,10,"GoDaddy.com, LLC",06/06/2020 21:29,06/06/2026 21:29
 ff496852-98f5-4f71-b5f3-b13110e6bd2c,astragalar.io,available,34,1,10,,,
 527ccd8c-3cbe-40e6-8ee7-cfb201a1e00d,astral.io,resell,80,32,6,"GoDaddy.com, LLC",29/09/2019 14:30,29/09/2025 14:30
@@ -3337,7 +3345,7 @@ bee3da8d-a516-488e-b6c3-eb71cb3f6e95,AstronomerRoyal.io,available,52,8,16,,,
 d507f9b8-4b66-449e-bc63-30e0b7d1b04a,Astros.io,available,56,44,6,,,
 22725002-4225-47da-88ad-2394c5f4c0df,Astudent.io,available,78,72,9,,,
 d8ec70fd-ab9b-4f59-a82e-da8e61ba74e8,Asturian.io,available,78,76,8,,,
-d57b9a5b-1497-475d-a2af-26a740c085a5,astute.io,resell,70,14,6,"GoDaddy.com, LLC",12/06/2018 10:18,12/06/2026 10:18
+d57b9a5b-1497-475d-a2af-26a740c085a5,astute.io,resell,70,13,6,"GoDaddy.com, LLC",12/06/2018 10:18,12/06/2026 10:18
 a910420a-a09c-4e06-85fd-7b41cfc42134,astuteness.io,available,62,72,10,,,
 27d36ea5-ea33-43e9-897b-a8c35b7d3a02,astylar.io,available,49,1,7,,,
 2ede8fb5-b102-49eb-8c7d-b3d0da36737d,asusual.io,available,54,72,8,,,
@@ -3364,14 +3372,14 @@ ced877a0-d46c-4a98-b5e0-1567e84ff7f8,ataloss.io,available,32,1,9,,,
 fefa413b-eff9-4923-a991-ad4fc0398f42,ataractic.io,available,52,1,9,,,
 65a3d8ba-26c6-435d-9d15-1aae8a14c984,ATASCII.io,available,56,72,7,,,
 a0634fb1-9612-425b-a76f-8342884fcca9,Atascosa.io,available,54,76,8,,,
-2afb528e-5335-42f3-9bef-4e3b8e46bcee,atatime.io,available,61,72,9,,,
+2afb528e-5335-42f3-9bef-4e3b8e46bcee,atatime.io,available,61,4,9,,,
 e256da66-9e61-4d21-a5ad-9104542370d7,Ataturkism.io,available,52,72,10,,,
 af0683ad-b21e-4b52-a2d6-1d638d842b9a,atavistic.io,available,36,3,9,,,
 800123b1-73d0-45bc-bec6-4045fa385313,ataxic.io,available,42,1,6,,,
 679fbf73-26af-414a-a39d-fbdb54956438,Atayal.io,available,74,72,6,,,
 a4272b8d-9742-427b-8fec-62c4379a8d28,atbat.io,available,58,72,6,,,
-de79da06-5409-40ad-9d7a-069bb7c8f5a5,atbest.io,available,67,72,7,,,
-32985078-a1a4-459f-ada3-d55bcbda3d61,atbottom.io,available,56,72,9,,,
+de79da06-5409-40ad-9d7a-069bb7c8f5a5,atbest.io,available,67,4,7,,,
+32985078-a1a4-459f-ada3-d55bcbda3d61,atbottom.io,available,56,1,9,,,
 247c1f58-b9c6-4f2e-9caa-f5199c6b228d,Atcham.io,available,56,72,6,,,
 077d1515-68ca-411e-9ffd-5335569ed4e0,ATEAC.io,available,54,72,5,,,
 ae93c67b-bd8d-4b88-a49f-cdfd777ff713,ateleiotic.io,available,34,1,10,,,
@@ -3391,7 +3399,7 @@ bf231999-84cf-4a61-b4ef-681a6e902200,atfault.io,available,36,1,8,,,
 bf6b3af6-f6c8-4102-8a5c-b1b0e8483a52,Atherstone.io,available,52,72,10,,,
 8bb8c78b-6655-4c89-b529-fbb901c482eb,athingortwo.io,available,46,72,14,,,
 ef280908-e8d3-4368-a5a9-37ddf58b5cf5,Athirne.io,available,54,72,7,,,
-a9beb6a5-fdbb-498a-89de-8862d44e29c4,athletic.io,resell,78,15,8,Dynadot Inc,10/06/2013 22:51,10/06/2026 22:51
+a9beb6a5-fdbb-498a-89de-8862d44e29c4,athletic.io,resell,78,13,8,Dynadot Inc,10/06/2013 22:51,10/06/2026 22:51
 d05f3d5f-f0fa-4092-adb5-53ee039e628e,athletically.io,available,52,72,12,,,
 82276f04-f07e-4ef9-a4ef-af9af994b562,athletics.io,resell,69,76,9,"GoDaddy.com, LLC",06/01/2014 16:14,06/01/2026 16:14
 4b324807-91da-4647-8852-a0ba839b44d0,athleticsupporter.io,available,58,76,18,,,
@@ -3402,7 +3410,7 @@ c92a8df4-b32b-4fad-a0bc-b9108e5f3d59,Athol.io,available,56,72,5,,,
 78222a50-9193-41ec-9596-c169e2f53acc,Athole.io,available,56,72,6,,,
 f80237fb-9da2-4040-a174-aa6c98f2c991,Atholl.io,available,56,76,6,,,
 9874ead6-ec80-409c-a815-cae6320b6064,Atholville.io,available,52,72,10,,,
-71afa95f-48cb-499a-9abd-1fefa0a92ee7,athome.io,resell,86,84,7,Dynadot Inc,30/11/2019 19:21,30/11/2025 19:21
+71afa95f-48cb-499a-9abd-1fefa0a92ee7,athome.io,resell,86,22,7,Dynadot Inc,30/11/2019 19:21,30/11/2025 19:21
 73f117f4-c066-47e3-9abf-9d94ce607e10,athousand.io,available,56,72,10,,,
 3144cd95-56a6-4b2c-9792-1998c4a53d51,athwart.io,available,50,72,7,,,
 7a21c6ba-bd91-48a5-a0ab-43115a558532,Athy.io,available,56,76,4,,,
@@ -3422,11 +3430,11 @@ a8e2bc10-559c-486e-98de-62e64b52d866,Atlanticbloc.io,available,52,72,13,,,
 e9f575c4-0af9-4b68-8987-eade07323f1e,Atlantick.io,available,50,76,9,,,
 a6a618e3-6c2e-495e-9502-25ca4bc16ff5,Atlanticprovinces.io,available,54,72,18,,,
 6f52bf88-5f84-4d4d-9190-2c39f86edec3,Atlantium.io,available,50,72,9,,,
-f3d01ed1-3874-405f-8ba7-fc0ddd10def7,atleast.io,available,65,72,8,,,
+f3d01ed1-3874-405f-8ba7-fc0ddd10def7,atleast.io,available,65,2,8,,,
 570b085e-33b7-4419-9b62-a872458a1f95,atlength.io,available,56,72,9,,,
 f225f68a-ce8c-4140-8c0e-2933c0eb5e4f,Atlit.io,available,54,72,5,,,
 c32d4d7e-234a-4339-bd9c-2fabc818a525,atmosphere.io,available,66,84,10,,,
-a235a9f0-f14f-4d18-83e3-8be82d19e119,atmost.io,resell,67,72,7,"NameCheap, Inc.",29/05/2023 14:39,29/05/2026 14:39
+a235a9f0-f14f-4d18-83e3-8be82d19e119,atmost.io,available,67,3,7,,,
 7ae04d62-cea6-46a8-9f12-58f35df1d234,Atnah.io,available,54,72,5,,,
 3d799732-9812-4cfe-9257-9a3a881fb50f,AtoBtravel.io,available,62,72,13,,,
 aca75ebe-69f7-44bb-82a1-dc823012c776,ATOC.io,available,54,80,4,,,
@@ -3440,10 +3448,10 @@ c95ea0d7-b761-4460-9e61-45c6f33d917b,atomist.io,available,60,76,7,,,
 a7765372-7101-4e47-95ba-024d09c6e6f5,atomization.io,available,52,72,11,,,
 0f107d03-315c-4419-9fc2-eeb5fd00dff8,atonally.io,available,46,72,8,,,
 66bc69a6-8989-4400-9459-1a6d04d02cfb,Atong.io,available,54,68,5,,,
-4efac2a9-6fa8-49ff-92fe-3f44ad1d2210,atop.io,resell,62,76,4,InternetX,30/05/2015 00:04,30/05/2026 00:04
+4efac2a9-6fa8-49ff-92fe-3f44ad1d2210,atop.io,resell,62,7,4,InternetX,30/05/2015 00:04,30/05/2026 00:04
 1ddedbd7-b368-4d71-bd72-460f504c7649,atoxic.io,available,38,1,6,,,
 a460c1e3-2b46-44f7-9dce-09719d46fe55,atpeace.io,available,74,84,8,,,
-1e9dc60d-7707-48cf-a459-80020cf3efd4,atpresent.io,available,61,72,10,,,
+1e9dc60d-7707-48cf-a459-80020cf3efd4,atpresent.io,available,61,2,10,,,
 c78016ab-6dc6-45df-8509-bfd7adf6caa5,ATRAC.io,available,54,76,5,,,
 e66fc982-9cbd-4045-840c-14c7f36a73a3,atrandom.io,available,54,72,9,,,
 7a309509-b202-41f6-9c57-dd087cce2ffe,atreat.io,available,58,16,7,,,
@@ -3457,6 +3465,7 @@ cb1aae7e-d60c-4a8b-acbc-f4d3fecea456,atrophic.io,available,36,1,8,,,
 5a3542d8-6fca-43e7-8375-6a82220854f6,ATSF.io,available,54,72,4,,,
 94f20b1b-67a7-4d1d-bf4b-5252be72c730,Atsina.io,available,54,72,6,,,
 b39cbb52-b3d0-4fa4-9abe-5f82e5753870,atsomepoint.io,available,70,72,13,,,
+98603814-ff84-4596-8802-063d58465e5c,atstake.io,resell,58,3,8,"NameCheap, Inc.",11/08/2021 18:58,11/08/2026 18:58
 be4037e6-2de7-42b6-be35-f23298170072,Atsuko.io,available,54,76,6,,,
 3ac37263-c809-4fad-9101-e9d992e02b41,attable.io,available,68,80,8,,,
 061109af-b946-4ad0-b390-9c20929a7091,attache.io,resell,62,84,7,"GoDaddy.com, LLC",06/09/2017 08:02,06/09/2025 08:02
@@ -3529,7 +3538,7 @@ cf111959-767a-4708-9c6c-145691d8e110,atthisjuncture.io,available,67,72,16,,,
 5c3c5bf1-970b-4916-83dd-5f6e921e368b,AtticGreek.io,available,50,72,11,,,
 c39632e6-7f9b-4efc-b918-2eea06ee0bdc,atticladder.io,available,56,72,12,,,
 d7e44928-55c3-488d-9787-5c466310472c,Attika.io,available,54,72,6,,,
-476994c6-29cc-4549-aa6b-bced83cfae0d,attimes.io,available,60,72,8,,,
+476994c6-29cc-4549-aa6b-bced83cfae0d,attimes.io,available,60,1,8,,,
 651daef0-0041-4982-89d5-fa91599f2638,attired.io,available,52,2,7,,,
 71721306-6435-4ce1-a1e8-5a92176927a8,Attis.io,resell,54,76,5,Mesh Digital Limited,05/10/2017 22:18,05/10/2025 22:18
 3ea5cf73-f831-452d-a7e5-9ae5a6e389b5,attitudinise.io,available,54,72,12,,,
@@ -3561,7 +3570,7 @@ fe48f65e-f7e0-4aa0-b3e7-ba592d54a402,attributive.io,available,72,72,11,,,
 44f0f757-7d05-48cf-a336-c69bf9d955b3,Attymon.io,available,54,72,7,,,
 380c714f-6809-4be7-87c3-1f9f17b43ee6,Atushi.io,available,54,72,6,,,
 ea2d2569-43cd-4b72-b2e7-25934bc99156,Atwell.io,available,54,80,6,,,
-8610f28e-b58c-4199-be7a-79829f5c7c01,atworst.io,available,55,72,8,,,
+8610f28e-b58c-4199-be7a-79829f5c7c01,atworst.io,available,55,1,8,,,
 f389c4b5-096a-4919-98b3-fdd634f0320c,ATWT.io,available,54,72,4,,,
 55cf9d56-6f93-4416-9c41-60e2d8eb908d,ATYD.io,available,54,72,4,,,
 351d9b84-d99e-49cf-931b-0c1accb26779,atypically.io,available,54,72,10,,,
@@ -3671,6 +3680,7 @@ e084e4f9-d09b-45e1-8036-8d522ab89b78,Auldgirth.io,available,50,72,9,,,
 cd17be08-23da-4c55-ad79-8edb9b80925f,Aultmore.io,available,50,72,8,,,
 27786ccd-790d-429a-b93c-2efab4f8ba9d,aunaturel.io,available,46,76,10,,,
 c3b08010-c03a-414b-b0da-3ac07c0ef11f,Aunglan.io,available,54,72,7,,,
+56736615-2e7b-4a9c-ab8e-aa9f247688a3,aunt.io,resell,74,,4,"Sav.com, LLC",08/05/2017 00:30,08/05/2026 00:30
 6abfdb6e-00b1-454b-bdb1-e8618d32ddf0,aunts.io,available,54,0,5,,,
 24d5726a-3955-40b6-8316-9565e33e9dd8,auparfum.io,available,38,8,9,,,
 b6a0fd58-9f7b-462f-8017-ffc42217a8a9,aura.io,resell,62,84,4,"GoDaddy.com, LLC",12/03/2013 11:44,12/03/2026 11:44
@@ -3864,6 +3874,7 @@ c775be46-6a68-4c36-8d4e-907656039a92,aweary.io,available,56,1,6,,,
 ccc34178-bb6c-4b38-988a-b1fc154b81b8,awesomely.io,resell,60,76,9,"GoDaddy.com, LLC",09/04/2024 09:04,09/04/2026 09:04
 94924860-6b5c-4bf2-a199-a86fe797fcd2,awestricken.io,available,52,72,12,,,
 837309e9-1675-4391-ab43-32bdd973bf4c,awfully.io,available,62,3,7,,,
+1eef5080-1c9c-4401-99e5-a76c284188d3,awfulness.io,available,60,,9,,,
 7012c1b1-fb48-4ac7-ab99-55e62ce08094,awheel.io,available,50,2,6,,,
 e0861100-fce6-4045-aa9e-01dc0a992004,awholenother.io,available,40,72,14,,,
 adeec42d-59bf-4edc-93c8-6e177dc36314,awing.io,available,58,3,5,,,
@@ -4374,7 +4385,7 @@ cdf67176-7e2f-407a-a6e1-5dc579bdc6f5,bandwidth.io,resell,64,80,9,"GoDaddy.com, L
 17621914-6b8a-4c3c-ba70-d4e2f3cf1524,bandwidths.io,available,38,8,10,,,
 e921265e-d671-4937-82aa-c34dc736c1f4,bandy.io,resell,46,6,5,"Sav.com, LLC - 25",18/05/2024 17:00,18/05/2026 17:00
 48d3e4f7-13b1-4663-9886-a77cbe78b771,baneful.io,available,42,1,7,,,
-2cd46fe8-c416-47e2-9508-73dcb66e227c,bang.io,resell,126,80,4,"NameCheap, Inc.",15/02/2014 00:31,15/02/2026 00:31
+2cd46fe8-c416-47e2-9508-73dcb66e227c,bang.io,resell,126,27,4,"NameCheap, Inc.",15/02/2014 00:31,15/02/2026 00:31
 aa58a3a2-e5ee-4d54-b444-29cd0f01321c,Bangkoker.io,available,56,72,9,,,
 63cf818c-87d3-4c99-b456-7714c768a773,bangles.io,available,56,20,7,,,
 4f82c97d-e71b-413b-9a29-4e3ab0aa7647,bangor.io,available,52,76,6,,,
@@ -4629,7 +4640,7 @@ a41e7c7d-1a85-47e4-912b-df9bff6ce98c,basewallah.io,available,32,72,11,,,
 ff09bcdf-1485-4e84-9141-d44b9e0e6c65,basewide.io,available,48,72,8,,,
 9656e312-85c7-4157-8341-ca72efce2b00,basewise.io,available,42,72,8,,,
 d42b09de-b1c4-4aa8-ae2d-9b524e8515c4,basewoman.io,available,52,72,9,,,
-06bf9028-f989-41b9-ab53-9321ad2a625a,bash.io,resell,88,76,4,Dynadot Inc,11/01/2023 17:15,11/01/2026 17:15
+06bf9028-f989-41b9-ab53-9321ad2a625a,bash.io,resell,88,22,4,Dynadot Inc,11/01/2023 17:15,11/01/2026 17:15
 0f3df417-c38c-4240-bebb-5ef7a4547c8c,bashawism.io,available,50,4,9,,,
 a1af609d-5e0e-4e39-9ad4-d4e2b6e08dcf,bashaws.io,available,36,12,7,,,
 ad4bcb99-87ec-4c43-8fb5-aecefe49320c,bashawship.io,available,50,4,10,,,
@@ -4795,7 +4806,7 @@ a83a5900-076c-49fb-b35f-e256b05816ca,bawdily.io,available,49,72,7,,,
 85c71698-06e2-4f64-949c-67bcf3c25a62,bawdry.io,available,50,1,6,,,
 e7d97f10-a65d-403a-98d1-8270df62e3e4,bawdy.io,available,46,3,5,,,
 d1dafc8d-2241-4485-9bf6-b841f2ddf405,baybreeze.io,available,66,76,10,,,
-32ab5a37-d774-4876-8cc8-31217820a1e6,bayer.io,resell,70,92,5,"NameCheap, Inc.",09/11/2013 10:02,09/11/2025 10:02
+32ab5a37-d774-4876-8cc8-31217820a1e6,bayer.io,resell,70,17,5,"NameCheap, Inc.",09/11/2013 10:02,09/11/2025 10:02
 8a62d0ae-e3a3-46b7-bf1e-61c98a55cee5,bayesian.io,resell,60,8,8,"GoDaddy.com, LLC",17/06/2019 19:45,17/06/2026 19:45
 19a8b390-c0a6-4741-942f-317430693f1e,baywindow.io,available,56,72,10,,,
 191727bc-7847-45c6-822c-279688e90dd4,bazillionaire.io,available,62,76,13,,,
@@ -4881,7 +4892,7 @@ d8c18c01-0a94-4198-80dc-c68a54454822,beateverything.io,available,40,72,15,,,
 138817a1-016e-4d5c-b050-cc6339737a83,beatfeet.io,available,54,72,9,,,
 49c60d21-10ae-4bd3-b712-73f7c7392bac,beatific.io,available,66,4,8,,,
 de805f26-21cc-4e29-b7bc-4dd33629a07b,beatin.io,available,58,72,7,,,
-6eb02cfc-cd53-4da7-9260-0911f1a2dcaa,beating.io,available,78,68,7,,,
+6eb02cfc-cd53-4da7-9260-0911f1a2dcaa,beating.io,available,78,3,7,,,
 1964cea5-f5f0-4d0a-a2e7-ed154234af98,beatintoshape.io,available,56,72,15,,,
 5c0cfa11-4c69-4595-9db5-3faba3b2b4e7,Beatlesque.io,available,56,76,10,,,
 556061f5-4df9-4892-b0ca-0c1eac263db1,beatlevel.io,available,54,72,10,,,
@@ -5233,6 +5244,7 @@ ee1ba973-e172-4e76-8876-5e136909a75d,Bendgate.io,available,44,72,8,,,
 6f45bff5-3303-4e76-ac8b-74deac8c43ad,bends.io,available,62,68,5,,,
 d3930a41-8a8e-41fb-a418-e99b1128e77c,bendystraw.io,available,76,72,11,,,
 512666db-6695-4799-b0a8-b1dc47b488ef,bene.io,resell,52,92,4,Porkbun LLC,13/05/2014 05:07,12/08/2026 00:30
+4411cdd1-d1a4-4508-9212-1fdac642e427,beneath.io,resell,58,4,7,Dynadot Inc,05/05/2020 19:11,05/05/2026 19:11
 e0d0104a-2d33-4367-a425-573612b6b899,Benedictine.io,available,68,76,11,,,
 17a6ddb2-8ebd-4f7f-bb32-8ff1b9b7d971,benediction.io,available,58,24,11,,,
 53e608cd-e0bc-452b-8626-a2b36d698687,benedictions.io,available,40,12,12,,,
@@ -5298,7 +5310,7 @@ afff647a-cc1f-4eb5-bb65-07ffc14d9b94,berrybearingalder.io,available,44,72,19,,,
 8bdc83f1-6306-4588-a1be-c7df59f8c943,berthing.io,available,54,72,8,,,
 2cc09c04-ed54-4b3c-9419-1a2f33a059d6,beseeingyou.io,available,,80,13,,,
 3407baea-98c3-4a62-bc1a-2e23aac27251,beseeming.io,available,66,72,9,,,
-160bde2a-aa04-4d1f-a423-3ee1f22c1b8e,besides.io,resell,72,72,7,Dynadot Inc,29/11/2019 08:49,29/11/2025 08:49
+160bde2a-aa04-4d1f-a423-3ee1f22c1b8e,besides.io,resell,72,6,7,Dynadot Inc,29/11/2019 08:49,29/11/2025 08:49
 868d145f-0d57-4634-a6ae-11edb5163125,bespectacled.io,available,52,72,12,,,
 efe925ed-a369-464d-a19c-0573e1e5abff,bestbibandtucker.io,available,72,72,19,,,
 f3b48717-6c2f-4a9e-a7c0-c4ca0db85018,bestbitter.io,available,72,72,11,,,
@@ -5928,7 +5940,7 @@ da28eeea-235c-4ba7-bb91-51384f60d5f9,blogette.io,available,60,72,8,,,
 12c1e121-69b4-48c3-a30a-a88e5e03c22e,blonde.io,resell,110,13,6,"GoDaddy.com, LLC",07/07/2016 00:30,07/07/2026 00:30
 943bf2b1-e43b-47e4-b436-431f3d84a0b7,blondish.io,available,52,76,8,,,
 e5903382-347b-46a2-b618-720735d3b8ef,blondlace.io,available,58,76,10,,,
-d164a38b-b388-432c-ac01-a02cda2caf2c,blood.io,resell,78,,5,"NameCheap, Inc.",11/05/2015 00:30,11/05/2027 00:30
+d164a38b-b388-432c-ac01-a02cda2caf2c,blood.io,resell,78,21,5,"NameCheap, Inc.",11/05/2015 00:30,11/05/2027 00:30
 6fd65f2f-15c7-4452-9aa8-d5a1813ae86f,bloodcell.io,available,54,72,10,,,
 af6ca56d-d1f4-4671-a07b-511643f8c1d9,bloodcells.io,available,36,8,11,,,
 20639967-4ee3-4bfc-83f8-63315e55131a,bloodcount.io,available,56,72,11,,,
@@ -7030,7 +7042,7 @@ ebbcd4fd-1fd6-46e7-9b72-7975f194596a,briefcases.io,available,46,20,10,,,
 cfd689ea-4644-44b0-8176-2e13e8c8bc6d,briefest.io,available,40,8,8,,,
 aacaa243-f85f-4e57-b5c8-6059c8f57aa2,briefing.io,resell,66,76,8,"GoDaddy.com, LLC",11/06/2016 00:30,11/06/2026 00:30
 a3c9fea3-5a6e-4012-bc20-d7159d9ee099,briefingnote.io,available,70,72,13,,,
-2808aae4-d9df-4b18-9295-4c73e654a68b,briefly.io,resell,65,80,7,"GoDaddy.com, LLC",03/04/2014 12:53,03/04/2026 12:53
+2808aae4-d9df-4b18-9295-4c73e654a68b,briefly.io,resell,65,12,7,"GoDaddy.com, LLC",03/04/2014 12:53,03/04/2026 12:53
 840a1b02-0bda-4ff8-a620-ed2683411ba2,briefness.io,available,52,72,9,,,
 cfb3af4f-9712-48ea-8070-5392f53052d1,briery.io,available,66,1,6,,,
 edb882bd-85e5-4358-a094-b16c5e9dae87,brig.io,resell,52,84,4,"GoDaddy.com, LLC",04/02/2019 10:07,04/02/2026 10:07
@@ -7796,7 +7808,7 @@ d539eaec-eb99-4d2b-a5aa-6ffe2ff268c6,butterlike.io,available,62,72,10,,,
 6cf42ceb-7e97-44d2-a91d-9bed27427b4e,buttertart.io,available,60,72,11,,,
 faca6990-7f78-420d-a0ce-5dd8f953b3e0,butterup.io,available,68,76,9,,,
 9272d105-7380-4689-a3e6-a1ac7f9ce9cd,butterwoman.io,available,56,72,11,,,
-d8f2451e-2c73-428f-99c8-2f4f32a4cf4b,butthen.io,available,56,72,8,,,
+d8f2451e-2c73-428f-99c8-2f4f32a4cf4b,butthen.io,available,56,1,8,,,
 8ba040a9-76a2-4759-95af-5147b2a69747,butthenagain.io,available,42,72,14,,,
 40721ae1-24a6-438d-93e7-71b5801ad67a,butties.io,available,42,24,7,,,
 8601da2d-59c5-49be-9769-8d2a2a7ad08b,buttin.io,available,70,72,7,,,
@@ -7882,7 +7894,7 @@ b0bdec10-a2e1-4367-98c2-5d2dc58eb7f2,byawidemargin.io,available,38,72,16,,,
 0da04511-b14b-49e7-b379-0f8fb2d96976,bybid.io,available,60,72,6,,,
 0e11f41e-e598-4dfa-b0b7-bd872f283db8,byblood.io,available,38,72,8,,,
 2f828c1b-9383-47e1-adaa-978feb265afe,bychalks.io,available,52,72,9,,,
-d1edc5b1-5848-4f72-8f93-b6deef83b3e9,bychance.io,available,56,80,9,,,
+d1edc5b1-5848-4f72-8f93-b6deef83b3e9,bychance.io,available,56,6,9,,,
 6e6ca2ad-1566-42a9-867a-82d588f5b7d3,bychoice.io,available,52,80,9,,,
 c7d675e0-866f-44be-a0e4-5b4c9eee60d9,byChristmas.io,available,68,72,12,,,
 e277d290-c52d-4afb-8f10-83bae76eceeb,bycommittee.io,available,38,72,12,,,
@@ -7890,7 +7902,8 @@ e277d290-c52d-4afb-8f10-83bae76eceeb,bycommittee.io,available,38,72,12,,,
 7dbd608e-4c7b-4913-b313-cd9e588dda2c,bycontraries.io,available,38,4,13,,,
 ef63a2e9-4d96-465e-8213-bc394f809738,bycrumbs.io,available,38,4,9,,,
 312019fe-de6f-4d3e-a715-15fe264a67d8,bydegrees.io,available,38,24,10,,,
-b2d15e4d-6a58-4044-9c81-7b7397958805,bye.io,resell,72,76,3,InternetX,31/10/2019 14:30,31/10/2025 14:30
+b2d15e4d-6a58-4044-9c81-7b7397958805,bye.io,resell,72,14,3,InternetX,31/10/2019 14:30,31/10/2025 14:30
+a8b9c101-5506-429a-96d0-9894b6fdb4af,byebye.io,resell,98,10,7,"Sav.com, LLC",05/02/2025 17:16,05/02/2026 17:16
 6720d9b4-7e10-4d94-b2ba-0af0cf0fb45d,byeelection.io,available,56,72,12,,,
 f1846dfa-5b6f-48f4-a465-271a958eb354,byelection.io,available,56,72,11,,,
 ecd476e9-b5b4-4bc2-a3fc-06835f688d47,Byelorussian.io,available,78,72,12,,,
@@ -7902,7 +7915,7 @@ ff876aef-5562-4e82-a8bd-e276cd75b8d6,byfoot.io,available,50,72,7,,,
 280c3847-796d-4834-ab74-668e2c0934bc,byguessorbygolly.io,available,38,72,20,,,
 295383e2-1e10-43f4-a98c-9b355956e9aa,byguessorbygosh.io,available,38,72,19,,,
 7b619288-8a8a-46fd-82d6-6eef1e19495b,bygum.io,available,50,12,6,,,
-c442521c-3b95-44f5-9a26-4648da12eee3,byhand.io,available,60,80,7,,,
+c442521c-3b95-44f5-9a26-4648da12eee3,byhand.io,available,60,4,7,,,
 fb2e353b-a87f-4007-9b7c-e07a15cbd3a1,byheaven.io,available,38,72,9,,,
 7d62c9d9-7fae-4a8d-bc7d-7987cdd82313,byhookorbycrook.io,available,52,72,19,,,
 c23c5ce4-85c8-43c7-a0cf-27e21eb7c9dd,byinches.io,available,52,72,9,,,
@@ -8603,7 +8616,6 @@ b9eb7d65-fa15-49cf-8ba0-8c809b8db93b,carrierbag.io,available,54,72,11,,,
 e646bd37-5771-4066-9bf9-c90510b1a002,carrot.io,resell,86,84,6,"NameCheap, Inc.",12/08/2014 00:31,12/08/2026 00:31
 ac9c9332-74cd-4227-8797-1bb4834c4d4c,carrotdog.io,available,60,72,10,,,
 1fcf303e-4490-4bb7-996b-dac2504af5ea,carrots.io,resell,60,28,7,"GoDaddy.com, LLC",02/01/2019 10:10,02/01/2026 10:10
-21bb2e6b-1ccc-4bcc-8f06-6250f5420c17,carry.io,resell,58,80,5,"GoDaddy.com, LLC",20/09/2019 10:10,20/09/2025 10:10
 8f9c9804-4c84-4889-86ed-6b7b353e534c,carryalls.io,available,38,8,9,,,
 9196fd65-43f5-481b-a2e9-522856b6621e,carryaway.io,available,66,72,10,,,
 caaa6636-8de7-4f0c-a009-4a1441b3a04e,carryback.io,available,64,72,10,,,
@@ -8741,7 +8753,7 @@ f8790937-a870-4988-b839-1ccbecb6c577,cassettes.io,available,42,28,9,,,
 87c5b910-effa-4302-823e-e941ab22c1e0,Cassey.io,available,56,76,6,,,
 34845679-0a58-4f0f-b414-0faa1e431a4e,Cassidy.io,resell,66,76,7,"GoDaddy.com, LLC",07/04/2020 11:06,07/04/2026 11:06
 c5b0876e-3714-4e6f-938e-ca51bc400670,cassoulet.io,available,64,76,9,,,
-e4390a49-52a9-4d50-b2cc-492fb91a88ec,cast.io,resell,62,76,4,"GoDaddy.com, LLC",03/10/2021 21:25,03/10/2025 21:25
+e4390a49-52a9-4d50-b2cc-492fb91a88ec,cast.io,resell,62,26,4,"GoDaddy.com, LLC",03/10/2021 21:25,03/10/2025 21:25
 93961a61-7eef-4dc7-960d-ee822df4594d,castabout.io,available,62,72,10,,,
 23fc36e1-2e24-4600-bcb7-b0573faaa610,castaccounts.io,available,62,72,13,,,
 70480e9b-73cf-445a-b679-e3f03a456cd4,castachill.io,available,60,72,12,,,
@@ -9063,6 +9075,7 @@ cdd5fbb7-ec08-49ba-8210-5b0002fb2049,cerealbars.io,available,52,8,11,,,
 e842e8f5-c99f-4e17-9a9b-0dd96cd6b783,cerebrally.io,available,54,72,10,,,
 e50f0992-27ca-4727-b064-697ac191d596,ceremonial.io,available,76,68,10,,,
 9c9daaac-05f8-4a67-8518-ae4d1df4115d,ceremony.io,resell,68,76,8,"NameCheap, Inc.",23/11/2015 23:03,23/11/2025 23:03
+79d48f10-07c8-4ab1-9224-048e6a8681e4,certain.io,resell,80,7,7,"GoDaddy.com, LLC",29/01/2014 21:14,29/01/2026 21:14
 b6856c91-71b3-4fbc-b7be-c5fe1becad1b,certainity.io,available,62,72,10,,,
 1a95aa54-1e29-479e-9bbc-5a010346d232,certifiedaccountant.io,available,60,72,20,,,
 6c9bdf4d-c3f7-4aaa-9518-d2b4f5a4d065,certifying.io,available,54,72,10,,,
@@ -9231,6 +9244,7 @@ c5da6557-3794-4536-ab53-4ea52b1284c8,charactersperinch.io,available,56,72,19,,,
 14b66963-7f5a-4f4f-896b-29274abde8ea,charactertrait.io,available,70,72,15,,,
 7b04203c-ccd1-4bb7-8c57-d370a2bdb1b7,charcoalgrey.io,available,36,72,13,,,
 d1c97bdb-8209-4a4b-8529-8223b84f48d9,chardonnay.io,resell,60,88,10,"GoDaddy.com, LLC",11/03/2018 05:29,11/03/2026 05:29
+dc4e4e00-e526-4aa2-a9ae-7073b9327b71,charge.io,resell,86,25,6,"GoDaddy.com, LLC",18/06/2011 19:06,18/06/2026 19:06
 dd7de88e-2320-4a03-993b-a53e9d0c14db,chargeable.io,resell,48,76,10,Porkbun LLC,09/01/2016 10:49,09/01/2026 10:49
 63f68f7b-85c5-4b80-9df5-c824ec2f4f61,chargeconjugation.io,available,36,4,18,,,
 740b9d67-0e7d-4676-adda-ee648213a4ac,chargedcurrent.io,available,36,72,15,,,
@@ -9311,9 +9325,9 @@ ad85e885-9420-441e-bdb3-d4e11839dec9,cheekily.io,available,54,72,8,,,
 54c66f17-b9b4-4f1c-83e3-352f52ca5804,cheektojowl.io,available,60,72,13,,,
 fa28b456-a6cc-40bd-86b8-85c3a0cdc5a1,cheered.io,available,52,16,7,,,
 24d8a75e-e763-4135-a0da-725d1e88dd09,cheererupper.io,available,64,72,13,,,
-0b2906d2-bf08-488d-b4d0-da3dcbb525f0,cheerfully.io,available,72,76,10,,,
+0b2906d2-bf08-488d-b4d0-da3dcbb525f0,cheerfully.io,premium,72,2,10,,,
 0c9f4cb9-34b3-43dc-978a-625a51365f4c,cheerfulness.io,available,64,72,12,,,
-1927697b-04ba-4d45-921b-b654f0c834f0,cheerily.io,available,68,76,8,,,
+1927697b-04ba-4d45-921b-b654f0c834f0,cheerily.io,available,68,1,8,,,
 eaea326b-b002-46eb-819a-5de24552fc2a,Cheerios.io,resell,68,72,8,"GoDaddy.com, LLC",28/01/2022 03:20,28/01/2026 03:20
 2b74b623-1069-4c55-b644-0b6f101e8013,cheerleader.io,resell,68,88,11,"NameCheap, Inc.",22/03/2020 16:37,22/03/2026 16:37
 9cab207b-291f-4377-983f-181470a7ab46,cheeron.io,available,64,12,8,,,
@@ -9390,13 +9404,13 @@ c7b3d7be-95fd-4671-a8fe-6f03c9bb74f1,chemicalbond.io,available,54,72,13,,,
 dd9c2678-344a-4b46-abe2-58c505bb4789,chemicalchange.io,available,54,72,15,,,
 1695248f-c6de-4cf2-a18f-7cf200fd505c,chemicalelement.io,available,66,72,16,,,
 d0b9951e-7d4b-41b9-9ae6-434d4996676e,chemicalequation.io,available,56,72,17,,,
-96aae8f5-412e-43a9-820b-973abd4fbdce,chemically.io,available,68,72,10,,,
+96aae8f5-412e-43a9-820b-973abd4fbdce,chemically.io,available,68,1,10,,,
 0dcabb57-603d-48a1-a172-c2e666f1a45b,chemicalpeel.io,available,52,76,13,,,
 17446b8e-02b7-48a3-8813-7a0575bc94a7,chemicalplant.io,available,54,72,14,,,
 186bf10e-99b2-48cc-a077-b5a0216de192,chemicalreaction.io,available,70,72,17,,,
 5c7189e5-7749-46f4-a4fe-a7d65163d7b3,chemicalsubstance.io,available,54,72,18,,,
 b4e72ac9-6602-47df-aa21-65c38a049832,chemise.io,resell,60,76,7,"GoDaddy.com, LLC",25/03/2018 09:22,25/03/2026 09:22
-1bc85d01-c3a1-4c0f-adb8-15b1529ce44d,chemistry.io,resell,74,80,9,Porkbun LLC,10/05/2015 00:30,10/05/2026 00:30
+1bc85d01-c3a1-4c0f-adb8-15b1529ce44d,chemistry.io,resell,74,20,9,Porkbun LLC,10/05/2015 00:30,10/05/2026 00:30
 7e1466bb-9c63-456e-a6e9-8ac1ff7957af,chemists.io,available,40,32,8,,,
 02503aeb-d595-4c6b-b029-d00fdb7007e2,chemoattraction.io,available,54,72,15,,,
 0c5e3387-587f-4a48-b3fb-3df681e733fc,chemotherapeutic.io,available,70,76,16,,,
@@ -9937,7 +9951,7 @@ ff1a1626-3988-417b-a649-1dd038e04928,chocolaty.io,available,66,12,9,,,
 5a0d8510-2424-48ab-ba91-f9910e25d003,chocotini.io,available,60,72,9,,,
 248cccdc-335e-49a4-bfd1-01e3f8c17c45,chocs.io,available,52,28,5,,,
 8533858c-2cce-4cea-ab41-b2d223c8bb47,Choctawan.io,available,52,72,9,,,
-4379f3a2-47d8-48b7-ad94-90b85c41835b,choice.io,resell,74,29,6,Divido Ltd,20/07/2012 17:26,30/04/2027 12:00
+4379f3a2-47d8-48b7-ad94-90b85c41835b,choice.io,resell,74,30,6,Divido Ltd,20/07/2012 17:26,30/04/2027 12:00
 f6e0c7be-f7da-4b09-8924-c49b735e238f,choiceness.io,available,61,72,10,,,
 d6d7d4be-729b-4a21-8ae8-8f3191fa9f7a,choices.io,resell,60,32,7,"Spaceship, Inc.",12/05/2017 00:30,12/05/2026 00:30
 9738bc1c-72eb-4348-b956-ad765339c891,choiceword.io,available,56,72,11,,,
@@ -9985,17 +9999,3 @@ bedaf4ba-d692-4ee8-ae97-8329d2847529,chorister.io,available,60,84,9,,,
 c5e526bc-d9cc-4129-94db-765e49b66350,choruses.io,available,40,12,8,,,
 cdc50d2f-f56c-4058-bb0d-ff2e083f4bd1,chorusgirl.io,available,56,72,11,,,
 296a54b5-440c-48bd-b830-0edf6f3145dc,chose.io,resell,78,80,5,"Spaceship, Inc.",26/05/2023 15:15,26/05/2026 15:15
-90f2c9e5-dd7e-4930-bd09-d9d2b3bea1b3,chotchke.io,available,58,72,8,,,
-a94bf22a-464e-4196-9988-2742e9091e86,chow.io,resell,76,88,4,"GoDaddy.com, LLC",04/01/2013 18:43,04/04/2026 00:30
-23f482ea-5c27-4fe5-b291-ae5744f66240,chowline.io,available,56,72,9,,,
-a097e993-484e-4e3b-9c6b-250363a45c6d,chowmein.io,available,64,76,9,,,
-afbc66f0-0153-429a-806f-42f75071963d,chowtime.io,available,58,12,8,,,
-994d1a83-1c84-4bb5-b88c-825256f12a9e,christ.io,resell,86,84,6,"GoDaddy.com, LLC",25/02/2011 02:04,25/02/2026 02:04
-b60f714f-c228-4c52-8fa5-7b25a42b5f94,Christalive.io,available,72,76,12,,,
-cc53d239-15a2-4233-87cb-2991dfaa916e,Christalmighty.io,available,72,72,15,,,
-a73d4b88-1ff2-4cb7-97af-b3163d238506,christened.io,available,38,16,10,,,
-e17126ee-8949-4a2c-bdd0-c501133962de,christens.io,available,38,16,9,,,
-b335a13e-5f4f-48c8-b7bf-07b866cfeba0,christian.io,resell,88,32,9,1API GmbH,17/04/2011 21:21,17/04/2026 21:21
-a1173a66-df6d-4d9b-b207-34315712ae1c,ChristianBrother.io,available,60,72,17,,,
-679ce734-a2c0-46c3-b20a-4aef13a89a00,Christiancalendar.io,available,42,12,18,,,
-b8108edd-e7fc-42b1-9db6-00433e178f57,Christiandemocracy.io,available,60,76,19,,,

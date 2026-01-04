@@ -6,7 +6,7 @@ id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 8675297d-b31d-46d8-8675-886edd000f2f,abactinal.io,available,50,1,9,,,
 270b6dea-6d50-4be6-b248-b7534e32a2c0,abacus.io,resell,68,84,6,"GoDaddy.com, LLC",26/02/2013 07:49,26/02/2026 07:49
 6dd80b0e-3409-4fca-82e1-ff3afab317ed,abaft.io,available,43,2,5,,,
-b9684bce-6be1-4c21-94d8-cd377b43f417,abandoned.io,resell,58,7,9,"GoDaddy.com, LLC",17/06/2019 10:08,17/06/2026 10:08
+b9684bce-6be1-4c21-94d8-cd377b43f417,abandoned.io,resell,58,7,9,"GoDaddy.com, LLC",17/06/2019 18:08,17/06/2026 18:08
 c8b369be-f3fe-4814-bee1-1c4a20cf8249,abashed.io,available,60,2,7,,,
 8afc221c-189a-4a1b-8aba-f23af8ac3428,abasic.io,available,54,2,6,,,
 a7ffea7b-9f6e-4dd2-a744-b4dd05902f82,abatable.io,available,54,1,8,,,
@@ -292,7 +292,7 @@ ad064845-8e5a-4d84-b630-c6414c637cb1,academyschool.io,available,62,72,14,,,
 31ad15ae-2cd7-440e-beab-a7ebcb664ba1,acapnial.io,available,46,1,8,,,
 dd06a4e6-f8e0-48fa-9210-7f12f4ab23e3,acapnic.io,available,50,1,7,,,
 ef24f657-61d7-49c1-9f73-6d64e561b2a2,acapnotic.io,available,50,1,9,,,
-eb4bd66a-904e-4baa-955b-b7969ada94d5,acappella.io,available,66,6,10,,,
+eb4bd66a-904e-4baa-955b-b7969ada94d5,acappella.io,premium,66,6,10,,,
 0ab4fd41-fe07-4804-9b6f-a29d08ec952f,acapulco.io,resell,54,72,8,Backordr LLC,08/06/2021 14:35,08/06/2026 14:35
 d1d5ae36-5d45-4bad-adb7-faa8d9578fac,acarpelous.io,available,46,1,10,,,
 52193ddc-80f6-46e5-a63d-6a925dc789be,acarpous.io,available,46,1,8,,,

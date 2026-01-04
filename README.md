@@ -28,7 +28,7 @@ If you want to search & filters the complete database of [.IO one word domains](
 | abactinal.io       | available | 50       | 1%     | 9      |                  |                  |                  |
 | abacus.io          | resell    | 68       | 84%    | 6      | GoDaddy.com, LLC | 26/02/2013 07:49 | 26/02/2026 07:49 |
 | abaft.io           | available | 43       | 2%     | 5      |                  |                  |                  |
-| abandoned.io       | resell    | 58       | 7%     | 9      | GoDaddy.com, LLC | 17/06/2019 10:08 | 17/06/2026 10:08 |
+| abandoned.io       | resell    | 58       | 7%     | 9      | GoDaddy.com, LLC | 17/06/2019 18:08 | 17/06/2026 18:08 |
 | abashed.io         | available | 60       | 2%     | 7      |                  |                  |                  |
 | abasic.io          | available | 54       | 2%     | 6      |                  |                  |                  |
 | abatable.io        | available | 54       | 1%     | 8      |                  |                  |                  |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.IO one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

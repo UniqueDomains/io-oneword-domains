@@ -3,6 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 32fbb7fe-0e3d-4225-9341-2c6eb10a6b5b,deflation.io,resell,,,64,5,9,"GoDaddy.com, LLC",22/02/2022 17:00,22/02/2027 17:00
 5e1b4390-8930-4028-b9b2-2d43d89e6755,goodday.io,resell,,,80,17,8,"GoDaddy.com, LLC",29/01/2016 12:16,29/01/2027 12:16
 cb59ae7a-5bb1-4c78-9920-aa608c698ac2,terms.io,resell,,,78,20,5,Gandi SAS,27/11/2013 22:21,27/11/2026 22:21
+dfbf74fa-a5cd-44ec-9fad-6fa7228340b6,clever.io,resell,,,74,38,6,"GoDaddy.com, LLC",21/03/2010 23:07,21/03/2027 23:07
 e73edf02-52f4-49ad-8c49-ab56843a3133,usa.io,resell,,,78,44,3,"Spaceship, Inc.",23/05/2010 14:55,23/05/2030 14:55
 5144a8db-b9f8-489b-8ec5-b8a10e21b30e,groundtrack.io,premium,,,38,16,11,,,
 57ffe023-b602-4de0-bef6-2cb9ed94578a,curlyfries.io,premium,,,72,8,11,,,
@@ -454,7 +455,7 @@ cfd0330b-0527-47b3-a982-ceed5351afc1,flaxmilk.io,premium,,,72,72,9,,,
 e6e139aa-a6ae-46d4-9ca9-988e74d56d98,urbanlegend.io,premium,,,60,80,12,,,
 a7cd10a9-ab3c-4f34-a4bf-c9310128d385,daisychained.io,premium,,,40,4,13,,,
 3ebd6dba-e457-40da-886d-987a14371a08,centrepunch.io,premium,,,50,72,12,,,
-90055c39-6865-4e4c-af10-8d5db100c26e,branded.io,resell,8625,59.99,72,25,7,"Name.com, Inc.",02/09/2013 00:50,02/09/2026 00:50
+90055c39-6865-4e4c-af10-8d5db100c26e,branded.io,resell,8625,59.99,72,24,7,"Name.com, Inc.",02/09/2013 00:50,02/09/2026 00:50
 62659519-1021-48b6-989f-d5d73f094419,climbup.io,resell,,,62,72,8,"GoDaddy.com, LLC",18/04/2024 13:22,18/04/2026 13:22
 e7129d1c-2cea-4388-9fd9-246b80f3d2c7,defensibly.io,premium,,,46,72,10,,,
 4d7f3ef3-d6dc-4042-8788-e2cfdc65cf49,tilts.io,premium,,,,8,5,,,
@@ -1690,7 +1691,7 @@ b879726a-5531-480b-b532-f79215516604,milliner.io,premium,,,56,84,8,,,
 75d77aac-3069-494a-8926-dca253b6169f,banqueting.io,premium,,,64,76,10,,,
 f99ee862-c0b9-4ba4-87ca-1a7e08f345ae,bestfriend.io,resell,,,72,8,11,Dynadot Inc,19/12/2020 14:31,19/12/2026 14:31
 2535c8d8-df17-455f-ba11-b203a26016f8,elbowjoint.io,premium,,,54,72,11,,,
-13c00317-f587-499a-a418-e074adc2e2b2,powerful.io,resell,,,82,29,8,1API GmbH,29/06/2013 01:15,29/06/2026 01:15
+13c00317-f587-499a-a418-e074adc2e2b2,powerful.io,resell,,,82,27,8,1API GmbH,29/06/2013 01:15,29/06/2026 01:15
 c05bdb69-c14f-4291-af00-3b640d4b70b2,Chinesesteamedbun.io,premium,,,52,72,19,,,
 792f1075-c668-4e43-be72-97ead73e2f80,navybean.io,premium,,,58,72,9,,,
 042c4473-2cb1-4a36-85c6-328f53650931,sortingout.io,premium,,,,12,11,,,
@@ -1813,7 +1814,7 @@ a4c4b2a5-14e2-46b3-8735-6d69a2b23d31,humourous.io,premium,,,70,1,9,,,
 8d7abb7e-a321-478f-8246-37c5ade33ecc,Kinlochewe.io,premium,,,48,72,10,,,
 8287ee7b-aeee-4c0e-a232-d18ba055c29f,semiregular.io,premium,,,,72,12,,,
 b2821833-9540-4f66-8c4b-bd1abade03c5,doublecookedpork.io,premium,,,48,4,18,,,
-360eff08-cf20-4b8c-93fe-e2619e8005f9,armed.io,resell,,,70,11,5,"Sav.com, LLC",19/06/2019 10:12,19/06/2026 10:12
+360eff08-cf20-4b8c-93fe-e2619e8005f9,armed.io,resell,,,70,10,5,"Sav.com, LLC",19/06/2019 10:12,19/06/2026 10:12
 a7c28889-481f-4cc7-ae33-38b15b257b7a,HolySepulcher.io,premium,,,52,72,14,,,
 e58ff8b6-cbf3-4053-8f04-b181e0085c42,dogdays.io,premium,,,58,80,8,,,
 9c74db49-d59a-4104-ad53-a391585bc5dd,reminding.io,premium,,,62,68,9,,,
@@ -2445,7 +2446,7 @@ cc73fa31-f57f-44b6-8c68-39669baa08c4,anguished.io,premium,,,48,2,9,,,
 6d2321e0-6d94-4194-8214-c6303086640a,pegaway.io,premium,,,65,72,8,,,
 6016f98e-9f8e-4dd0-a17f-f6ce190d7495,watercolour.io,premium,,,98,80,11,,,
 3d89cc4b-b8c3-4c35-9878-b3ca1bebaf95,indoorrowing.io,premium,,,62,72,13,,,
-93f2d906-1647-49c1-ba7f-eafee589b969,mean.io,resell,,,64,15,4,"GoDaddy.com, LLC",29/08/2022 14:16,29/08/2026 14:16
+93f2d906-1647-49c1-ba7f-eafee589b969,mean.io,resell,,,64,16,4,"GoDaddy.com, LLC",29/08/2022 14:16,29/08/2026 14:16
 2286518e-e815-40c6-83da-8a751b8d4cab,shiftabout.io,premium,,,,1,11,,,
 f18404e0-0fd3-4969-8f18-2eda83ff3fd0,firstinnings.io,premium,,,44,8,13,,,
 e1875a19-4d5c-48f0-9385-0c38b9319865,Herceptin.io,premium,,,56,76,9,,,
@@ -2500,7 +2501,7 @@ b1d12f24-3bec-41ea-8ef3-150df2a267ac,cited.io,resell,,,58,72,5,Dynadot Inc,26/09
 754fad2b-910b-4736-968a-93c3e911a990,indrawing.io,premium,,,,1,10,,,
 467fc9d1-f105-4942-a0dd-7a6dc5e02133,SouthernPentecostal.io,premium,,,70,72,20,,,
 e1332e13-b6f2-4a26-8e81-6766a2a00200,diocesan.io,premium,,,68,68,8,,,
-8c3d9dd2-16ee-4371-99a9-f36ec6352d80,british.io,resell,,,98,27,7,"Sav.com, LLC",25/07/2017 10:13,25/07/2026 10:13
+8c3d9dd2-16ee-4371-99a9-f36ec6352d80,british.io,resell,,,98,26,7,"Sav.com, LLC",25/07/2017 10:13,25/07/2026 10:13
 8d3a9d7b-e603-41af-9370-64a72722e716,manofthepeople.io,premium,,,52,72,17,,,
 02b81a89-3184-4638-a015-cbac0d784ab6,believability.io,premium,,,68,72,13,,,
 49629ba1-d7a3-45f9-be4f-a56c21619e0b,barred.io,premium,,,52,4,6,,,
@@ -2648,7 +2649,7 @@ bffa1bfb-e8da-44c8-bed0-d1f7c3524d54,gildedcage.io,premium,,,54,72,11,,,
 cfea7b70-fca2-48db-ac19-0e5193aacbf9,perceived.io,premium,,,69,3,9,,,
 be8a59de-a14d-4b9a-8773-a35ee5cf18bd,feelgoodery.io,premium,,,62,72,11,,,
 e533772d-42d4-481b-901a-da8ca22cc789,secondtonone.io,premium,,,,76,14,,,
-00d7fb2d-eaa4-43b5-9238-97b129cbe581,ecological.io,resell,,,74,12,10,"GoDaddy.com, LLC",16/02/2022 13:15,16/02/2027 13:15
+00d7fb2d-eaa4-43b5-9238-97b129cbe581,ecological.io,resell,,,74,11,10,"GoDaddy.com, LLC",16/02/2022 13:15,16/02/2027 13:15
 5bb911cd-e3c2-4b1b-8f73-554c65072dd1,stalactite.io,premium,,,52,76,10,,,
 387fa2ee-246f-4648-9739-9b8acc77b64f,conductorless.io,premium,,,48,72,13,,,
 6133063c-77f3-416b-bd51-bfc6e3050421,zodiac.io,premium,,,64,76,6,,,
@@ -3480,7 +3481,7 @@ d488f9ac-b027-4388-a102-90154f29002a,virtualism.io,premium,,,,72,10,,,
 1b2b5661-e82b-46d5-b623-95b262a1ff97,generalquarters.io,premium,,,60,2,16,,,
 9ef5e2b2-fb30-46df-bb1a-b62319c040f8,dissociable.io,premium,,,48,72,11,,,
 48b879ab-5717-4642-802f-061b4fe71482,manageably.io,premium,,,48,72,10,,,
-06be2c8d-f68e-450d-a8b0-88964ce46b0b,fierce.io,resell,,,80,28,6,Atom.com Domains LLC,29/01/2014 19:48,29/01/2028 19:48
+06be2c8d-f68e-450d-a8b0-88964ce46b0b,fierce.io,resell,,,80,30,6,Atom.com Domains LLC,29/01/2014 19:48,29/01/2028 19:48
 8cf04046-414a-48a8-a63a-e7fd90b15067,FortErie.io,premium,,,50,12,9,,,
 3d8ffe2d-cd37-4134-8683-834c0528b9a5,OttawaHull.io,premium,,,,72,11,,,
 48504361-2dde-4d22-ae8e-0ef1b8c498ad,boxmoney.io,premium,,,44,72,9,,,
@@ -3753,7 +3754,7 @@ fa53d571-cb14-4d82-9147-73eb9d3e8fbf,animalnature.io,premium,,,36,72,13,,,
 c0215b29-6229-4f5e-b418-83d7dd7d6d3c,greenpygmygoose.io,premium,,,42,72,17,,,
 8d977a0c-24f6-48cd-8192-735f24f742d7,perforated.io,premium,,,59,72,10,,,
 32893ec8-9925-4029-a53b-b0daa5aac630,perseveringly.io,premium,,,48,72,13,,,
-86adb0e5-129b-411c-91cb-9a257d88e180,allout.io,resell,,,84,9,7,"GoDaddy.com, LLC",11/10/2020 12:09,11/10/2026 12:09
+86adb0e5-129b-411c-91cb-9a257d88e180,allout.io,resell,,,84,8,7,"GoDaddy.com, LLC",11/10/2020 12:09,11/10/2026 12:09
 c04df9ba-f623-43f6-abda-dedef5646a2e,browniepoint.io,premium,,,68,76,13,,,
 1d212217-22b8-4835-9564-3af6d064e264,cfo.io,resell,,,66,92,3,"GoDaddy.com, LLC",18/06/2014 06:49,18/06/2026 06:49
 c5c3452d-b997-4cc3-af50-b28e3492f882,chatline.io,resell,,,44,76,8,Dynadot Inc,04/04/2020 00:02,04/04/2026 00:02
@@ -3813,7 +3814,7 @@ da5ffa13-2fae-4419-894e-311b244376f4,allupweight.io,premium,,,54,72,13,,,
 ba000813-59ba-429c-91aa-0960cf84afa5,judgmentcall.io,premium,,,64,72,13,,,
 33a6af7c-725e-4773-a2d9-f2498e10062c,treefrog.io,resell,,,52,84,9,Dynadot Inc,23/10/2021 14:31,23/10/2025 14:31
 be3e5dd9-a75e-47de-9e4e-42ddd8d9ad30,newthinking.io,premium,,,,84,12,,,
-974abb2c-141d-4d76-a567-301628edaca8,futile.io,resell,,,60,6,6,Dynadot10 LLC,21/09/2020 14:31,21/09/2026 14:31
+974abb2c-141d-4d76-a567-301628edaca8,futile.io,resell,,,60,5,6,Dynadot10 LLC,21/09/2020 14:31,21/09/2026 14:31
 27f46c6b-111d-43d5-8484-fdcf3ddb7bb3,Christmasly.io,premium,,,48,72,11,,,
 8a154072-d905-40dd-9539-8d28ee8496ed,wouldof.io,premium,,,,8,8,,,
 66f4d442-7f74-4ec4-b6bd-149ea8d39fa9,longhornbeetle.io,premium,,,60,72,15,,,
@@ -4260,7 +4261,7 @@ a77984e0-8f05-4e1d-bb15-1106dfbbfce2,harmonisation.io,premium,,,70,20,13,,,
 fa0dc86d-1f42-43bb-ab63-f4b47b0c967a,espousal.io,premium,,,60,72,8,,,
 97af74e9-166f-4f4f-bbf1-6b3d3410b41d,offramp.io,resell,,,56,84,8,"NameCheap, Inc.",27/05/2015 00:05,27/05/2026 00:05
 97825d03-1fb2-415e-a56f-60dbfffbc2f0,townplanning.io,premium,,,,76,13,,,
-ba3f5924-7318-42d6-b2dc-ea7ee704c042,panoramic.io,resell,,,88,12,9,"GoDaddy.com, LLC",31/07/2023 16:15,31/07/2026 16:15
+ba3f5924-7318-42d6-b2dc-ea7ee704c042,panoramic.io,resell,,,88,13,9,"GoDaddy.com, LLC",31/07/2023 16:15,31/07/2026 16:15
 0f1a1489-db29-461a-a00a-30a238f5a2ab,eatlikeananimal.io,premium,,,56,72,18,,,
 064759c6-21e2-4144-8a7d-fe072c9fd35a,zipdown.io,premium,,,,20,8,,,
 a676fffd-3a09-4fc4-8e04-a36c20ba6cfa,eastward.io,premium,,,82,80,8,,,
@@ -4774,7 +4775,7 @@ e32328db-071a-4066-aca6-9f8594a095fe,sweatbag.io,premium,,,52,72,9,,,
 abf233f5-d786-4426-a9ef-75b7b63b3b1b,digitalize.io,resell,,,62,76,10,Dynadot Inc,13/01/2018 17:13,13/01/2026 17:13
 1f135f16-260a-4962-9d99-c73f66150369,fiftieth.io,premium,,,68,1,8,,,
 1348b154-8a39-4679-873f-61231dc139ea,lowbushblueberry.io,premium,,,62,72,17,,,
-8dc506fe-db65-4f99-993e-a0a01dc5ed40,subsidiary.io,resell,,,90,3,10,"Sav.com, LLC",16/10/2022 19:24,16/10/2026 19:24
+8dc506fe-db65-4f99-993e-a0a01dc5ed40,subsidiary.io,resell,,,90,4,10,"Sav.com, LLC",16/10/2022 19:24,16/10/2026 19:24
 3372247a-4199-466a-8c6f-4ca01644d079,perforation.io,premium,,,,2,11,,,
 07b22a8d-6cf9-45da-be7a-6a8e1ba2d224,unashamed.io,premium,,,56,76,9,,,
 9f7accf4-b8ed-4029-abcc-73534a00b76d,Aucklander.io,premium,,,56,68,10,,,
@@ -5298,7 +5299,7 @@ bc16be56-0cc5-4f95-9944-0b9b0496e023,windchimes.io,premium,,,,76,11,,,
 71a31ff0-3e86-446e-936a-eefbd47489b6,blackloredwaxbill.io,premium,,,38,4,19,,,
 e9ffbd5f-1e76-41a6-ae4f-f84d4cccba44,meanvalue.io,premium,,,52,72,10,,,
 ee9e005d-19ec-442d-b60b-7f20e59d5915,succulence.io,premium,,,60,72,10,,,
-5a12005e-e59f-4137-b8e3-56ef23aff06d,weakened.io,premium,,,52,2,8,,,
+5a12005e-e59f-4137-b8e3-56ef23aff06d,weakened.io,premium,,,52,1,8,,,
 86b064b9-37ba-4ff1-acc8-c7126ad12e61,queenregnant.io,premium,,,,72,13,,,
 5db9c5b4-1232-471e-a740-c159669e3cff,boaconstrictor.io,premium,,,54,72,15,,,
 aa1e54f7-4dad-4d12-b5d4-aeb961363f4d,freehanging.io,premium,,,50,72,12,,,
@@ -5966,7 +5967,7 @@ dbd551ac-a9cb-4fc3-8f0b-c8e15cdbe739,birthingstirrups.io,premium,,,36,4,17,,,
 199d0333-6be3-4310-956c-d41232ffae0c,multivibrator.io,premium,,,58,72,13,,,
 8fa61f0e-4c19-4098-b23f-7d47ed2b4a69,Comalapa.io,premium,,,46,72,8,,,
 870dedb3-37ba-41a2-bfee-fa264b1984db,lookyou.io,premium,,,64,76,8,,,
-d381dca2-2362-4dc1-8143-311278f2a584,off.io,resell,,,128,28,3,"GoDaddy.com, LLC",14/10/2011 18:48,14/10/2026 18:48
+d381dca2-2362-4dc1-8143-311278f2a584,off.io,resell,,,128,29,3,"GoDaddy.com, LLC",14/10/2011 18:48,14/10/2026 18:48
 a1b69249-006a-4bdb-9912-89014525bbb9,phrasebook.io,resell,,,,72,11,Gandi SAS,03/04/2021 20:25,03/04/2026 20:25
 e3adc804-8451-4d13-a95b-2883132aa585,elevatedrailway.io,premium,,,60,72,16,,,
 fcc5c685-6bd1-4c2b-a131-2f60214560be,beauticians.io,premium,,,46,20,11,,,
@@ -8126,7 +8127,7 @@ c0d8740f-3761-4cfd-9534-194447966214,NeptuneCity.io,premium,,,,8,12,,,
 304f513f-ca84-4768-b9cf-c27dc09c18d7,deciphering.io,premium,,,64,76,11,,,
 f1ecfb28-2e94-401e-94e0-d55625a056aa,odometre.io,premium,,,54,72,8,,,
 d9267185-5ef0-4fd0-9521-667d1e3e1549,domainname.io,resell,,,74,21,11,"humbly, LLC",03/05/2015 00:30,03/05/2026 00:30
-e68ee30f-35ee-48f9-b57c-711b3ee6fbd0,blurry.io,resell,,,62,9,6,"Sav.com, LLC",04/07/2016 00:30,04/07/2026 00:30
+e68ee30f-35ee-48f9-b57c-711b3ee6fbd0,blurry.io,resell,,,62,10,6,"Sav.com, LLC",04/07/2016 00:30,04/07/2026 00:30
 d4581f30-c148-42fc-b673-eed217447079,fullpoint.io,premium,,,56,68,10,,,
 bd62eaa7-0b7a-4ed1-9c4f-b3e7b5005315,catchpoints.io,premium,,,64,80,12,,,
 f3524fb0-a18b-4cd3-b885-dc3c945aac0a,tearjerker.io,premium,,,56,72,10,,,
@@ -9214,7 +9215,7 @@ d2888615-85f9-4750-986a-4dded6ac8c4d,dextrality.io,premium,,,52,72,10,,,
 67e5345b-a559-415b-8e89-548f785adaca,aversive.io,resell,,,56,1,8,Dynadot Inc,29/05/2025 03:09,29/05/2026 03:09
 e7e13903-78d9-482c-9048-6fb02fa6a1d9,vegetarian.io,resell,,,78,17,10,Dynadot Inc,04/07/2016 00:30,04/07/2026 00:30
 7630472a-334a-4b6a-b3c2-0f062c0451ff,burnishing.io,premium,,,56,76,10,,,
-bba28141-624c-4ced-8bf6-bb985fe3df9e,awake.io,resell,,,100,39,5,Dynadot Inc,12/07/2014 00:30,12/07/2026 00:30
+bba28141-624c-4ced-8bf6-bb985fe3df9e,awake.io,resell,,,100,38,5,Dynadot Inc,12/07/2014 00:30,12/07/2026 00:30
 9f61bb69-023e-4c27-a09b-ae70661a7deb,goldtooth.io,premium,,,40,76,10,,,
 deedbaad-301c-4d44-8694-9ce848e3fd8d,Chinesecapstan.io,premium,,,38,72,15,,,
 d048c0a5-6938-4aac-be4b-d91d681b67a1,basophil.io,premium,,,52,72,8,,,
@@ -9323,7 +9324,7 @@ c46b2904-ce6c-4cea-a529-d23c452973e5,Californiasheephead.io,premium,,,58,8,20,,,
 ceb85b99-6dcc-4a61-bf5c-6bbbe22d0daa,longvac.io,premium,,,58,72,8,,,
 6643fbe0-4ca5-4f65-92a8-ac3aa4f7dd2c,fanciable.io,premium,,,56,72,9,,,
 b00ee9cd-b595-4ed6-a984-550da9323925,goldenbush.io,premium,,,58,76,10,,,
-c2cbf8af-a900-4401-97ec-f72288514071,oldtimer.io,resell,,,70,14,9,"GoDaddy.com, LLC",06/02/2018 10:05,06/02/2027 10:05
+c2cbf8af-a900-4401-97ec-f72288514071,oldtimer.io,resell,,,70,15,9,"GoDaddy.com, LLC",06/02/2018 10:05,06/02/2027 10:05
 ef7ed031-1a27-49c3-9832-fa477e756e04,Nossegem.io,premium,,,46,72,8,,,
 e84f5658-f44d-4dd2-a868-9335b7af7759,wipeaway.io,premium,,,60,72,9,,,
 1923e59b-6614-4ebe-b484-58d3c4e816d3,townplanner.io,premium,,,60,72,12,,,
@@ -9998,4 +9999,3 @@ e89ebf89-3b86-48a9-9779-20fefc2f6d53,Armenianelm.io,premium,,,36,72,12,,,
 c24cbeb2-d1cc-4e7c-9541-6eee67371eb0,beoneself.io,premium,,,,72,10,,,
 055764a9-0272-46e9-8260-4b6ad7316b0b,perforator.io,premium,,,52,76,10,,,
 a8405076-2878-4d75-8816-43595f400837,spirituals.io,premium,,,,32,10,,,
-ebdecaff-cb5c-4357-86df-a5f66d803c11,Kitchawonk.io,premium,,,48,72,10,,,

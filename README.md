@@ -1,22 +1,22 @@
-# Available .IO One-Word Domains (54,667)
+# Available .IO One-Word Domains (55,077)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-54%2C667%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C077%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **54,667 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **55,077 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 54,667 domains
+**Public extract:** 1,000 rows · **Live catalog:** 55,077 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/io`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .IO one-word domain ca
 
 ### Files
 
-- `io.csv` — public CSV extract (10,000 rows)
-- `io.json` — public JSON extract (10,000 rows)
+- `io.csv` — public CSV extract (1,000 rows)
+- `io.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| transistorrad.io     | available | $44.99      | $59.99        | 64             | 76     | 16     | name.com         |
-| mentoring.io         | resell    | $26,392.50  | $59.99        | 74             | 80     | 9      | GoDaddy.com, LLC |
-| tentative.io         | premium   | $2,875      | $73.99        | 81             | 6      | 9      | Dynadot Inc      |
-| investmentcasting.io | available | $44.99      | $73.99        | 60             | 76     | 18     | name.com         |
-| recycling.io         | resell    | $15,997.65  | $73.99        | 70             | 76     | 9      | NameCheap, Inc.  |
-| alpaca.io            | premium   | —           | —             | 62             | 92     | 6      | —                |
-| fortification.io     | available | $44.99      | $73.99        | 58             | 76     | 13     | name.com         |
-| sapphire.io          | resell    | $111,722.50 | $59.99        | 92             | 63     | 8      | GoDaddy.com, LLC |
-| canopy.io            | premium   | —           | —             | 88             | 88     | 6      | —                |
-| voiceoverIP.io       | available | $66.98      | —             | —              | 76     | 13     | namecheap        |
-| private.io           | resell    | $263,233.85 | $59.99        | 86             | 40     | 7      | Divido Ltd       |
-| amp.io               | premium   | —           | —             | 78             | 88     | 3      | —                |
-| dogsit.io            | available | $44.99      | $59.99        | 96             | 72     | 6      | name.com         |
-| lunch.io             | resell    | $109,708.85 | $59.99        | 111            | 24     | 5      | Spaceship, Inc.  |
-| kingofthehill.io     | premium   | —           | —             | 70             | 88     | 16     | —                |
-| zapotec.io           | available | $44.99      | $59.99        | 86             | 72     | 7      | name.com         |
-| branded.io           | resell    | $8,625      | $59.99        | 72             | 24     | 7      | Name.com, Inc.   |
-| lotus.io             | premium   | —           | —             | 62             | 88     | 5      | —                |
-| abided.io            | available | $44.99      | $59.99        | 70             | 72     | 6      | name.com         |
-| spiritual.io         | resell    | $21,332.50  | $73.99        | 62             | 24     | 9      | GoDaddy.com, LLC |
+| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| allyoucaneat.io    | available | $53.99     | —             | 72             | 10     | 15     | name.com         |
+| branded.io         | resell    | $8,625     | $59.99        | 72             | 24     | 7      | Name.com, Inc.   |
+| reservations.io    | premium   | $21,321    | —             | 50             | 17     | 12     | Spaceship, Inc.  |
+| manya.io           | available | $53.99     | —             | 54             | 8      | 6      | name.com         |
+| nuance.io          | resell    | —          | —             | 86             | 92     | 6      | Dynadot Inc      |
+| cocks.io           | premium   | $17,761.58 | —             | 56             | 10     | 5      | humbly, LLC      |
+| goodfriend.io      | available | $53.99     | —             | 62             | 7      | 11     | name.com         |
+| bod.io             | resell    | —          | —             | 54             | 88     | 3      | GoDaddy.com, LLC |
+| vaseline.io        | premium   | —          | —             | 82             | 84     | 8      | —                |
+| havea.io           | available | $53.99     | —             | 60             | 7      | 6      | name.com         |
+| marching.io        | resell    | —          | —             | 78             | 84     | 8      | GoDaddy.com, LLC |
+| lederhosen.io      | premium   | —          | —             | 62             | 84     | 10     | —                |
+| snowballs.io       | available | $34.99     | $69.99        | 59             | 7      | 9      | namesilo         |
+| makeadifference.io | resell    | —          | —             | 64             | 84     | 17     | NameCheap, Inc.  |
+| BahaiFaith.io      | premium   | —          | —             | 54             | 84     | 11     | —                |
+| OxyContin.io       | available | $34.99     | $69.99        | 64             | 6      | 9      | namesilo         |
+| gamepark.io        | resell    | —          | —             | 60             | 84     | 8      | GoDaddy.com, LLC |
+| hayfield.io        | premium   | —          | —             | 48             | 84     | 8      | —                |
+| behindbars.io      | available | $53.99     | —             | 60             | 6      | 11     | name.com         |
+| stp.io             | resell    | —          | —             | 58             | 84     | 3      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 54,667 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 55,077 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

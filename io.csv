@@ -259,6 +259,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8ed1e8e0-6c95-4477-8fcc-85666518b1bf,disappointments.io,available,34.99,69.99,30,1,15,namesilo,,
 8f590f02-577e-4ec3-96dc-75fa6e01d220,suspicions.io,available,53.99,,43,2,10,name.com,,
 8f9c47b9-2317-4e2b-b3f2-d5f699b2148f,sexualassault.io,available,53.99,,43,3,14,name.com,,
+9008c7ca-065d-4ca6-b794-e2b156738bbf,publicity.io,resell,,,74,11,9,"Spaceship, Inc.",11/06/2014 19:20,11/06/2026 19:20
 9051f073-c5b4-446d-8dc1-f72e9c3dcb7a,stormed.io,available,53.99,,50,3,7,name.com,,
 90925bbb-dd1b-44b5-aa2d-1a4736f0ccf6,refusing.io,available,53.99,,40,3,8,name.com,,
 9222ff3c-bb60-4278-a442-67358dc55b94,storytellers.io,resell,,,66,12,12,"Sav.com, LLC",30/08/2019 10:13,30/08/2026 10:13
@@ -998,4 +999,3 @@ a6629090-9cbb-4af0-ba24-73dd33da5050,hairnet.io,premium,,,65,72,7,,,
 cbfd76b2-5ff5-41e6-a128-d05e7befa761,Hashshashin.io,premium,,,52,8,11,,,
 8cc1d1de-5a20-4af0-b355-795987ed2344,countrypunk.io,premium,,,60,72,12,,,
 723d932f-c51a-4426-b3a0-fcadfe04ee68,keepoff.io,premium,,,67,2,8,,,
-d4a4f62a-d353-4a68-b2b2-09c49656c750,LittleMastercup.io,premium,,,58,72,17,,,

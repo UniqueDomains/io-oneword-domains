@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| allyoucaneat.io    | available | $53.99     | —             | 72             | 10     | 15     | name.com          |
-| branded.io         | resell    | $8,625     | $59.99        | 72             | 23     | 7      | Name.com, Inc.    |
-| reservations.io    | premium   | $21,321    | —             | 50             | 17     | 12     | Spaceship, Inc.   |
-| manya.io           | available | $53.99     | —             | 54             | 8      | 6      | name.com          |
-| nuance.io          | resell    | —          | —             | 86             | 92     | 6      | Dynadot Inc       |
-| cocks.io           | premium   | $17,761.58 | —             | 56             | 10     | 5      | humbly, LLC       |
-| goodfriend.io      | available | $53.99     | —             | 62             | 7      | 11     | name.com          |
-| bod.io             | resell    | —          | —             | 54             | 88     | 3      | GoDaddy.com, LLC  |
-| vaseline.io        | premium   | —          | —             | 82             | 84     | 8      | —                 |
-| havea.io           | available | $53.99     | —             | 60             | 7      | 6      | name.com          |
-| marching.io        | resell    | —          | —             | 78             | 84     | 8      | GoDaddy.com, LLC  |
-| lederhosen.io      | premium   | —          | —             | 62             | 84     | 10     | —                 |
-| snowballs.io       | available | $34.99     | $69.99        | 59             | 7      | 9      | namesilo          |
-| makeadifference.io | resell    | —          | —             | 64             | 84     | 17     | NameCheap, Inc.   |
-| BahaiFaith.io      | premium   | —          | —             | 54             | 84     | 11     | —                 |
-| OxyContin.io       | available | $34.99     | $69.99        | 64             | 6      | 9      | namesilo          |
-| stp.io             | resell    | —          | —             | 58             | 84     | 3      | GoDaddy.com, LLC  |
-| hayfield.io        | premium   | —          | —             | 48             | 84     | 8      | —                 |
-| behindbars.io      | available | $53.99     | —             | 60             | 6      | 11     | name.com          |
-| sugarplum.io       | resell    | —          | —             | 54             | 84     | 9      | Sav.com, LLC - 44 |
+| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| allyoucaneat.io    | available | $53.99     | —             | 72             | 10     | 15     | name.com         |
+| branded.io         | resell    | $8,625     | $59.99        | 72             | 23     | 7      | Name.com, Inc.   |
+| reservations.io    | premium   | $21,321    | —             | 50             | 17     | 12     | Spaceship, Inc.  |
+| manya.io           | available | $53.99     | —             | 54             | 8      | 6      | name.com         |
+| evacuate.io        | resell    | $53.99     | —             | 68             | 4      | 8      | Dynadot Inc      |
+| cocks.io           | premium   | $17,761.58 | —             | 56             | 10     | 5      | humbly, LLC      |
+| goodfriend.io      | available | $53.99     | —             | 62             | 7      | 11     | name.com         |
+| nuance.io          | resell    | —          | —             | 86             | 92     | 6      | Dynadot Inc      |
+| vaseline.io        | premium   | —          | —             | 82             | 84     | 8      | —                |
+| havea.io           | available | $53.99     | —             | 60             | 7      | 6      | name.com         |
+| bod.io             | resell    | —          | —             | 54             | 88     | 3      | GoDaddy.com, LLC |
+| lederhosen.io      | premium   | —          | —             | 62             | 84     | 10     | —                |
+| snowballs.io       | available | $34.99     | $69.99        | 59             | 7      | 9      | namesilo         |
+| marching.io        | resell    | —          | —             | 78             | 84     | 8      | GoDaddy.com, LLC |
+| BahaiFaith.io      | premium   | —          | —             | 54             | 84     | 11     | —                |
+| OxyContin.io       | available | $34.99     | $69.99        | 64             | 6      | 9      | namesilo         |
+| makeadifference.io | resell    | —          | —             | 64             | 84     | 17     | NameCheap, Inc.  |
+| hayfield.io        | premium   | —          | —             | 48             | 84     | 8      | —                |
+| behindbars.io      | available | $53.99     | —             | 60             | 6      | 11     | name.com         |
+| stp.io             | resell    | —          | —             | 58             | 84     | 3      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

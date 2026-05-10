@@ -67,7 +67,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2463707a-b490-439f-89bc-3e24fd3adcb2,differences.io,available,49.99,,52,4,11,name.com,,
 25406303-f7fa-4187-8683-8b5d5cfc3ebc,filings.io,resell,,,48,8,7,"Sav.com, LLC",10/08/2024 20:37,10/08/2026 20:37
 264ea44c-f825-4313-b437-c97d29826729,manya.io,available,53.99,,54,8,6,name.com,,
-2656a473-fa59-4fbd-a9ce-a55f8d20e2b4,evacuate.io,available,53.99,,68,4,8,name.com,,
+2656a473-fa59-4fbd-a9ce-a55f8d20e2b4,evacuate.io,resell,53.99,,68,4,8,Dynadot Inc,24/04/2026 02:24,24/04/2027 02:24
 2794e527-5927-4894-b9ad-c108b96aec0e,gobust.io,available,53.99,,68,1,7,name.com,,
 27ae563b-2c6e-4297-a15a-a3371bc7d592,takealeak.io,available,53.99,,63,1,11,name.com,,
 2872bab8-8e6f-43c2-9b05-7928295ab88c,keepunder.io,available,53.99,,66,1,10,name.com,,
@@ -301,6 +301,7 @@ a273f712-ac0e-4489-b0e4-38fc72c8a79d,gonowherefast.io,available,53.99,,50,1,15,n
 a3ab00bf-a55d-40ea-898a-02dd384f2d57,arguments.io,resell,,,54,7,9,"GoDaddy.com, LLC",30/12/2025 17:01,30/12/2026 17:01
 a48a69af-7826-4c17-b39f-ba47a04e18f1,sits.io,resell,,,54,10,4,"Sav.com, LLC",27/12/2024 11:17,27/12/2026 11:17
 a4ad266d-4af8-48ec-9339-2cc304653ec2,instore.io,resell,,,74,12,8,Dynadot Inc,31/08/2020 14:48,31/08/2026 14:48
+a561443c-ef1d-47e5-ac55-8096ae2f1cb1,watercooler.io,resell,,,74,10,12,"Sav.com, LLC - 31",18/04/2024 17:00,18/04/2027 17:00
 a5839b8e-2520-49d6-9dab-25cb6857372e,weddingcake.io,resell,,,85,5,12,"Sav.com, LLC - 47",22/09/2023 17:00,22/09/2026 17:00
 a5c92559-5718-4a82-88c8-de5edb94eec0,divorcing.io,available,53.99,,46,6,9,name.com,,
 a6c0b023-25c5-41a2-b367-7ca73f1b63b5,stockings.io,resell,,,58,6,9,"GoDaddy.com, LLC",15/03/2026 17:01,15/03/2027 17:01
@@ -998,4 +999,3 @@ a6629090-9cbb-4af0-ba24-73dd33da5050,hairnet.io,premium,,,65,72,7,,,
 3b7c880d-5d64-44f5-832e-da6f86755073,marching.io,resell,,,78,84,8,"GoDaddy.com, LLC",06/12/2021 21:07,06/12/2025 21:07
 cbfd76b2-5ff5-41e6-a128-d05e7befa761,Hashshashin.io,premium,,,52,8,11,,,
 8cc1d1de-5a20-4af0-b355-795987ed2344,countrypunk.io,premium,,,60,72,12,,,
-723d932f-c51a-4426-b3a0-fcadfe04ee68,keepoff.io,premium,,,67,2,8,,,

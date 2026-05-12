@@ -90,11 +90,12 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 32fbb7fe-0e3d-4225-9341-2c6eb10a6b5b,deflation.io,resell,,,64,5,9,"GoDaddy.com, LLC",22/02/2022 17:00,22/02/2027 17:00
 333d2257-c867-4e64-b07f-bb77a576c3f8,shorted.io,resell,,,61,4,7,Dynadot Inc,16/05/2023 14:24,16/05/2027 14:24
 3373d926-8bc3-4f62-9ef1-85e4c6a21e50,moveit.io,resell,,,77,13,7,"GoDaddy.com, LLC",19/09/2016 18:51,19/09/2026 18:51
-33b704f4-d83e-4a96-8243-560c314b39de,engagementring.io,resell,,,72,6,15,"Spaceship, Inc.",28/11/2018 10:48,28/11/2026 10:48
+33b704f4-d83e-4a96-8243-560c314b39de,engagementring.io,resell,,,72,7,15,"Spaceship, Inc.",28/11/2018 10:48,28/11/2026 10:48
 33fd9aed-9f1a-49ea-a664-697ac4ce3f22,gonedownthetube.io,available,34.99,69.99,30,1,18,namesilo,,
 36f06747-faac-410a-8ea4-b2582ff26fd2,squealed.io,available,53.99,,40,1,8,name.com,,
 3703b0f2-78b5-4598-8e77-825420eb7619,bebothered.io,available,53.99,,63,1,11,name.com,,
 374ec8b8-952d-42df-8994-a7cdec9bbd03,ovens.io,resell,,,55,6,5,"Sav.com, LLC - 2",03/04/2022 13:15,03/04/2027 13:15
+393075d4-d54c-4f62-afaa-2cdc2bd5e00a,familybusiness.io,resell,,,68,9,15,"GoDaddy.com, LLC",06/03/2020 02:55,06/03/2027 02:55
 3989582e-91b3-40c3-b9c4-aad6fb9a6e62,filingfees.io,available,34.99,69.99,46,1,11,namesilo,,
 39c0ca77-ba7f-4121-bfef-cb99f0a132e9,cements.io,available,34.99,69.99,56,3,7,namesilo,,
 3a29e9c9-1e10-48e6-a1b1-407c44789736,FinalJudgment.io,available,75.98,,54,2,14,namecheap,,
@@ -150,7 +151,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 569817ab-8918-43ab-95f8-52f2f33db4aa,penandpaper.io,resell,,,64,7,13,"eNom, LLC",18/01/2023 17:00,18/01/2027 17:00
 5708905d-3999-4831-8007-ccb11ca1efe4,decoders.io,resell,,,50,5,8,Dynadot Inc,20/12/2025 20:25,20/12/2026 20:25
 574d49ea-2783-4776-9c9b-aedf0b7b3ad2,suggestions.io,resell,,,56,5,11,Unstoppable Domains Inc,26/12/2014 01:21,26/12/2026 01:21
-575a970c-59d4-429f-8944-25a73dcc5ac8,Yours.io,resell,,,68,18,5,"GoDaddy.com, LLC",05/04/2016 00:30,05/04/2027 00:30
+575a970c-59d4-429f-8944-25a73dcc5ac8,Yours.io,resell,,,68,25,5,"GoDaddy.com, LLC",05/04/2016 00:30,05/04/2027 00:30
 57fca84e-1ecb-41a1-bddf-034672a3867e,nauseousness.io,available,34.99,69.99,58,1,12,namesilo,,
 58ee9d5f-0914-408c-8230-ab23b7d251d3,oranything.io,available,53.99,,44,1,11,name.com,,
 5948679b-5c8f-482d-9d02-18ae30ed403a,datafeed.io,resell,,,70,7,9,Dynadot Inc,17/02/2020 14:30,17/02/2027 14:30
@@ -837,7 +838,7 @@ cd76b551-c491-47bc-99dc-d425e8d0b327,inaccordancewith.io,premium,,,42,72,18,,,
 3369a602-7207-44af-b81f-f82d479d4002,littleblueman.io,premium,,,54,72,15,,,
 60c33448-b113-47ab-b153-80c3185213be,makeadifference.io,resell,,,64,84,17,"NameCheap, Inc.",04/07/2020 10:02,04/07/2026 10:02
 8235db0d-fbe7-4a63-b248-666ca95faf11,roughish.io,premium,,,49,72,8,,,
-7a211818-3c87-4746-8f33-03d87d448a80,numlock.io,resell,,,66,4,8,Dynadot Inc,21/02/2025 21:01,21/02/2027 21:01
+7a211818-3c87-4746-8f33-03d87d448a80,numlock.io,resell,,,66,5,8,Dynadot Inc,21/02/2025 21:01,21/02/2027 21:01
 4afb6ae9-027a-47f4-994d-1ff30f72bbd5,somerset.io,resell,,,76,80,8,"GoDaddy.com, LLC",24/08/2018 21:34,24/08/2025 21:34
 9ac5ae09-fd82-4e51-8241-8d9e6407ef1c,waterbuffalo.io,premium,,,,84,13,,,
 b3fc3e19-5978-4071-a459-607386bfd263,overact.io,premium,,,62,72,7,,,
@@ -998,4 +999,3 @@ a6629090-9cbb-4af0-ba24-73dd33da5050,hairnet.io,premium,,,65,72,7,,,
 98be4e4d-7a00-49fd-9f0e-9234c191884c,affability.io,premium,,,62,72,10,,,
 3b7c880d-5d64-44f5-832e-da6f86755073,marching.io,resell,,,78,84,8,"GoDaddy.com, LLC",06/12/2021 21:07,06/12/2025 21:07
 cbfd76b2-5ff5-41e6-a128-d05e7befa761,Hashshashin.io,premium,,,52,8,11,,,
-8cc1d1de-5a20-4af0-b355-795987ed2344,countrypunk.io,premium,,,60,72,12,,,

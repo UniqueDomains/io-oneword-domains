@@ -1,10 +1,10 @@
-# Available .IO One-Word Domains (55,187)
+# Available .IO One-Word Domains (55,186)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C187%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C186%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **55,187 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **55,186 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 55,187 domains · **Median ask:** $13,774.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 55,186 domains · **Median ask:** $2,843.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/io`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/io`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .IO one-word domain ca
 
 ### Files
 
-- `io.csv` — public CSV extract (1,000 rows)
-- `io.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `io.csv`, public CSV extract (1,000 rows)
+- `io.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| publicservice.io   | available | $34.99     | $69.99        | 65             | 9      | 14     | namesilo         |
-| branded.io         | resell    | $8,625     | $59.99        | 72             | 23     | 7      | Name.com, Inc.   |
-| reservations.io    | premium   | $21,321    | —             | 50             | 17     | 12     | Spaceship, Inc.  |
-| getittogether.io   | available | $53.99     | —             | 75             | 8      | 15     | name.com         |
-| evacuate.io        | resell    | $53.99     | —             | 68             | 4      | 8      | Dynadot Inc      |
-| cocks.io           | premium   | $17,761.58 | —             | 56             | 10     | 5      | humbly, LLC      |
-| manya.io           | available | $53.99     | —             | 54             | 8      | 6      | name.com         |
-| nuance.io          | resell    | —          | —             | 86             | 92     | 6      | Dynadot Inc      |
-| vaseline.io        | premium   | —          | —             | 82             | 84     | 8      | —                |
-| havea.io           | available | $53.99     | —             | 60             | 7      | 6      | name.com         |
-| bod.io             | resell    | —          | —             | 54             | 88     | 3      | GoDaddy.com, LLC |
-| lederhosen.io      | premium   | —          | —             | 62             | 84     | 10     | —                |
-| snowballs.io       | available | $34.99     | $69.99        | 59             | 7      | 9      | namesilo         |
-| marching.io        | resell    | —          | —             | 78             | 84     | 8      | GoDaddy.com, LLC |
-| BahaiFaith.io      | premium   | —          | —             | 54             | 84     | 11     | —                |
-| OxyContin.io       | available | $34.99     | $69.99        | 64             | 6      | 9      | namesilo         |
-| makeadifference.io | resell    | —          | —             | 64             | 84     | 17     | NameCheap, Inc.  |
-| hayfield.io        | premium   | —          | —             | 48             | 84     | 8      | —                |
-| goodfriend.io      | available | $53.99     | —             | 62             | 6      | 11     | name.com         |
-| stp.io             | resell    | —          | —             | 58             | 84     | 3      | GoDaddy.com, LLC |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| daggum.io    | available | $34.99    | $69.99        | high           | low    | 6      | namesilo             |
+| branded.io   | resell    | $8,625    | $59.99        | high           | low    | 7      | Name.com, Inc.       |
+| toured.io    | available | $34.99    | $69.99        | low            | low    | 6      | namesilo             |
+| bod.io       | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| yawned.io    | available | $34.99    | $69.99        | low            | low    | 6      | namesilo             |
+| elk.io       | resell    | —         | —             | medium         | high   | 3      | Dynadot Inc          |
+| scarred.io   | available | $34.99    | $69.99        | medium         | low    | 7      | namesilo             |
+| lug.io       | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| inaway.io    | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
+| moi.io       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.      |
+| keepoff.io   | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
+| stp.io       | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| lockkey.io   | available | $34.99    | $69.99        | high           | low    | 8      | namesilo             |
+| too.io       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC         |
+| smelling.io  | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
+| use.io       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc          |
+| turntup.io   | available | $53.99    | —             | high           | low    | 8      | name.com             |
+| DSLR.io      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
+| cupboards.io | available | $34.99    | $69.99        | medium         | low    | 9      | namesilo             |
+| duke.io      | resell    | —         | —             | high           | low    | 4      | Atom.com Domains LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 55,187 live domains                        |
+| 1,000-row public sample | 55,186 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .io domains. The names range from clean dictionary words such as begin.io, yonder.io, tall.io, and flourish.io to more unusual options like octuple.io and inquiring.io. For founders, the main question is whether a name is memorable, easy to say, and credible enough to carry a product brand. For investors, the key is pricing discipline against quality, since the median ask is $13,797. When comparing these domains, weigh simplicity, word strength, spelling risk, and any obvious trademark sensitivity before treating a higher ask as justified.
+This set includes 55,186 one-word .io domain names, referenced across 506 TLD variants for comparison, with a median ask of $2,843. The mix ranges from short brandable words such as mojo.io, half.io, and know.io to compound phrases like dogwalking.io and letitbe.io. When comparing these domains, weigh asking price against renewal cost, spelling simplicity, and trademark exposure before choosing one.
 
-- Prioritize short, clear words with strong recall
-- Use the $13,797 median ask as a price reality check
-- Watch trademark exposure on names tied to known brands
-- Favor names that sound natural aloud and type cleanly
+- 55,186 one-word .io domain names in this set
+- Median ask across the set: $2,843
+- Spans 506 TLD variants for price comparison
+- Mix of short brandable words and compound names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

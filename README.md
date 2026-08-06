@@ -1,10 +1,10 @@
-# Available .IO One-Word Domains (55,186)
+# Available .IO One-Word Domains (55,223)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C186%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-55%2C223%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **55,186 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **55,223 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 55,186 domains · **Median ask:** $2,843.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 55,223 domains · **Median ask:** $2,367.83 · **High-demand under $2,500:** 85
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/io`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| daggum.io    | available | $34.99    | $69.99        | high           | low    | 6      | namesilo             |
-| branded.io   | resell    | $8,625    | $59.99        | high           | low    | 7      | Name.com, Inc.       |
-| toured.io    | available | $34.99    | $69.99        | low            | low    | 6      | namesilo             |
-| bod.io       | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
-| yawned.io    | available | $34.99    | $69.99        | low            | low    | 6      | namesilo             |
-| elk.io       | resell    | —         | —             | medium         | high   | 3      | Dynadot Inc          |
-| scarred.io   | available | $34.99    | $69.99        | medium         | low    | 7      | namesilo             |
-| lug.io       | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
-| inaway.io    | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
-| moi.io       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.      |
-| keepoff.io   | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
-| stp.io       | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
-| lockkey.io   | available | $34.99    | $69.99        | high           | low    | 8      | namesilo             |
-| too.io       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC         |
-| smelling.io  | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
-| use.io       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc          |
-| turntup.io   | available | $53.99    | —             | high           | low    | 8      | name.com             |
-| DSLR.io      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
-| cupboards.io | available | $34.99    | $69.99        | medium         | low    | 9      | namesilo             |
-| duke.io      | resell    | —         | —             | high           | low    | 4      | Atom.com Domains LLC |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| daggum.io   | available | $34.99    | $69.99        | high           | low    | 6      | namesilo             |
+| branded.io  | resell    | $8,625    | $59.99        | high           | low    | 7      | Name.com, Inc.       |
+| toured.io   | available | $34.99    | $69.99        | low            | low    | 6      | namesilo             |
+| bod.io      | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| xlviii.io   | available | $34.98    | $75.98        | low            | low    | 6      | namecheap            |
+| elk.io      | resell    | —         | —             | medium         | high   | 3      | Dynadot Inc          |
+| yawned.io   | available | $34.99    | $69.99        | low            | low    | 6      | namesilo             |
+| lug.io      | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| allylic.io  | available | $34.98    | $75.98        | low            | low    | 7      | namecheap            |
+| moi.io      | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.      |
+| scarred.io  | available | $34.99    | $69.99        | medium         | low    | 7      | namesilo             |
+| stp.io      | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| apractic.io | available | $33.99    | $69.99        | low            | low    | 8      | namesilo             |
+| too.io      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC         |
+| glinting.io | available | $34.98    | $75.98        | low            | low    | 8      | namecheap            |
+| use.io      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc          |
+| inaway.io   | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
+| DSLR.io     | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
+| keepoff.io  | available | $34.99    | $69.99        | medium         | low    | 8      | namesilo             |
+| duke.io     | resell    | —         | —             | high           | low    | 4      | Atom.com Domains LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 55,186 live domains                        |
+| 1,000-row public sample | 55,223 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 85 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

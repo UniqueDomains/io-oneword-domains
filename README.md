@@ -1,10 +1,10 @@
-# Available .IO One-Word Domains (65,128)
+# Available .IO One-Word Domains (27,410)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C128%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C410%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **65,128 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,410 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 65,128 domains · **Median ask:** $624.12 · **High-demand under $2,500:** 79
+**Public extract:** 1,000 rows · **Live catalog:** 27,410 domains · **Median ask:** $999.74 · **High-demand under $2,500:** 117
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/io`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar              |
-| ---------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| lxxx.io    | available | $34.98     | $75.98        | high           | low    | 4      | namecheap              |
-| arabian.io | resell    | $65,203.85 | $59.99        | high           | low    | 7      | Sav.com, LLC           |
-| balky.io   | available | $38.99     | $69.99        | medium         | low    | 5      | namesilo               |
-| bod.io     | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC       |
-| boned.io   | available | $33.99     | $69.99        | high           | low    | 5      | namesilo               |
-| int.io     | resell    | —          | —             | high           | high   | 3      | Realtime Register B.V. |
-| lxxxv.io   | available | $34.98     | $75.98        | medium         | low    | 5      | namecheap              |
-| lug.io     | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC       |
-| agamic.io  | available | $34.98     | $75.98        | medium         | low    | 6      | namecheap              |
-| moi.io     | resell    | —          | —             | high           | low    | 3      | NameCheap, Inc.        |
-| anodal.io  | available | $33.99     | $69.99        | high           | low    | 6      | namesilo               |
-| pta.io     | resell    | —          | —             | high           | high   | 3      | Sav.com, LLC           |
-| argive.io  | available | $33.99     | $69.99        | high           | low    | 6      | namesilo               |
-| stp.io     | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC       |
-| bluesy.io  | available | $38.99     | $69.99        | high           | high   | 6      | namesilo               |
-| tan.io     | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC       |
-| dogsit.io  | available | $44.99     | $59.99        | high           | low    | 6      | name.com               |
-| too.io     | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC           |
-| foetal.io  | available | $33.99     | $69.99        | high           | low    | 6      | namesilo               |
-| upc.io     | resell    | —          | —             | high           | low    | 3      | NameSilo, LLC          |
+| domain       | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar              |
+| ------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| lxxx.io      | available | $34.98     | $75.98        | high           | low    | 4      | namecheap              |
+| arabian.io   | resell    | $65,203.85 | $59.99        | high           | low    | 7      | Sav.com, LLC           |
+| balky.io     | available | $38.99     | $69.99        | medium         | low    | 5      | namesilo               |
+| mentoring.io | resell    | $26,392.50 | $59.99        | high           | low    | 9      | GoDaddy.com, LLC       |
+| boned.io     | available | $33.99     | $69.99        | high           | low    | 5      | namesilo               |
+| bod.io       | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC       |
+| lxxxv.io     | available | $34.98     | $75.98        | medium         | low    | 5      | namecheap              |
+| eea.io       | resell    | —          | —             | high           | high   | 3      | Spaceship, Inc.        |
+| agamic.io    | available | $34.98     | $75.98        | medium         | low    | 6      | namecheap              |
+| int.io       | resell    | —          | —             | high           | high   | 3      | Realtime Register B.V. |
+| anodal.io    | available | $33.99     | $69.99        | high           | low    | 6      | namesilo               |
+| lug.io       | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC       |
+| argive.io    | available | $33.99     | $69.99        | high           | low    | 6      | namesilo               |
+| moi.io       | resell    | —          | —             | high           | low    | 3      | NameCheap, Inc.        |
+| bluesy.io    | available | $38.99     | $69.99        | high           | high   | 6      | namesilo               |
+| pta.io       | resell    | —          | —             | high           | high   | 3      | Sav.com, LLC           |
+| dogsit.io    | available | $44.99     | $59.99        | high           | low    | 6      | name.com               |
+| stp.io       | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC       |
+| foetal.io    | available | $33.99     | $69.99        | high           | low    | 6      | namesilo               |
+| tan.io       | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 65,128 live domains                        |
+| 1,000-row public sample | 27,410 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 79 high-demand names under $2,500          |
+| Basic exported fields   | 117 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IO One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -1,10 +1,10 @@
-# Available .IO One-Word Domains (33,732)
+# Available .IO One-Word Domains (33,753)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C732%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C753%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,11 @@
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,732 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,753 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,732 domains · **Median ask:** $889.23 · **High-demand under $2,500:** 234
+**Public extract:** 1,000 rows · **Live catalog:** 33,753 domains · **Median ask:** $887.38 · **High-demand under $2,500:** 234
+
+**.IO market:** 58,306 names available · Median registration $32 · Median renewal $61.75 · 1,068 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/tld/io`
@@ -93,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 33,732 live domains                                  |
+| 1,000-row public sample | 33,753 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 234 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |

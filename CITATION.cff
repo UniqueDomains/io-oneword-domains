@@ -6,7 +6,7 @@ authors:
   - name: "Unique Domains"
 version: "2026-10-03"
 date-released: "2026-10-03"
-url: "https://unique.domains/domains/tld/io"
+url: "https://unique.domains/tld/io"
 repository-code: "https://github.com/UniqueDomains/io-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of available and resale .io one-word domains from Unique Domains."

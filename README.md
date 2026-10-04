@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .io one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 34,298 domains · **Median ask:** $851.52 · **High-demand under $2,500:** 224
 
-**.IO market:** 58,306 names available · Median registration $32 · Median renewal $61.75 · 1,068 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
+**.IO market:** 58,674 names available · Median registration $32 · Median renewal $61.75 · 1,063 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
 
 **Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/tld/io`
@@ -66,7 +66,7 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| lxii.io    | available | $34.98    | $75.98        | high           | low    | 4      | namecheap        |
+| lxii.io    | available | $38       | $75.98        | medium         | low    | 4      | unstoppable      |
 | hiding.io  | resell    | $34.98    | $75.98        | high           | low    | 6      | Porkbun LLC      |
 | ropy.io    | available | $34.98    | $75.98        | high           | medium | 4      | namecheap        |
 | fearful.io | resell    | $53.99    | $73.99        | high           | low    | 7      | Dynadot Inc      |
@@ -78,13 +78,13 @@ print(df.head())
 | cpb.io     | resell    | —         | —             | high           | low    | 3      | —                |
 | blate.io   | available | $33.99    | $69.99        | medium         | low    | 5      | namesilo         |
 | cpk.io     | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
-| cxxxv.io   | available | $34.98    | $75.98        | high           | low    | 5      | namecheap        |
-| csi.io     | resell    | —         | —             | high           | low    | 3      | —                |
 | didnt.io   | available | $31.98    | $51.75        | medium         | low    | 5      | spaceship        |
-| dtv.io     | resell    | —         | —             | high           | low    | 3      | —                |
+| csi.io     | resell    | —         | —             | high           | low    | 3      | —                |
 | hoary.io   | available | $34.98    | $75.98        | medium         | low    | 5      | namecheap        |
-| esr.io     | resell    | —         | —             | high           | low    | 3      | —                |
+| dtv.io     | resell    | —         | —             | high           | low    | 3      | —                |
 | nafud.io   | available | $38.99    | $69.99        | medium         | low    | 5      | namesilo         |
+| esr.io     | resell    | —         | —             | high           | low    | 3      | —                |
+| nohow.io   | available | $34.98    | $75.98        | medium         | low    | 5      | namecheap        |
 | gma.io     | resell    | —         | —             | high           | low    | 3      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

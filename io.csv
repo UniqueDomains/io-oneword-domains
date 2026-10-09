@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 df19ea6a-6a41-4984-8066-e33631c1736b,describable.io,available,,,high,high,11,,,,
 a0ae4b63-c5d7-4cc2-95c3-e959cd6897a7,trustful.io,resell,,,high,low,8,Dynadot Inc,03/07/2015 20:36,03/07/2027 20:36,26/09/2026 09:47
 b1f669dc-af08-4f03-a5a8-6dfc154f82b3,cadaver.io,available,31.98,51.75,medium,low,7,spaceship,,,06/10/2026 14:33
+4968b738-f70d-4de2-8061-1dbdd405d8a3,mutilate.io,available,28.89,53.5,high,low,8,dynadot,,,08/10/2026 10:50
 0c48a437-7710-4d83-a95c-e0889eaec122,pashes.io,available,,,medium,low,6,,,,
 ecb1531b-3e5b-4981-b855-cf47900b0ec2,duvetyne.io,available,,,medium,low,8,,,,
 76bd30b4-962d-4bde-93b9-e18deadc4c64,strategies.io,resell,,,high,low,10,"GoDaddy.com, LLC",17/04/2017 00:30,17/04/2027 00:30,30/09/2026 07:25
@@ -24,7 +25,7 @@ b5285b18-1f46-482f-8456-70107de4c66d,copythorne.io,available,,,high,high,10,,,,
 503dcc7b-0703-4ba7-a7f1-994056e151e4,oig.io,resell,,,high,low,3,,,,03/10/2026 21:00
 995c5d1d-788f-469b-bd26-fc9b6bd9dcbd,biopesticide.io,available,,,high,high,12,,,,
 1dcc4bea-a19b-4cf0-a517-8268851332f4,bestowed.io,available,38.99,69.99,medium,low,8,namesilo,,,30/09/2026 14:44
-0dc6901d-289d-4772-aa54-1079df04ef38,underwriters.io,available,,,high,high,12,,,,
+0dc6901d-289d-4772-aa54-1079df04ef38,underwriters.io,available,38,,medium,low,12,unstoppable,,,08/10/2026 23:38
 114300ea-e42c-4a3e-a283-c5d3678c7b21,agentlike.io,available,,,high,high,9,,,,
 827fdff0-4bbc-4e4d-ae1c-19d68c48845b,slice.io,resell,,,high,low,5,"GoDaddy.com, LLC",09/02/2021 22:26,09/02/2027 22:26,27/09/2026 13:29
 cdf32c3b-99f3-44b1-9ce9-333704d53a45,objected.io,available,53.99,79.99,medium,low,8,name.com,,,18/09/2026 23:50
@@ -57,7 +58,7 @@ c6f6b9d8-05ea-4ce6-a3fc-3523feb75269,nebulously.io,available,34.98,75.98,medium,
 b9ffdaea-d9c1-4eb5-a987-471f79b6c3ba,sparerib.io,available,,,high,high,8,,,,
 91dcd8bf-ed94-49b0-9804-83ea3ed77ef6,candied.io,available,33.99,69.99,high,low,7,namesilo,,,11/08/2026 16:48
 4c5f7af9-fcf5-4ad4-9a3e-16df3f937fa5,nottinghamshire.io,available,,,high,medium,15,,,,
-54fdb0ea-724c-4832-a1fd-6d8eab3d81d6,bestselling.io,resell,,,high,high,11,"GoDaddy.com, LLC",12/03/2024 02:08,12/03/2027 02:08,26/09/2026 04:23
+54fdb0ea-724c-4832-a1fd-6d8eab3d81d6,bestselling.io,resell,,,high,low,11,"GoDaddy.com, LLC",12/03/2024 02:08,12/03/2027 02:08,09/10/2026 01:11
 9cb6c747-fc72-4233-b225-f6ef2a851f04,uncertified.io,available,31.98,51.75,medium,low,11,spaceship,,,06/10/2026 12:35
 14347f75-5b01-4b6d-ba11-266bddceda3f,trusteeships.io,available,,,medium,low,12,,,,
 018d7f96-997c-4e2a-bd4c-1ad1e48b43c1,fertilizer.io,resell,,,high,low,10,"GoDaddy.com, LLC",15/10/2015 20:48,14/01/2027 00:30,29/09/2026 06:53
@@ -73,6 +74,7 @@ b265b0f4-81f5-485e-8691-a9ea8d7c06e5,voracious.io,resell,,,high,low,9,"GoDaddy.c
 6c16e5a9-493c-4ea8-bdd8-8d3244a394ac,revetement.io,available,,,high,high,10,,,,
 83e18d36-4aac-4f33-9b55-c25c6c59260c,sceptically.io,available,,,high,high,11,,,,
 61568f20-0836-407f-9d26-637552dd49d9,modernness.io,available,38.99,69.99,high,high,10,namesilo,,,27/09/2026 05:30
+19dcef62-4f3b-4d96-ab6c-821462a36e45,geomorphology.io,available,38.99,69.99,medium,low,13,namesilo,,,09/10/2026 00:26
 bd435a70-50e9-4a8f-8528-6c101e4fbf45,adlai.io,available,38.99,69.99,high,low,5,namesilo,,,03/10/2026 04:50
 34ed131c-f4a8-498e-8b3c-de330844b64f,slenderize.io,available,34.98,75.98,high,low,10,namecheap,,,10/09/2026 10:53
 9eacfa93-ceb2-4279-8bda-0cd5e3511adc,alternating.io,available,31.98,51.75,high,low,11,spaceship,,,30/09/2026 05:54
@@ -132,7 +134,7 @@ ad7c7756-848c-46cd-be04-553644774b50,mouths.io,available,38.99,69.99,medium,low,
 2e901e0b-fc54-408f-825c-fb45ffc5951e,dufferin.io,available,31.98,51.75,medium,low,8,spaceship,,,04/10/2026 06:37
 d1a65405-3eca-443d-a934-ae9bca8d1156,clock.io,resell,,,high,low,5,"GoDaddy.com, LLC",16/02/2007 08:14,16/02/2027 08:14,29/09/2026 10:09
 2dbffa2f-6d5f-4060-b250-18de89240064,gamelike.io,resell,,,high,high,8,"Sav.com, LLC",12/02/2026 21:34,12/02/2027 21:34,26/09/2026 06:19
-9341a806-1ddc-43a5-a08c-d4fc5b483561,bronchial.io,available,33.99,69.99,medium,low,9,namesilo,,,11/08/2026 05:35
+9341a806-1ddc-43a5-a08c-d4fc5b483561,bronchial.io,available,38.99,69.99,medium,low,9,namesilo,,,09/10/2026 01:51
 05300a93-8233-400d-abe9-938ab6111bc7,guru.io,resell,,,high,low,4,1API GmbH,04/05/2006 14:10,04/05/2027 14:10,29/09/2026 13:00
 2a0bc74d-5447-499e-99ad-6db93b86b77c,equipped.io,resell,,,high,low,8,"GoDaddy.com, LLC",19/06/2019 11:21,19/06/2027 11:21,26/09/2026 05:52
 bdc44620-c746-47a8-bce9-db1510d168d8,micronutrient.io,available,,,high,high,13,,,,
@@ -189,6 +191,7 @@ f1f4ee8b-4bd8-47cb-84ab-dd9218276cb4,ablaut.io,available,38.99,69.99,medium,low,
 33107263-158b-47d9-98f1-7c5e76bec052,romaja.io,available,,,high,high,6,,,,
 31dad584-36ff-4f07-9172-f40a796e216c,fatally.io,available,34.98,75.98,medium,low,7,namecheap,,,14/09/2026 17:51
 04f99c55-7585-4785-a8b4-265f841911a7,doggedness.io,available,,,high,high,10,,,,
+d13625c9-a619-4705-b926-bcaca87581c4,proud.io,resell,,,high,low,5,"GoDaddy.com, LLC",27/10/2017 10:07,27/10/2027 10:07,08/10/2026 07:05
 dc2e1abc-36f5-46f7-b19c-d3e0ae807185,insurgency.io,available,38.99,69.99,high,low,10,namesilo,,,06/10/2026 01:37
 7d1a68a1-9a0e-4c3d-9d59-0631c70accbc,despise.io,available,38.99,69.99,high,low,7,namesilo,,,29/09/2026 15:39
 b88da150-8a3f-4f5b-a1b3-477aa5a156b8,starks.io,resell,,,high,low,6,,,,03/10/2026 18:18
@@ -230,7 +233,7 @@ b23b223a-2fcf-4c9a-952b-30d6d8e768ea,varicose.io,available,34.98,75.98,medium,lo
 5e958996-6f68-4b27-bde1-78365fd93915,politics.io,resell,,,high,low,8,Dynadot Inc,19/01/2016 00:30,19/01/2027 00:30,27/09/2026 05:03
 5eef677d-b081-4e84-81c8-5602f25fb02a,chitosan.io,available,,,high,high,8,,,,
 252b6000-e344-4c1f-8d44-20fdfac273b9,wheaten.io,available,34.98,75.98,high,low,7,namecheap,,,13/09/2026 11:15
-153948ac-3aab-468b-861c-2857fc2f757c,universal.io,resell,,,high,high,9,"GoDaddy.com, LLC",24/01/2018 10:07,24/01/2028 10:07,05/10/2026 00:39
+153948ac-3aab-468b-861c-2857fc2f757c,universal.io,resell,,,high,high,9,"GoDaddy.com, LLC",24/01/2018 10:07,24/01/2028 10:07,08/10/2026 08:50
 decb4cc3-bd34-42d8-bda9-13fb09f4f726,andromeda.io,resell,,,high,medium,9,"GoDaddy.com, LLC",05/10/2019 14:30,05/10/2027 14:30,05/10/2026 06:15
 5d1df506-37c1-42d0-bcfb-7adec893ca04,requiem.io,resell,,,high,low,7,,,,04/10/2026 22:52
 017f512d-afca-4f77-9a86-32f01ba5ec2f,cpk.io,resell,,,high,high,3,"GoDaddy.com, LLC",30/03/2017 19:12,30/03/2027 19:12,26/09/2026 05:18
@@ -248,6 +251,7 @@ bddaa647-ebfb-425d-9664-66443e7dd762,factions.io,resell,,,medium,low,8,,,,01/10/
 c5731e8a-9dfb-430d-a501-05e87499164b,echogenic.io,available,,,high,high,9,,,,
 3cca66ac-25e1-4f98-9d7e-bfccb6e50039,subvariety.io,available,,,high,high,10,,,,
 8c42e1f5-d541-4186-976f-c12327e8b682,elan.io,resell,,,high,low,4,"NameCheap, Inc.",12/08/2014 16:13,12/08/2027 16:13,26/09/2026 05:46
+b84383f5-ddb6-4c44-93d4-a86a6faf9bdf,halwa.io,available,32,50,medium,low,5,cloudflare,,,08/10/2026 06:02
 027a5a40-fa0e-4c9b-873f-2394b04f31dd,marshmallow.io,resell,,,high,low,11,"GoDaddy.com, LLC",07/05/2014 01:18,07/05/2027 01:18,04/10/2026 14:09
 7c362041-74cf-43bb-b88d-21704176806c,goldbricker.io,available,,,high,high,12,,,,
 99919e2c-b308-44c0-9a64-ae67d251af89,turkish.io,resell,,,high,low,7,"Spaceship, Inc.",26/06/2016 07:04,26/06/2027 07:04,26/09/2026 09:48
@@ -329,11 +333,13 @@ b6388974-50dc-4283-9cc6-55e6c299fdce,plowland.io,available,,,high,high,8,,,,
 ae91cea9-ebfe-4846-acbc-a22e11728a44,wants.io,resell,,,medium,low,5,"Spaceship, Inc.",28/09/2019 18:20,28/09/2027 18:20,29/09/2026 04:41
 004978de-dfcc-4d08-ac4d-3ebb3b82d3ef,infinitesimally.io,available,,,high,high,15,,,,
 3ecfff91-21a0-4b2a-84bd-0ddb08445f87,ambrosial.io,available,38.99,69.99,high,low,9,namesilo,,,05/10/2026 17:26
+4cd9d887-2749-487e-b130-9787f0134414,cornett.io,available,31.98,51.75,medium,low,7,spaceship,,,08/10/2026 16:08
 4e3f75be-37da-4543-8572-46b51390f538,wind.io,resell,,,high,low,4,GoDaddy Online Services Cayman Islands Ltd.,26/01/2012 23:44,26/01/2027 23:44,28/09/2026 10:39
 ae8af70b-f438-41ae-a57b-659634281239,idoliser.io,available,,,high,high,8,,,,
 51102339-6564-460f-99a1-f5095f16543a,madagascan.io,available,31.99,69.99,high,low,10,namesilo,,,24/08/2026 12:55
 80e7e9f0-c742-49fc-a4cb-4695bbd03212,conglobate.io,available,,,high,high,10,,,,
 48f53a19-0140-4dab-a5bb-f690bf047674,tite.io,resell,,,high,low,4,,,,06/10/2026 05:43
+32d69931-8612-43c2-914f-cb5e8636610c,laodicea.io,available,32,50,medium,low,8,cloudflare,,,09/10/2026 03:09
 a1dcd6d1-92ae-4b0a-b94b-f6700bea3ff1,rung.io,resell,,,high,low,4,"Spaceship, Inc.",26/07/2018 10:20,26/07/2027 10:20,01/10/2026 21:34
 9f501e78-3899-49ac-b4c6-906d9aaf983a,primarily.io,resell,,,medium,low,9,"GoDaddy.com, LLC",21/05/2020 03:16,21/05/2027 03:16,28/09/2026 13:51
 effd3f3e-bae9-4431-855b-e99bec6df352,epicene.io,available,33.99,69.99,medium,low,7,namesilo,,,12/08/2026 08:38
@@ -357,6 +363,7 @@ b7555082-60f0-496d-973e-9263cd01c0ae,womandom.io,available,,,high,high,8,,,,
 219bf22f-f619-452d-969e-c886f9ce6471,clandestine.io,resell,,,high,low,11,,,,02/10/2026 17:35
 dd7cd456-0256-4d0d-8468-ab1002bba4f2,fastballs.io,available,,,high,low,9,,,,
 0463ca16-bb9d-475f-90d6-372a5f5f13e5,ronson.io,available,31.98,51.75,high,low,6,spaceship,,,04/10/2026 15:15
+c40a1945-60c8-456c-a203-b11194ff94dd,levittown.io,available,31.98,51.75,high,low,9,spaceship,,,09/10/2026 00:47
 a71d44d5-53dc-4142-b734-f1ea1b6f6881,batwing.io,available,38.99,69.99,medium,low,8,namesilo,,,07/10/2026 02:59
 e9e31fbc-69c4-4e6d-81a0-c3f95b4a2a9b,bulb.io,resell,,,high,low,4,"Sea Wasp, LLC",10/03/2015 00:30,10/03/2027 00:30,29/09/2026 05:14
 4e36d539-f65c-4d2b-af61-8cca11265af0,sheppard.io,resell,,,high,low,8,,,,27/09/2026 08:04
@@ -439,8 +446,10 @@ fa4b29ef-fc73-47d1-9375-995b5a08c05f,goodhumored.io,available,,,high,high,11,,,,
 795c99e9-7a12-4fbf-b573-9116bdb6a2d5,speechmaker.io,available,,,high,high,11,,,,
 5c9ff760-864f-48b9-bbce-deb2599a86c5,nationality.io,resell,,,high,low,11,,,,29/09/2026 14:17
 da371d41-47c1-45df-915b-22b556a7c48a,bathsheba.io,available,38.99,69.99,high,low,9,namesilo,,,22/09/2026 13:52
+475cc8e5-055c-4050-b6b7-345796224ad9,helvetica.io,resell,,,high,low,9,,,,08/10/2026 05:21
 e2f10d07-a718-4aa7-85d9-e73b0349eef9,dermoptera.io,available,,,high,high,10,,,,
 50892bf8-9a41-4651-9fc0-08a8f2cab30f,ramsgate.io,available,38.99,69.99,high,low,8,namesilo,,,05/10/2026 18:18
+c5908499-864e-40fa-8c01-30f23f73c380,joffrey.io,available,38,,high,low,7,unstoppable,,,08/10/2026 07:48
 672a93c6-cdd2-4609-9d55-15f1fcbe0cd0,drywalled.io,available,,,medium,low,9,,,,
 1eb9cb20-d3f8-41b1-88ec-ca74d3aa9cc9,paging.io,resell,,,high,low,6,,,,01/10/2026 19:37
 bc5725af-f6e4-49a8-96ce-a6c5d79cdd0d,shellfish.io,resell,,,high,low,9,"humbly, LLC",03/12/2018 17:22,03/12/2026 17:22,30/09/2026 18:03
@@ -474,8 +483,8 @@ cf07e2b3-67f8-4e88-9378-443652494958,tetrachromatic.io,available,,,high,high,14,
 3e370982-8c86-4cba-a787-e4320f694e02,pedro.io,resell,,,high,low,5,"Spaceship, Inc.",15/07/2022 11:17,15/07/2027 11:17,28/09/2026 03:54
 740c3a14-da7e-4895-8058-deba03e3fac0,nuwho.io,available,,,high,high,5,,,,
 96241829-a7e1-4e3e-b67b-61a0153eaf63,opine.io,resell,,,high,high,5,"GoDaddy.com, LLC",19/06/2018 10:13,19/06/2027 10:13,26/09/2026 07:55
-a76d3482-a381-4558-ae79-4795b186ead1,breastless.io,available,33.99,69.99,medium,low,10,namesilo,,,11/08/2026 03:14
 f5a5ea50-22ef-41bd-a370-95254380dadb,doubletree.io,available,,,high,high,11,,,,
+6529c5c6-b5c8-41a9-a9c4-f8d4241816e6,sunsets.io,resell,,,high,low,7,,,,09/10/2026 04:28
 20b1c465-d581-42f7-8b63-5be6f680aaf2,steuben.io,available,38.99,69.99,medium,low,7,namesilo,,,22/09/2026 07:05
 8329c77c-cd32-419b-a318-7a98e0566637,hilariousness.io,available,,,high,high,13,,,,
 536b6c24-7b64-44db-92af-7f264affb9e9,underpin.io,resell,,,high,low,8,"GoDaddy.com, LLC",07/06/2020 14:30,07/06/2027 14:30,07/10/2026 08:40
@@ -490,7 +499,7 @@ e90f4dfe-5a12-4aff-a254-3e4393590d35,goostrey.io,available,,,high,high,8,,,,
 e80b80e5-f463-48ba-95f8-f34d086cefb1,tonsorial.io,available,34.98,75.98,medium,low,9,namecheap,,,11/09/2026 17:12
 4a42fe81-0a26-495c-86a8-437e6b18edc4,harkness.io,available,34.98,75.98,high,low,8,namecheap,,,30/09/2026 05:36
 972ac485-f125-48bf-855b-5790bf15ae71,mucker.io,available,,,high,high,6,,,,
-ea6f64b5-bda4-4cf1-956a-d3934c4fd8ae,waterscape.io,available,,,high,high,10,,,,
+ea6f64b5-bda4-4cf1-956a-d3934c4fd8ae,waterscape.io,available,28.89,53.5,high,high,10,dynadot,,,09/10/2026 02:18
 d17018fe-2122-43a5-8d09-451e95b1c4bb,desperation.io,available,38.99,69.99,medium,low,11,namesilo,,,29/09/2026 15:57
 364daa1b-1c58-4331-a4f8-97412d68cc5f,beheading.io,available,38.99,69.99,medium,low,9,namesilo,,,23/09/2026 03:20
 1414a09f-7ae1-4fb5-8c67-17cb31fe62ef,pusan.io,available,38.99,69.99,high,low,5,namesilo,,,02/10/2026 16:27
@@ -531,6 +540,7 @@ bb176e17-9193-4271-a7dc-afd65b57883c,pelvic.io,available,38.99,69.99,high,low,6,
 13818a22-57f3-4ee9-b634-a43fdf6fbd87,harpsichordist.io,available,,,high,high,14,,,,
 1a74ee37-053f-4554-8f63-8d3f75e47c44,hardiness.io,available,34.98,75.98,high,low,9,namecheap,,,29/09/2026 18:02
 4554d6c4-31b4-4df8-89d1-aeb5c1cbc354,rosebud.io,resell,,,high,low,7,,,,03/10/2026 01:56
+ea65ac81-3cd5-4196-8ee6-8db419f517d2,bishopsgate.io,available,38.99,69.99,medium,low,11,namesilo,,,09/10/2026 00:47
 be6f62f2-9efc-4d3d-8b24-48cfcbcd5d2c,transmittant.io,available,,,high,high,12,,,,
 95dd9771-d353-42fe-98a4-e5076a5dc909,spicy.io,resell,,,high,low,5,"GoDaddy.com, LLC",02/05/2012 11:42,02/05/2027 11:42,26/09/2026 09:12
 538f5d5d-9c1b-4b4c-bbeb-f6706441e348,companionships.io,available,,,medium,low,14,,,,
@@ -567,7 +577,7 @@ e9655bcd-9cd7-4605-9f25-29f777c6d61d,reinspects.io,available,,,medium,low,10,,,,
 fcd13577-b70c-430d-9ff9-ee1e0f53b303,parlimentaire.io,available,,,high,high,13,,,,
 ac7b5aae-3fbb-40e8-b819-92a317e65c65,winsomely.io,available,34.98,75.98,medium,low,9,namecheap,,,14/09/2026 15:43
 6f9a9c6e-7096-4e8b-95c8-9ed04a4da999,chancla.io,available,,,high,high,7,,,,
-d9d41017-da3a-4440-bf3f-77ba4399094b,tucking.io,available,,,high,high,7,,,,
+d9d41017-da3a-4440-bf3f-77ba4399094b,tucking.io,available,38,,high,low,7,unstoppable,,,08/10/2026 14:54
 47966688-91c2-40e4-a41c-a4b758c29d5c,queenroot.io,available,,,high,high,9,,,,
 fad50e56-73c3-4aa8-bb73-194d10c0e9bb,newsreel.io,available,31.98,51.75,high,low,8,spaceship,,,05/10/2026 12:59
 b1c2ece6-40da-4813-9f06-90069424278a,bionic.io,resell,,,high,low,6,Dynadot Inc,02/10/2011 02:50,02/10/2027 02:50,07/10/2026 17:40
@@ -575,6 +585,7 @@ b1c2ece6-40da-4813-9f06-90069424278a,bionic.io,resell,,,high,low,6,Dynadot Inc,0
 752ee85a-5ad4-478a-80f8-a7db56ebd1ee,irvin.io,resell,,,medium,low,5,,,,28/09/2026 16:39
 05ac5395-305f-4f87-8957-0db6cfff0b9d,allahabad.io,available,31.98,51.75,high,low,9,spaceship,,,30/09/2026 05:15
 3d7c0bcc-3129-40f6-899e-c8b4fac0985f,shortwing.io,available,,,high,high,9,,,,
+14516306-b45f-4712-91f9-9de852b4a948,chippenham.io,available,38.99,69.99,medium,low,10,namesilo,,,08/10/2026 21:15
 88bae276-dc3a-4b47-b60e-f90e3924ccee,taylor.io,resell,,,high,low,6,"GoDaddy.com, LLC",08/01/2019 10:21,08/01/2027 10:21,29/09/2026 13:29
 f5eecd49-9786-447d-9042-4a0f997789a9,ninetiethly.io,available,,,high,high,11,,,,
 b4ba7c53-4e7d-4fce-9000-ae63adee4855,ozawa.io,available,32,50,high,low,5,cloudflare,,,03/10/2026 21:05
@@ -722,6 +733,7 @@ a4da9432-2f29-4cbf-ba68-cfb278f3f9ee,fined.io,resell,,,medium,low,5,,,,30/09/202
 6161c731-179e-4e72-826d-4f26f7aae6ae,ridesharer.io,available,,,high,high,10,,,,
 6f7d3610-36f7-4053-87d6-cea84ca8bedc,beholders.io,available,,,medium,low,9,,,,
 df82e934-0c82-406c-8e3a-b4da86be3c28,oldest.io,resell,,,high,low,6,,,,01/10/2026 19:28
+e61cdfee-f951-4d87-981c-44e2c8f9d4bc,scopes.io,resell,,,high,low,6,,,,08/10/2026 07:49
 1e5f08fa-9887-4f96-a107-7ae8dfe8c934,bothering.io,available,32,50,high,low,9,cloudflare,,,29/09/2026 21:27
 c37bf085-e5bc-44b1-9ef3-f1cfb9e6172e,prespecified.io,available,,,high,high,12,,,,
 a6f54708-d7cd-4490-b4f8-b7593e8bd8bc,yearningly.io,available,34.98,75.98,medium,low,10,namecheap,,,15/09/2026 12:56
@@ -764,7 +776,7 @@ ec82b923-65f7-4cd5-8952-53163234895e,ultrasound.io,resell,,,high,low,10,Atom.com
 a8a6ab63-e085-407a-a26c-c0b883bddb8c,workweeks.io,available,,,medium,low,9,,,,
 dc4cd35e-7036-46b3-9251-035a3c04937f,newsagents.io,available,,,medium,low,10,,,,
 120f30d4-115d-4761-9770-92cb06c1ef53,bennie.io,resell,,,high,low,6,Realtime Register B.V.,04/12/2021 04:17,04/12/2026 04:17,26/09/2026 04:22
-1675fb90-9f9c-49b9-bd39-bc25a3950211,braw.io,resell,,,medium,low,4,Humbly LLC,07/09/2023 17:00,07/09/2027 17:00,26/09/2026 04:36
+1675fb90-9f9c-49b9-bd39-bc25a3950211,braw.io,resell,,,medium,low,4,Humbly LLC,07/09/2023 17:00,07/09/2027 17:00,08/10/2026 22:01
 2abc5ede-8a27-41c1-9e93-9c40358fcbef,motorscooter.io,available,,,high,high,12,,,,
 b1a33103-f8f0-47e8-a43e-ad6452b38810,aglow.io,resell,,,high,high,5,"GoDaddy.com, LLC",29/09/2020 00:54,29/09/2027 00:54,28/09/2026 04:50
 ad3008db-5ede-41d0-aef1-e63472390d45,paralegal.io,resell,,,high,low,9,,,,06/10/2026 02:00
@@ -833,6 +845,7 @@ e6c96372-2cce-4e1f-9c8f-ad7bd41ad6f4,scrotum.io,available,31.98,51.75,high,low,7
 42007a33-ea0b-46f6-8f5c-96402110673c,fractures.io,available,31.98,51.75,medium,low,9,spaceship,,,29/09/2026 11:30
 d689c02e-a958-4670-bf53-958cb2939687,nonresistant.io,available,,,high,high,12,,,,
 a232da3b-0220-4482-9b89-d7dec9a40e21,exhaustion.io,available,38.99,69.99,high,low,10,namesilo,,,29/09/2026 13:24
+06d51c99-a5d9-41a1-9e46-47a06a1e845b,tochigi.io,available,38.99,69.99,medium,low,7,namesilo,,,08/10/2026 20:14
 cd1956b1-f620-4bf5-b5d5-bdf57d2b5454,brownsville.io,available,31.98,51.75,medium,low,11,spaceship,,,28/09/2026 08:10
 7ae371bf-0bf3-4504-9a8b-85f1fad0f23f,headstone.io,resell,,,high,low,9,"GoDaddy.com, LLC",01/12/2019 11:19,01/12/2026 11:19,03/10/2026 20:16
 5d2e693d-a0f9-4dd9-8286-201e751bea93,photoshop.io,resell,,,high,medium,9,"GoDaddy.com, LLC",09/01/2015 09:40,09/01/2027 09:40,30/09/2026 03:45
@@ -841,16 +854,17 @@ cd1956b1-f620-4bf5-b5d5-bdf57d2b5454,brownsville.io,available,31.98,51.75,medium
 bb34734d-d130-4060-97a2-56c02cabdeba,thankless.io,available,34.98,75.98,medium,low,9,namecheap,,,11/09/2026 12:28
 66a4581a-12e5-445f-92d6-e24d78f6e000,ferryboat.io,available,,,high,high,10,,,,
 875d58c8-66a2-4d03-bc46-63df0db16769,seamen.io,available,31.98,51.75,high,low,6,spaceship,,,02/10/2026 01:38
+71dd4372-02ea-4f54-9873-f7964ee7222a,yakisoba.io,available,32,50,high,low,8,cloudflare,,,08/10/2026 07:42
 faa3ea7c-732c-4198-9176-5b4e72590327,ebro.io,resell,,,high,low,4,,,,03/10/2026 00:33
 284eb6bb-2809-4293-8b11-6d5b1bd6a1b8,energize.io,resell,,,high,low,8,"NameCheap, Inc.",13/04/2015 01:37,13/04/2027 01:37,07/10/2026 08:46
-1369318b-d8bb-4997-9247-9c959ee0df69,fabricating.io,available,,,high,low,11,,,,
+1369318b-d8bb-4997-9247-9c959ee0df69,fabricating.io,available,38,,medium,low,11,unstoppable,,,09/10/2026 01:36
+25a4b329-d5a2-49e1-bd0f-682d2538aed6,bridport.io,available,38,,medium,low,8,unstoppable,,,08/10/2026 19:20
 e24f3e25-f038-4f71-9188-945f8d01d525,unbarbered.io,available,,,high,high,10,,,,
 d2d39866-f371-4c71-8a2f-2c9b47ffb4a0,guarnieri.io,available,38.99,69.99,medium,low,9,namesilo,,,19/09/2026 04:23
 f4b4fbad-37d5-49ee-ac7f-daba86aff564,bloodstreams.io,available,,,medium,low,12,,,,
 05cd1eb6-1d26-4494-a4de-5f40ef995ba3,lxii.io,available,38,75.98,medium,low,4,unstoppable,,,04/10/2026 18:42
 399e4a6b-edb5-48e4-8092-0de73e2ec534,toothpastes.io,available,,,medium,low,11,,,,
 6af629a8-fea8-40ca-8a22-8f5bf26ed296,piscatory.io,available,34.98,75.98,high,medium,9,namecheap,,,08/09/2026 19:59
-367f9642-76a9-4ce1-a479-1392350bdd86,gynecologic.io,available,,,high,high,11,,,,
 f9e308a0-7ce8-4df4-8dfd-f1ea91995a9a,senior.io,resell,,,high,low,6,"GoDaddy.com, LLC",28/06/2024 17:15,28/06/2027 17:15,26/09/2026 08:55
 fe61664f-45e8-4a9e-92a6-5c173516b89d,butylhydroxytoluene.io,available,,,medium,low,19,,,,
 7712435d-ff1b-44c9-a2e2-3bf396a8a3b6,barterer.io,available,34.98,75.98,high,low,8,namecheap,,,22/09/2026 08:58
@@ -926,6 +940,7 @@ aed62933-bee9-4427-b187-811326c7fcb4,bodyboarder.io,available,,,high,high,11,,,,
 4fcb493b-1629-4e1a-a48a-49a695f1ad67,comedian.io,resell,,,high,low,8,"GoDaddy.com, LLC",21/07/2014 10:05,21/07/2027 10:05,26/09/2026 05:07
 1cf1555f-6d96-4a28-ad14-44a56f2af684,torre.io,resell,,,high,low,5,,,,28/09/2026 03:40
 1265a37c-d99a-47f6-8ef9-5b21ca3e5052,tibetans.io,available,,,medium,low,8,,,,
+9c6d8ddb-91fe-42fa-9aad-57af52c651c9,hypatia.io,resell,,,medium,low,7,,,,08/10/2026 05:25
 f8edac3d-9ccd-4b5a-a1a7-7c9594a90eea,armored.io,resell,,,high,low,7,"GoDaddy.com, LLC",23/09/2018 10:12,23/09/2027 10:12,26/09/2026 04:01
 2a16dbe7-3e73-466b-9673-97dde1292c69,facies.io,available,31.98,51.75,medium,low,6,spaceship,,,29/09/2026 04:47
 e63c67c0-6865-4b01-bc85-860002cf3c36,readmission.io,available,,,high,high,11,,,,
@@ -960,6 +975,7 @@ c9c9270c-e566-4424-86d6-fd596e638d60,rebellions.io,resell,,,medium,low,10,,,,07/
 e7f817e5-edb3-4182-bab8-a4e5293f1100,dizziness.io,available,34.98,75.98,high,low,9,namecheap,,,30/09/2026 17:01
 4ae4d094-fad2-4656-9353-5c74d6f1e37d,henries.io,available,,,medium,low,7,,,,
 fd6fedd2-7bff-43d6-ab53-d5be97ed9d69,recognised.io,available,38.99,69.99,high,low,10,namesilo,,,21/09/2026 15:30
+ba6f2fd4-f633-4e3f-a53c-bdfb94936f89,sugarman.io,resell,,,medium,low,8,"GoDaddy.com, LLC",06/12/2025 09:19,06/12/2026 09:19,09/10/2026 00:40
 6897e7d9-cd7e-40cc-9727-a3d10e7a3193,tripping.io,resell,,,high,low,8,Dynadot Inc,24/06/2020 23:16,24/06/2027 23:16,26/09/2026 09:46
 f2def624-4487-42a9-b0af-f34c26321f2a,rummy.io,resell,,,high,low,5,"Sav.com, LLC",08/02/2020 14:30,08/02/2027 14:30,26/09/2026 08:46
 a9d88b0e-0d2d-4a50-9c1e-820434d668fa,steerable.io,available,33.99,69.99,high,low,9,namesilo,,,14/08/2026 09:00
@@ -981,21 +997,5 @@ f523fa26-45ba-4ed5-9e4d-8e237074bef2,penholder.io,available,,,high,high,9,,,,
 112064dc-bf11-4707-b26d-df691e242878,orangutang.io,available,,,high,high,10,,,,
 f023f164-0268-4c67-908e-95c547a44818,pfa.io,resell,,,high,low,3,,,,02/10/2026 20:00
 6d3a395b-68fe-4a6a-b6a9-412481be67d8,chicopee.io,available,38,,medium,low,8,unstoppable,,,04/10/2026 06:35
-b8059be8-09e3-4c44-876d-206bb43f370d,resilient.io,resell,,,high,low,9,"GoDaddy.com, LLC",04/06/2016 00:30,04/06/2027 00:30,26/09/2026 08:37
+b8059be8-09e3-4c44-876d-206bb43f370d,resilient.io,resell,,,high,low,9,"GoDaddy.com, LLC",04/06/2016 00:30,04/06/2027 00:30,08/10/2026 16:24
 a63cab1d-5450-4971-a747-198b7c3cdcd6,whoopeedoo.io,available,,,high,high,10,,,,
-49c284a4-449e-4601-b6cb-8c1bbbf89350,diffident.io,available,33.99,69.99,medium,low,9,namesilo,,,14/08/2026 07:01
-c49953df-0793-4444-9470-032f762abdba,frenchifying.io,available,,,medium,low,12,,,,
-35430f1e-6499-46dd-9330-efa819d29e39,ostensible.io,available,,,high,low,10,,,,
-1c07626d-4d9f-4577-9c5c-5fb129d34ffd,glassblowers.io,available,,,medium,low,12,,,,
-cb9e711c-c25a-4ad8-aee0-0ea68340c5cf,chores.io,resell,,,medium,low,6,"Sav.com, LLC",27/08/2019 17:02,27/08/2027 17:02,29/09/2026 17:46
-08c5efd9-edd5-484b-833f-fe53bfe08503,chasing.io,resell,,,high,low,7,,,,27/09/2026 06:54
-797815f5-1cd3-4739-9359-036e966f6073,sanatorium.io,resell,,,high,low,10,,,,05/10/2026 10:45
-a077ae5f-e26c-4fa9-884b-870a2c5fbcd1,accessorize.io,resell,,,high,high,11,"Sav.com, LLC",31/07/2021 14:31,31/07/2027 14:31,26/09/2026 01:20
-cddfa261-bd7a-47f8-ad50-c6b9057ae110,heals.io,resell,,,high,low,5,,,,04/10/2026 22:11
-818c5cd1-90d9-4ba0-9e20-1a461e4a4ca5,unwind.io,resell,,,high,low,6,"NameCheap, Inc.",12/04/2015 18:22,12/04/2027 18:22,05/10/2026 14:35
-98dd459f-15f9-4817-8e6f-e8c372aeacfb,anothers.io,available,,,high,medium,8,,,,
-7f892996-4761-4508-b481-e267b0797f35,waremaking.io,available,,,high,low,10,,,,
-f4891df2-f5cf-46e2-b1ff-b6800aa8fccc,excavate.io,resell,,,high,low,8,"GoDaddy.com, LLC",04/02/2015 13:20,04/02/2027 13:20,26/09/2026 05:55
-8532ea49-1a20-409b-b09e-d2de8c69d99f,petted.io,available,,,medium,low,6,,,,
-a9028bd8-5b14-421d-96e8-a4aa32ce082c,heartbreaker.io,available,,,high,high,12,,,,
-94c7aa82-3a07-4a94-8ff1-745f7e7b6f02,carbonise.io,available,,,high,high,9,,,,

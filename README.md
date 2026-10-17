@@ -1,10 +1,10 @@
-# Available .IO One-Word Domains (39,597)
+# Available .IO One-Word Domains (39,892)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C597%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C892%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **39,597 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **39,892 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 39,597 domains · **Median ask:** $570.56 · **High-demand under $2,500:** 363
+**Public extract:** 1,000 rows · **Live catalog:** 39,892 domains · **Median ask:** $559.11 · **High-demand under $2,500:** 374
 
-**.IO market:** 64,479 names available · Median registration $32 · Median renewal $61.75 · 1,065 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
+**.IO market:** 64,928 names available · Median registration $32 · Median renewal $61.75 · 1,067 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-16
+**Last updated:** 2026-10-17
 **Canonical page:** `https://unique.domains/tld/io`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | gond.io    | available | $38.99    | $69.99        | high           | low    | 4      | namesilo         |
 | hiding.io  | resell    | $34.98    | $75.98        | high           | low    | 6      | Porkbun LLC      |
-| lxii.io    | available | $38       | $75.98        | high           | low    | 4      | unstoppable      |
+| lxii.io    | available | $38       | $75.98        | medium         | low    | 4      | unstoppable      |
 | fearful.io | resell    | $53.99    | $73.99        | high           | low    | 7      | Dynadot Inc      |
 | paez.io    | available | $38.99    | $69.99        | high           | low    | 4      | namesilo         |
 | abm.io     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 39,597 live domains                                  |
+| 1,000-row public sample | 39,892 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 363 high-demand names under $2,500                   |
+| Basic exported fields   | 374 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IO One-Word Domains*. Version 2026-10-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

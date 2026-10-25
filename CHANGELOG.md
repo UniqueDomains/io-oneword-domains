@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-10-24
+## 2026-10-25
 
 - Refreshed the public extract to 1,000 rows.
 - Updated the live catalog reference to 23,652 domains.

@@ -1,10 +1,10 @@
-# Available .IO One-Word Domains (23,683)
+# Available .IO One-Word Domains (23,620)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C683%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C620%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,683 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,620 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,683 domains · **Median ask:** $693.13 · **High-demand under $2,500:** 2,182
+**Public extract:** 1,000 rows · **Live catalog:** 23,620 domains · **Median ask:** $473.81 · **High-demand under $2,500:** 2,463
 
-**.IO market:** 67,385 names available · Median registration $31.98 · Median renewal $61.75 · 1,069 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
+**.IO market:** 67,490 names available · Median registration $31.98 · Median renewal $61.75 · 1,067 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-26
+**Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/tld/io`
 **Best for:** founders, investors, studios
 
@@ -72,19 +72,19 @@ print(df.head())
 | fearful.io | resell    | $53.99    | $73.99        | high           | low    | 7      | Dynadot Inc      |
 | lxii.io    | available | $38       | $75.98        | high           | low    | 4      | unstoppable      |
 | abm.io     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| ropy.io    | available | $34.98    | $75.98        | high           | low    | 4      | namecheap        |
+| nwmp.io    | available | $28.89    | $53.50        | high           | high   | 4      | dynadot          |
 | bgp.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| agood.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
+| ropy.io    | available | $34.98    | $75.98        | high           | low    | 4      | namecheap        |
 | cef.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| appam.io   | available | $38       | —             | high           | low    | 5      | unstoppable      |
+| agood.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
 | cot.io     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| arced.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
+| appam.io   | available | $38       | —             | high           | low    | 5      | unstoppable      |
 | cpb.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| bipod.io   | available | $32       | $50           | high           | low    | 5      | cloudflare       |
+| arced.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
 | cpk.io     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| busts.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
+| bipod.io   | available | $32       | $50           | high           | low    | 5      | cloudflare       |
 | csi.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| crake.io   | available | $31.98    | $51.75        | high           | low    | 5      | spaceship        |
+| busts.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
 | cyt.io     | resell    | —         | —             | high           | low    | 3      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 23,683 live domains                                  |
+| 1,000-row public sample | 23,620 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,182 high-demand names under $2,500                 |
+| Basic exported fields   | 2,463 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-10-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IO One-Word Domains*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

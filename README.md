@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .io one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,820 domains · **Median ask:** $279.49 · **High-demand under $2,500:** 3,207
 
-**.IO market:** 67,946 names available · Median registration $31.98 · Median renewal $61.75 · 1,047 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
+**.IO market:** 67,957 names available · Median registration $31.98 · Median renewal $61.75 · 1,041 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
 
 **Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/tld/io`

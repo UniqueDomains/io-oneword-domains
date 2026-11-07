@@ -1,59 +1,15 @@
-# Available .IO One-Word Domains (22,673)
+# Available .IO One-Word Domains
 
-<p align="left">
-  <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
-  <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C673%20domains-6f42c1">
-  <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
-  <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
-</p>
+39,290 one-word .io names are free to register today. Cheapest first year $28.12 at Porkbun, renewal $51.80 there. 1,038 .io sales in the last 12 months, median $400.
 
-Daily-updated public extract of available and resale .io one-word domains from Unique Domains.
+Live page: [unique.domains/tld/io](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_tld_page)
 
-> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,673 domains** on the canonical page below.
+<img alt="updated: daily" src="https://img.shields.io/badge/updated-daily-0969da"> <img alt="extract: 1,000 rows" src="https://img.shields.io/badge/extract-1%2C000%20rows-8250df"> <img alt="formats: CSV | JSON" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b"> <img alt="licence: CC BY 4.0" src="https://img.shields.io/badge/licence-CC%20BY%204.0-2ea44f">
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,673 domains · **Median ask:** $277.07 · **High-demand under $2,500:** 3,199
+## Download
 
-**.IO market:** 67,983 names available · Median registration $31.98 · Median renewal $61.75 · 1,038 sales in the last 12 months · Median sale $400 (USD sales, last 12 months)
-
-**Last updated:** 2026-11-06
-**Canonical page:** `https://unique.domains/tld/io`
-**Best for:** founders, investors, studios
-
----
-
-<p align="center">
-  <a href="https://unique.domains/domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <b>⬇️ Download sample</b>: <a href="./io.csv">CSV</a> / <a href="./io.json">JSON</a>
-  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
-  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
-</p>
-
----
-
-➡️ **Investors:** [Create a Radar from this .IO search](https://unique.domains/domains/tld/io?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a naming Radar from this .IO search](https://unique.domains/domains/tld/io?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_start_project)  
-➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_api_docs)
-
----
-
-## 📦 What this repository contains
-
-This repository is the public extract for Unique Domains' .IO one-word domain catalog.
-
-### Files
-
-- `io.csv`, public CSV extract (1,000 rows)
-- `io.json`, public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md`, field definitions for the exported files
-- `METHODOLOGY.md`, scope, refresh policy, and caveats
-- `CHANGELOG.md`, latest snapshot metadata
-- `CITATION.cff`, machine-readable dataset citation metadata
-- `LICENSE`, terms for the public extract
-
-## 🧭 Quick start
+- [io.csv](https://github.com/UniqueDomains/io-oneword-domains/raw/main/io.csv), 1,000 rows
+- [io.json](https://github.com/UniqueDomains/io-oneword-domains/raw/main/io.json), 1,000 rows
 
 ```python
 import pandas as pd
@@ -62,105 +18,93 @@ df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/io-oneword-dom
 print(df.head())
 ```
 
-## 🗂️ Sample rows
+## Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bujj.io    | available | $31.98    | $51.75        | high           | high   | 4      | spaceship        |
-| hiding.io  | resell    | $34.98    | $75.98        | high           | low    | 6      | Porkbun LLC      |
-| csic.io    | available | $29.98    | $75.98        | high           | low    | 4      | namecheap        |
-| fearful.io | resell    | $53.99    | $73.99        | high           | low    | 7      | Dynadot Inc      |
-| lxii.io    | available | $38       | $75.98        | high           | low    | 4      | unstoppable      |
-| abm.io     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| nrca.io    | available | $31.98    | $51.75        | high           | high   | 4      | spaceship        |
-| bgp.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| nwmp.io    | available | $28.89    | $53.50        | high           | high   | 4      | dynadot          |
-| cef.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| ropy.io    | available | $34.98    | $75.98        | high           | low    | 4      | namecheap        |
-| cot.io     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| uksc.io    | available | $31.98    | $51.75        | high           | high   | 4      | spaceship        |
-| cpb.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| agood.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
-| cpk.io     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| appam.io   | available | $38       | —             | high           | low    | 5      | unstoppable      |
-| cyt.io     | resell    | —         | —             | high           | low    | 3      | —                |
-| arced.io   | available | $38.99    | $69.99        | high           | low    | 5      | namesilo         |
-| dol.io     | resell    | —         | —             | high           | low    | 3      | —                |
+The first 20 rows of the file, in the file's order.
 
-These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+| domain             | status    | purchase_price | renewal_price | attractiveness | demand | length |
+| ------------------ | --------- | -------------- | ------------- | -------------- | ------ | ------ |
+| avel.io            | resell    | —              | —             | high           | low    | 4      |
+| trustful.io        | resell    | —              | —             | high           | low    | 8      |
+| pashes.io          | available | —              | —             | high           | low    | 6      |
+| duvetyne.io        | available | —              | —             | high           | low    | 8      |
+| recount.io         | resell    | —              | —             | high           | low    | 7      |
+| nonsugar.io        | available | $31.98         | $51.75        | high           | high   | 8      |
+| cribs.io           | resell    | —              | —             | high           | low    | 5      |
+| squeezing.io       | available | $32            | $50           | high           | low    | 9      |
+| fittingly.io       | available | $34.98         | $75.98        | high           | low    | 9      |
+| introspectively.io | available | $38.99         | $69.99        | high           | high   | 15     |
+| callaloos.io       | available | —              | —             | high           | low    | 9      |
+| pant.io            | resell    | —              | —             | high           | low    | 4      |
+| insulting.io       | available | $38.99         | $69.99        | high           | low    | 9      |
+| tqm.io             | resell    | —              | —             | high           | low    | 3      |
+| oig.io             | resell    | —              | —             | high           | low    | 3      |
+| bestowed.io        | available | $38.99         | $69.99        | high           | low    | 8      |
+| underwriters.io    | available | $38            | —             | high           | low    | 12     |
+| educationist.io    | available | $38.99         | $69.99        | high           | low    | 12     |
+| wellmaker.io       | available | $32            | $50           | high           | low    | 9      |
+| newsweeklies.io    | available | —              | —             | high           | low    | 12     |
 
-## 🚀 Next move
+## What is in the data
 
-You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+- `domain`: Fully qualified domain name.
+- `status`: Current acquisition state for the domain in the public extract.
+- `purchase_price`: Visible purchase price when available.
+- `renewal_price`: Visible renewal price when available.
+- `attractiveness`: Public composite naming band used as a decision-support signal.
+- `demand`: Public buyer-pressure band when available.
+- `length`: Character count without the TLD.
+- `registrar`: Registrar name when known.
+- `created_at`: Creation timestamp when known.
+- `expires_at`: Expiry timestamp when known.
 
-| GitHub extract          | Unique Domains                                       |
-| ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 22,673 live domains                                  |
-| Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 3,199 high-demand names under $2,500                 |
-| No persistence          | Radar, saved search, and alerts                      |
-| No naming workflow      | Radar from a naming brief, shortlist, and next steps |
+Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
-If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
+## Methodology
 
-[Create Radar](https://unique.domains/domains/tld/io?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_create_radar) · [Start a naming Radar](https://unique.domains/domains/tld/io?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_pricing)
+- The files hold 1,000 rows of the 22,674 names in the live list today.
+- Every row is a one-word domain name.
+- Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
-## 🧱 Field summary
+More in [METHODOLOGY.md](./METHODOLOGY.md).
 
-- `domain`, Fully qualified domain name.
-- `status`, Current acquisition state for the domain in the public extract.
-- `purchase_price`, Visible purchase price when available.
-- `renewal_price`, Visible renewal price when available.
-- `attractiveness`, Public composite naming band used as a decision-support signal.
-- `demand`, Public buyer-pressure band when available.
-- `length`, Character count without the TLD.
-- `registrar`, Registrar name when known.
-- `created_at`, Creation timestamp when known.
-- `expires_at`, Expiry timestamp when known.
-- `status_verified_at`, When status was last established against the registry. Null means never checked.
+## Update policy
 
-See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
+- The files are rebuilt every night from the same export.
+- The snapshot is the day of the rebuild; each row's status is the last one stored, not a reading of that day.
+- The files hold the public extract, not the whole live list.
 
-## ⚠️ Methodology and caveats
+## How to cite
 
-This set includes 55,186 one-word .io domain names, referenced across 506 TLD variants for comparison, with a median ask of $2,843. The mix ranges from short brandable words such as mojo.io, half.io, and know.io to compound phrases like dogwalking.io and letitbe.io. When comparing these domains, weigh asking price against renewal cost, spelling simplicity, and trademark exposure before choosing one.
+> Unique Domains, One-word .io domains, https://unique.domains/tld/io, CC BY 4.0
 
-- 55,186 one-word .io domain names in this set
-- Median ask across the set: $2,843
-- Spans 506 TLD variants for price comparison
-- Mix of short brandable words and compound names
+Citation metadata: [CITATION.cff](./CITATION.cff). A DOI follows once Zenodo mints one.
 
-See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
+## Related datasets
 
-## 🔄 Update policy
+- [Every one-word domain](https://github.com/UniqueDomains/oneword-domains) (the hub)
 
-- This repository is refreshed regularly from the same export pipeline used for public dataset repos.
-- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
-- The README count targets the live catalog count from the public landing response when available.
-- The CSV and JSON files contain the public extract only and may not match the full live catalog size.
-- Stable historical references should be published via GitHub Releases outside this repository snapshot.
+One-word domains by ending:
 
-See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
+- [.com](https://github.com/UniqueDomains/com-oneword-domains), [page](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_page)
+- [.ai](https://github.com/UniqueDomains/ai-oneword-domains), [page](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_page)
+- [.app](https://github.com/UniqueDomains/app-oneword-domains), [page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_page)
+- [.co](https://github.com/UniqueDomains/co-oneword-domains), [page](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_page)
+- [.xyz](https://github.com/UniqueDomains/xyz-oneword-domains), [page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_page)
 
-## 📝 How to cite
+Lists:
 
-Suggested citation:
+- [Expired](https://github.com/UniqueDomains/expired-oneword-domains)
+- [Expiring](https://github.com/UniqueDomains/expiring-oneword-domains)
+- [Brandable](https://github.com/UniqueDomains/brandable-oneword-domains)
+- [Short](https://github.com/UniqueDomains/short-oneword-domains)
 
-> Unique Domains. *Available .IO One-Word Domains*. Version 2026-11-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_hub).
 
-GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
+## About Unique Domains
 
+[Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
 
-## 🔗 Related links
+Questions and corrections: `kai@unique.domains`
 
-- [Live .IO page](https://unique.domains/domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_open_search)
-- [.IO TLD page](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_page)
-- [All tracked TLDs](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_tld_hub)
-- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_methodology)
-- [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=related_pricing)
-- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_api_docs)
-- [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
-
-## 📬 Contact
-
-Questions, corrections, or partnership requests: `kai@unique.domains`
+[Start a Radar for .io names](https://unique.domains/tld/io?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=about)

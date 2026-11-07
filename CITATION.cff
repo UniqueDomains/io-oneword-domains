@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .IO One-Word Domains"
+title: "One-word .io domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-11-06"
-date-released: "2026-11-06"
+version: "2026-11-07"
+date-released: "2026-11-07"
 url: "https://unique.domains/tld/io"
 repository-code: "https://github.com/UniqueDomains/io-oneword-domains"
-license: "See LICENSE"
+license: CC-BY-4.0
 abstract: "Daily-updated public extract of available and resale .io one-word domains from Unique Domains."

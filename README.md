@@ -1,6 +1,6 @@
 # Available .IO One-Word Domains
 
-39,569 one-word .io names are free to register today. Cheapest first year $28.12 at Porkbun, renewal $51.80 there. 1,052 .io sales in the last 12 months, median $400.
+39,572 one-word .io names are free to register today. Cheapest first year $28.12 at Porkbun, renewal $51.80 there. 1,052 .io sales in the last 12 months, median $400.
 
 Live page: [unique.domains/tld/io](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_tld_page)
 
@@ -31,7 +31,7 @@ The first 20 rows of the file, in the file's order.
 | recount.io         | resell    | —              | —             | high           | low    | 7      |
 | nonsugar.io        | available | $31.98         | $51.75        | high           | high   | 8      |
 | cribs.io           | resell    | —              | —             | high           | low    | 5      |
-| squeezing.io       | available | $32            | $50           | high           | low    | 9      |
+| squeezing.io       | available | $38.99         | $69.99        | high           | low    | 9      |
 | fittingly.io       | available | $34.98         | $75.98        | high           | low    | 9      |
 | introspectively.io | available | $38.99         | $69.99        | high           | high   | 15     |
 | callaloos.io       | available | —              | —             | high           | low    | 9      |
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 21,765 names in the live list today.
+- The files hold 1,000 rows of the 21,610 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 

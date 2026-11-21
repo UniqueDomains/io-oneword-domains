@@ -1,10 +1,12 @@
 # Available .IO One-Word Domains
 
-1,000 real .io one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_home).
 
-Each word exists once on each ending. Unique.domains tracks [87,726 names on .io](https://unique.domains/tld/io); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+1,000 real .io one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-39,702 one-word .io names are free to register today. Cheapest first year $28.12 at Porkbun, renewal $51.80 there. 1,043 .io sales in the last 12 months, median $400.
+Each word exists once on each ending. Unique.domains tracks [87,788 names on .io](https://unique.domains/tld/io); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+
+39,822 one-word .io names are free to register today. Cheapest first year $28.12 at Porkbun, renewal $51.80 there. 1,041 .io sales in the last 12 months, median $400.
 
 Live page: [unique.domains/tld/io](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_tld_page)
 
@@ -34,6 +36,7 @@ The first 20 rows of the file, in the file's order.
 | duvetyne.io        | available | —              | —             | high           | low    | 8      |
 | recount.io         | resell    | —              | —             | high           | low    | 7      |
 | nonsugar.io        | available | $31.98         | $51.75        | high           | high   | 8      |
+| microparsec.io     | available | $38            | —             | high           | low    | 11     |
 | cribs.io           | resell    | —              | —             | high           | low    | 5      |
 | squeezing.io       | available | $38.99         | $69.99        | high           | low    | 9      |
 | fittingly.io       | available | $34.98         | $75.98        | high           | low    | 9      |
@@ -47,7 +50,6 @@ The first 20 rows of the file, in the file's order.
 | underwriters.io    | available | $38            | —             | high           | low    | 12     |
 | educationist.io    | available | $38.99         | $69.99        | high           | low    | 12     |
 | wellmaker.io       | available | $32            | $50           | high           | low    | 9      |
-| newsweeklies.io    | available | —              | —             | high           | low    | 12     |
 
 ## What is in the data
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 21,089 names in the live list today.
+- The files hold 1,000 rows of the 21,144 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 

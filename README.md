@@ -4,9 +4,9 @@
 
 1,000 real .io one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [87,888 names on .io](https://unique.domains/tld/io); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [87,904 names on .io](https://unique.domains/tld/io); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-39,952 one-word .io names are free to register today. Cheapest first year $28.12 at Porkbun, renewal $51.80 there. 1,040 .io sales in the last 12 months, median $400.
+40,075 one-word .io names are free to register today, from $20.91 the first year at Porkbun. Renewal there $51.80, twice the first year. 1,036 .io sales in the last 12 months, median $400.
 
 Live page: [unique.domains/tld/io](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_io_oneword_domains&utm_content=top_tld_page)
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 21,145 names in the live list today.
+- The files hold 1,000 rows of the 21,079 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
